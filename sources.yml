@@ -3,6 +3,7 @@
 # Fields
 #   id        short handle the code uses; adapters in the code repo are matched by `adapter`
 #   name      how the agent names the source in an answer
+#   about     one plain line for neighbors on the sources page: what this source tells Knowy
 #   url       the page a neighbor can open to check for themselves (for the notes themselves, the site, not GitHub)
 #   type      api | feed | page | repo-file
 #   adapter   which adapter in neighborhood-agent reads it (omit = listed but not wired yet)
@@ -13,7 +14,8 @@
 
 sources:
   - id: repo
-    name: the neighborhood notes
+    name: The neighborhood notes
+    about: Events, places, people who agreed to be listed, proposals, and corrections that neighbors added and stewards reviewed.
     url: https://knowy.org/sources
     type: repo-file
     adapter: repo
@@ -24,6 +26,7 @@ sources:
 
   - id: outer-dadas-recs
     name: Outer Dadas Recs
+    about: 'A year of the Outer Dadas group''s recommendations: plumbers, pediatricians, daycares, bike shops, and more, with how many vouched and when.'
     url: https://knowy.org/sources
     type: repo-file
     adapter: recs
@@ -35,7 +38,8 @@ sources:
       group: Outer Dadas
 
   - id: outersunset-today
-    name: outersunset.today
+    name: outersunset.today events
+    about: What's happening around the neighborhood, today and the weeks ahead.
     url: https://outersunset.today
     type: api
     adapter: neighborhood-api
@@ -48,7 +52,8 @@ sources:
       query: "start_after={today}&start_before={today+45}&limit=100"
 
   - id: outersunset-today-menus
-    name: outersunset.today
+    name: outersunset.today pizza and news
+    about: The daily Arizmendi pizza and local news headlines.
     url: https://outersunset.today
     type: api
     adapter: supabase-rest
@@ -73,6 +78,7 @@ sources:
 
   - id: sunsetboard
     name: sunsetboard.org
+    about: Flyers found on poles and boards around the Sunset, turned into a calendar.
     url: https://sunsetboard.org
     type: feed
     adapter: ics
@@ -85,6 +91,7 @@ sources:
 
   - id: outersunset-us
     name: outersunset.us
+    about: 'The community guide: local groups by kind, and how to show up to one.'
     url: https://outersunset.us
     type: api
     adapter: llm-txt
@@ -107,6 +114,7 @@ sources:
 
   - id: neighborhood-api
     name: Neighborhood API
+    about: A shared feed of neighborhood events, groups, and plans, once it's hosted for the Sunset.
     url: https://github.com/The-Relational-Technology-Project/neighborhood-api
     type: api
     adapter: neighborhood-api
@@ -118,6 +126,7 @@ sources:
 
   - id: sf-development-pipeline
     name: SF Development Pipeline (SF Planning)
+    about: Housing and building projects in the Sunset, from first filing to construction.
     url: https://data.sf.gov/d/6jgi-cpb4
     type: api
     adapter: socrata
@@ -150,6 +159,7 @@ sources:
 
   - id: sf-planning-projects
     name: SF Planning project records
+    about: Planning applications filed in the Sunset ZIP codes, with status and decisions.
     url: https://data.sf.gov/d/qvu5-m3a2
     type: api
     adapter: socrata
@@ -174,6 +184,7 @@ sources:
 
   - id: sf-311
     name: SF 311 Cases
+    about: 'Reports to 311 in the Outer Sunset: potholes, graffiti, trash, trees, and how they''re going.'
     url: https://data.sf.gov/d/vw6y-z8j6
     type: api
     live_query: "311"
@@ -201,6 +212,7 @@ sources:
 
   - id: sunset-social-club
     name: sunsetsocialclub.org
+    about: The Sunset Social Club's gatherings, once the club has a calendar feed.
     url: https://sunsetsocialclub.org
     type: page
     refresh: 24h
@@ -210,6 +222,7 @@ sources:
 
   - id: welcome-packet
     name: sf.welcomepacket.org
+    about: Welcome packets for new neighbors.
     url: https://sf.welcomepacket.org
     type: page
     refresh: 7d
@@ -219,6 +232,7 @@ sources:
 
   - id: cozy-corner
     name: cozycorner.place
+    about: Cozy Corner's site.
     url: https://cozycorner.place
     type: page
     refresh: 24h
@@ -227,6 +241,7 @@ sources:
 
   - id: sunset-events-feed
     name: Sunset Events (Benjamin Von Wong)
+    about: Every public Inner and Outer Sunset event, gathered daily.
     url: ""
     type: feed
     refresh: 24h
@@ -235,6 +250,7 @@ sources:
 
   - id: noaa-tides
     name: NOAA Tides and Currents
+    about: High and low tides at the Golden Gate station.
     url: https://tidesandcurrents.noaa.gov/stationhome.html?id=9414290
     type: api
     adapter: noaa-tides
@@ -247,6 +263,7 @@ sources:
 
   - id: open-meteo-marine
     name: Open-Meteo marine
+    about: Ocean temperature and waves off Ocean Beach.
     url: https://open-meteo.com/en/docs/marine-weather-api
     type: api
     adapter: open-meteo-marine
@@ -260,6 +277,7 @@ sources:
 
   - id: open-meteo-air
     name: Open-Meteo air quality
+    about: Air quality in the Outer Sunset.
     url: https://open-meteo.com/en/docs/air-quality-api
     type: api
     adapter: open-meteo-air
@@ -282,6 +300,7 @@ sources:
 
   - id: plover-season
     name: GGNRA snowy plover protection season
+    about: Whether the snowy plovers' protection season is on, and what it asks of dog walkers.
     url: https://www.nps.gov/goga/planyourvisit/oceanbeach.htm
     type: repo-file
     adapter: plover-season
@@ -292,6 +311,7 @@ sources:
 
   - id: nps-alerts
     name: NPS alerts for Golden Gate
+    about: Park alerts from Golden Gate National Recreation Area, like beach fire rules and closures.
     url: https://www.nps.gov/goga/planyourvisit/conditions.htm
     type: api
     adapter: nps-alerts
@@ -306,6 +326,7 @@ sources:
 
   - id: inaturalist
     name: iNaturalist
+    about: Wildlife and plants neighbors have spotted and logged nearby.
     url: https://www.inaturalist.org/observations?nelat=37.78&nelng=-122.47&swlat=37.72&swlng=-122.52
     type: api
     adapter: inaturalist
@@ -322,6 +343,7 @@ sources:
 
   - id: airnow
     name: AirNow
+    about: Official air quality readings.
     url: https://www.airnow.gov/
     type: api
     refresh: 1h
@@ -330,6 +352,7 @@ sources:
 
   - id: opensfhistory
     name: OpenSFHistory
+    about: Historic photos of the Sunset.
     url: https://opensfhistory.org/
     type: page
     refresh: 30d
