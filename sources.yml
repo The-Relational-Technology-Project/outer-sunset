@@ -22,6 +22,18 @@ sources:
     status: live
     note: Events, corrections, proposals, people, places, resources, constituents. Always wins over fetched data when they conflict.
 
+  - id: outer-dadas-recs
+    name: Outer Dadas Recs
+    url: https://github.com/The-Relational-Technology-Project/outer-sunset/blob/main/recs/outer-dadas.yml
+    type: repo-file
+    adapter: recs
+    refresh: 5m
+    license: Compiled by the Outer Dadas group from their chat (June 2025 to July 2026), as of Aug 4, 2026; added by a member. No recommender names; individuals' personal numbers left out.
+    status: live
+    config:
+      file: recs/outer-dadas.yml
+      group: Outer Dadas
+
   - id: outersunset-today
     name: outersunset.today
     url: https://outersunset.today

@@ -16,6 +16,7 @@ The code that runs the agent lives in a separate repo, [neighborhood-agent](http
 | `sources.yml` | Every data source the agent reads: url, type, refresh cadence, license note. If it isn't listed here, the agent doesn't read it | Stewards |
 | `people.yml` | Public points of contact who have agreed to be listed (org, role, how to reach) | Stewards, with each person's yes |
 | `places.yml` | Businesses and spots: name, address, hours if known, where the hours came from, last verified | Anyone, by PR |
+| `recs/` | Neighbors' recommendations, one file per source (the Outer Dadas recs are the first): vouch counts and dates, no recommender names, no personal numbers without a yes | Stewards, by PR |
 | `resources.yml` | Systems neighbors already built and can use: the sharing library, the flyer board, the welcome packet | Anyone, by PR |
 | `events/` | One file per committed event, `YYYY-MM-DD-slug.md` with frontmatter | Neighbors via the agent, or by hand |
 | `proposals/` | Open asks from neighbors: a build day, a tool library, a question for stewards | Neighbors via the agent, or by hand |

@@ -1,0 +1,2249 @@
+# Outer Dadas Recs: recommendations from the Outer Dadas group chat, as of Aug 4, 2026.
+# One entry per rec. Edit by PR: add a +1 (raise vouches, update when), add a rec, or flag one that's gone downhill.
+# Personal phone numbers stay out unless the person said yes. See privacy below.
+
+meta:
+  title: Outer Dadas Recs
+  from: The Outer Dadas group chat (dads in the Outer Sunset), about 4,900 messages from June 2025 through July
+    2026, cross-checked against the group's earlier knowledge base
+  as_of: '2026-08-04'
+  added: '2026-11-06'
+  how_to_read: vouches is how many different dads vouched for it (their own good experience, a +1, or a seconded);
+    when is when, so you can judge freshness
+  caveat: These are neighbors' experiences, not vetted endorsements. Only things dads spoke well of are included.
+    For big jobs, get multiple quotes.
+  privacy: No recommender is named. Individuals who are reached only by a personal phone or email are listed by
+    first name and trade without the number; ask in Outer Dadas for it. Add a number here only with that person's
+    yes.
+  how_to_reach: For a contact that isn't listed, ask in the Outer Dadas chat; the recommender usually pipes up.
+    Not in the group? Ask a steward (STEWARDS.md).
+  highlights:
+  - The most unanimous rec in group history is Sonic internet — two separate threads (Nov '25 and Apr '26) drew
+    15+ dads saying some version of "best ISP I've ever had." Nothing else comes close.
+  - 'The group''s other favorites, by pile-on: the Specialized Globe Haul cargo e-bike ( ×7), Golden Gate Pediatrics
+    ( ×6), SF Bay Pediatrics ( ×5), SF Tots soccer ( ×5), The New Wheel bike shop ( ×5), Mark''s $35 mobile car
+    detailing ( ×5), Tiny Tots diaper service ( ×4), Amy Clark lactation support ( ×4), Music Together classes (
+    ×4), Two Pitchers Brewing ( ×4), and Natural Resources'' parenting classes ( ×4).'
+  - The most trusted tradespeople are individuals, not companies. Many of the strongest recs are one person and
+    a phone number — Meir the plumber, Ronan the electrician, Marcio the painter, José the gardener. That's the
+    real value of a neighborhood network.
+  - Cargo e-bikes are the group's signature purchase. Three separate threads, more than a dozen owners, and multiple
+    dads describing their bike as a car replacement.
+  - 'Recurring themes: Kaiser-covered doulas, forest and outdoor preschools, get-three-quotes culture for home projects,
+    and a strong preference for keeping money in the neighborhood.'
+recs:
+- name: Meir
+  category: Home repairs & trades
+  subcategory: Plumbers
+  what: Neighborhood plumber who's worked for several dads; "always well done." Once diagnosed a mystery gas-line
+    problem in 10 minutes, having arrived in 2.
+  vouches: 3
+  when: Nov '25–Jun '26
+  contact: ask in Outer Dadas
+- name: Cabrillo Plumbing
+  category: Home repairs & trades
+  subcategory: Plumbers
+  what: '"Can''t speak highly enough"; also did a water heater + heat pump install.'
+  vouches: 3
+  when: Jul–Aug '25
+  links:
+  - label: discovercabrillo.com
+    url: https://discovercabrillo.com/
+- name: Discount Plumbing Rooter
+  category: Home repairs & trades
+  subcategory: Plumbers
+  what: Water heater replacement and drain descaling; communicative. "Ask for Javier!"
+  vouches: 2
+  when: Jun '25
+  links:
+  - label: Yelp
+    url: https://www.yelp.com/biz/discount-plumbing-rooter-san-francisco-4
+- name: Chris (Apollo Heating & Ventilating)
+  category: Home repairs & trades
+  subcategory: Plumbers
+  what: Responsive and knowledgeable; ~$85 visit fee and guarantees work for a year.
+  vouches: 1
+  when: Jun '26
+  links:
+  - label: apolloheatingsf.com
+    url: https://www.apolloheatingsf.com/
+- name: Chris — Outer Sunset local plumber
+  category: Home repairs & trades
+  subcategory: Plumbers
+  what: '"Local dude, fair prices, great work."'
+  vouches: 1
+  when: Jul '25
+  contact: ask in Outer Dadas
+- name: Fast Response Plumbing
+  category: Home repairs & trades
+  subcategory: Plumbers
+  what: (415) 881-1761. "Ask for Billy."
+  vouches: 1
+  when: Nov '25
+  links:
+  - label: fastresponseplumbingsf.com
+    url: https://www.fastresponseplumbingsf.com/
+- name: Red Wrench Plumbing
+  category: Home repairs & trades
+  subcategory: Plumbers
+  what: '"Did great work for me."'
+  vouches: 1
+  when: Aug '25
+  links:
+  - label: Yelp
+    url: https://www.yelp.com/biz/red-wrench-plumbing-san-francisco
+- name: A local plumbing company at 40th & Irving
+  category: Home repairs & trades
+  subcategory: Plumbers
+  what: '"Good experience and they''re local."'
+  vouches: 1
+  when: Jun '25
+  links:
+  - label: map link from the chat
+    url: https://maps.app.goo.gl/X3uz5PVjDfdaW3219
+- name: Reasonable Mike
+  category: Home repairs & trades
+  subcategory: Plumbers
+  what: plumber/handyman.
+  from_earlier_knowledge_base: true
+- name: Ronan
+  category: Home repairs & trades
+  subcategory: Electrical
+  what: 'Electrician/handyman used for jobs big and small: "always really high quality work and fairly priced."
+    Gave the most honest quote of several for a panel question — no unnecessary overhaul.'
+  vouches: 3
+  when: Oct '25–Jan '26
+  contact: ask in Outer Dadas
+- name: Chasov Electrical
+  category: Home repairs & trades
+  subcategory: Electrical
+  what: Great experience on a whole-house rewire (knob & tube removal), chosen from 6 quotes.
+  vouches: 1
+  when: Oct '25
+  links:
+  - label: chasov.com
+    url: https://www.chasov.com/
+- name: Century Electric
+  category: Home repairs & trades
+  subcategory: Electrical
+  what: '"Good folks," handled tricky installs including a chandelier in a high stairwell.'
+  vouches: 1
+  when: Jul '25
+  links:
+  - label: centuryelectric.com
+    url: https://centuryelectric.com/
+- name: Odie
+  category: Home repairs & trades
+  subcategory: Electrical
+  what: Low-voltage work (ethernet runs, etc.). "Had a great experience with him."
+  vouches: 1
+  when: Jun '26
+  contact: ask in Outer Dadas
+- name: Building Efficiency
+  category: Home repairs & trades
+  subcategory: Heating, HVAC & electrification
+  what: '2037 Irving St. Premium local shop for heat pumps, mini-splits, and full-system electrification; multiple
+    dads plus one who works with them professionally: "very professional and do great work."'
+  vouches: 4
+  when: Aug '25–Jun '26
+  links:
+  - label: buildingefficiency.net
+    url: https://buildingefficiency.net/
+- name: Associated Heating
+  category: Home repairs & trades
+  subcategory: Heating, HVAC & electrification
+  what: Full system replacement; "they were great" and the best price of ~5 vendors.
+  vouches: 1
+  when: Aug '25
+  links:
+  - label: associatedheatingsf.com
+    url: http://www.associatedheatingsf.com/
+- name: Calvey Heating & Air
+  category: Home repairs & trades
+  subcategory: Heating, HVAC & electrification
+  what: '"I work with these guys a lot. They are awesome." (May not take small jobs.)'
+  vouches: 1
+  when: Jun '25
+  links:
+  - label: calveyheatingandair.com
+    url: https://www.calveyheatingandair.com/
+- name: Duct Pros
+  category: Home repairs & trades
+  subcategory: Heating, HVAC & electrification
+  what: '"Fantastic" for chimney cleaning; also does HVAC work.'
+  vouches: 1
+  when: Jun '25
+  links:
+  - label: Yelp
+    url: https://www.yelp.com/biz/duct-pros-san-francisco-2
+- name: Cristino
+  category: Home repairs & trades
+  subcategory: Heating, HVAC & electrification
+  what: Dryer vent cleaning; good pricing, good work.
+  vouches: 1
+  when: Mar '26
+  contact: ask in Outer Dadas
+- name: Harvest Thermal
+  category: Home repairs & trades
+  subcategory: Heating, HVAC & electrification
+  what: Heat-pump "thermal battery" system replacing furnace + water heater; they do local installs.
+  vouches: 1
+  when: Jun '25
+  links:
+  - label: harvest-thermal.com
+    url: https://www.harvest-thermal.com/
+- name: QuitCarbon
+  category: Home repairs & trades
+  subcategory: Heating, HVAC & electrification
+  what: Free electrification-planning help.
+  from_earlier_knowledge_base: true
+  links:
+  - label: quitcarbon.com
+    url: https://www.quitcarbon.com
+- name: Sherif Soliman — Rain Leak Detection
+  category: Home repairs & trades
+  subcategory: Roof, leaks, chimney & skylights
+  what: Sunset local who knows these houses; found a leak that had confounded multiple other contractors.
+  vouches: 2
+  when: Jan '26
+  links:
+  - label: Yelp
+    url: https://m.yelp.com/biz/rain-leak-detection-san-francisco-2
+- name: ELM Roofing Contractors
+  category: Home repairs & trades
+  subcategory: Roof, leaks, chimney & skylights
+  what: Did a full roof; fixed a later leak in under 24 hours.
+  vouches: 1
+  when: Feb '26
+  links:
+  - label: listing from the chat
+    url: https://share.google/2ZX95pv0NTokR6kXo
+- name: Tony — Rescue Roofing (Daly City)
+  category: Home repairs & trades
+  subcategory: Roof, leaks, chimney & skylights
+  what: Fixed a storm leak, "did a great job, would use him again."
+  vouches: 1
+  when: Nov '25
+  links:
+  - label: Yelp
+    url: https://www.yelp.com/biz/rescue-roofing-daly-city
+- name: Mares & Dow
+  category: Home repairs & trades
+  subcategory: Roof, leaks, chimney & skylights
+  what: Skylight specialists; "they're great" (can be hard to schedule).
+  vouches: 1
+  when: Feb '26
+  links:
+  - label: maresdow.com
+    url: https://maresdow.com/
+- name: Reno — Gold Chimney
+  category: Home repairs & trades
+  subcategory: Roof, leaks, chimney & skylights
+  what: Great work capping a chimney.
+  vouches: 1
+  when: Jun '26
+  links:
+  - label: goldchimney.com
+    url: https://www.goldchimney.com/
+- name: Excelsior Roofing (praised) and Armstrong (good for flat roofs)
+  category: Home repairs & trades
+  subcategory: Roof, leaks, chimney & skylights
+  what: Excelsior Roofing (praised) and Armstrong (good for flat roofs).
+  from_earlier_knowledge_base: true
+- name: Kevin Leonard — American Home Renewal
+  category: Home repairs & trades
+  subcategory: Windows & glass
+  what: '"They do a great job and Kevin is really knowledgeable."'
+  vouches: 1
+  when: Jan '26
+  links:
+  - label: renewal.com
+    url: https://www.renewal.com/
+- name: Miranda Brothers Glass & Windows (Richard)
+  category: Home repairs & trades
+  subcategory: Windows & glass
+  what: Nice, honest, good work on living-room windows.
+  vouches: 1
+  when: Jan '26
+  links:
+  - label: Yelp
+    url: https://www.yelp.com/biz/miranda-brothers-glass-and-windows-san-francisco-2
+- name: Acacia Glass
+  category: Home repairs & trades
+  subcategory: Windows & glass
+  what: 3452 Geary Blvd. Used twice (came via a contractor friend's rec); not the cheapest, but efficient — double-pane
+    replacements in and out in a day.
+  vouches: 1
+  when: Jan + Jul '26
+  links:
+  - label: Yelp
+    url: https://www.yelp.com/biz/acacia-glass-company-san-francisco
+- name: Window shopping tips
+  category: Home repairs & trades
+  subcategory: Windows & glass
+  what: vendors that sell windows usually also install — dads suggested Murray Window & Door and Argonaut Window
+    & Door, with Home Depot as the budget full-service option. For ocean-side windows, check wind-pressure ratings.
+    (Jun '25)
+  links:
+  - label: Murray Window & Door
+    url: https://murraywindow.com/
+  - label: Argonaut Window & Door
+    url: https://www.argowin.com/
+- name: Eagle Window Cleaning
+  category: Home repairs & trades
+  subcategory: Windows & glass
+  what: Hired a couple of times for high home windows.
+  vouches: 1
+  when: Aug '25
+  links:
+  - label: eaglewindowcleaningsf.com
+    url: https://eaglewindowcleaningsf.com/
+- name: Marcio
+  category: Home repairs & trades
+  subcategory: Painters
+  what: '"Did a great job painting our house exterior" (does interior too); +1 for a great nursery job.'
+  vouches: 2
+  when: Jul '25
+  contact: ask in Outer Dadas
+- name: J Wood Painting
+  category: Home repairs & trades
+  subcategory: Painters
+  what: Exterior; not the cheapest but among the most professional of the quotes.
+  vouches: 1
+  when: Feb '26
+  links:
+  - label: jwoodpainting.com
+    url: https://www.jwoodpainting.com/
+- name: Caesar Lopez
+  category: Home repairs & trades
+  subcategory: Painters
+  what: Interior work, "nice work."
+  vouches: 1
+  when: Feb '26
+  contact: ask in Outer Dadas
+- name: Bac Hoang
+  category: Home repairs & trades
+  subcategory: Painters
+  what: 'specialty painter: "excellent faux painting and high-end plaster."'
+  vouches: 1
+  when: Jul '25
+- name: Phil — fellow Outer Dada, carpenter
+  category: Home repairs & trades
+  subcategory: Handymen & carpentry
+  what: recommended "with the absolute strongest amount of conviction for any carpentry job you could imagine. A1,
+    top notch work, demeanor, and reasonable pricing." Ask in the chat for his contact.
+  vouches: 3
+  when: Apr '26
+- name: Austin
+  category: Home repairs & trades
+  subcategory: Handymen & carpentry
+  what: 'Restored antique locks and doorknobs: "the holy grail of tradesmen. Great communication, great work, fair
+    price."'
+  vouches: 1
+  when: Apr '26
+  links:
+  - label: Yelp link from the chat
+    url: https://yelp.to/mAPKZJRWnc
+- name: Pavel
+  category: Home repairs & trades
+  subcategory: Handymen & carpentry
+  what: '"Incredible work ethic," lots of great work over the years; now specializing in bathrooms.'
+  vouches: 1
+  when: Nov '25
+  contact: ask in Outer Dadas
+- name: Garage Door Pros & Automatic Gates
+  category: Home repairs & trades
+  subcategory: Garage doors & locksmiths
+  what: contact Bar, (415) 630-0269. One of the cheapest of ~10 quotes (~$4,800 side-mount door), and genuinely
+    nice to deal with.
+  vouches: 1
+  when: Jul '25
+  links:
+  - label: Yelp link
+    url: https://yelp.to/w9XTl3TVym
+- name: Cassidy Locksmith
+  category: Home repairs & trades
+  subcategory: Garage doors & locksmiths
+  what: kc@cassidylocksmith.com. Mobile locksmith, "great experience."
+  vouches: 1
+  when: Jun '25
+  links:
+  - label: Yelp
+    url: https://www.yelp.com/biz/cassidy-locksmith-san-francisco
+- name: Lock World
+  category: Home repairs & trades
+  subcategory: Garage doors & locksmiths
+  what: 2935 Geary Blvd. Replaced a lost car key fob for about half the dealer's $700 quote.
+  vouches: 1
+  when: Dec '25
+  links:
+  - label: lockworld.com
+    url: https://lockworld.com/
+- name: Short-notice locksmith
+  category: Home repairs & trades
+  subcategory: Garage doors & locksmiths
+  what: ''
+  vouches: 1
+  when: Oct '25
+  links:
+  - label: Yelp link from the chat
+    url: https://yelp.to/rOcaTE8vgM
+- name: All State Appliance
+  category: Home repairs & trades
+  subcategory: Appliances
+  what: 'Used several times; rule of thumb: repair ≈ half the cost of replacement. (Quotes can vary — worth a second
+    opinion on big jobs.)'
+  vouches: 1
+  when: Oct '25
+  contact: ask in Outer Dadas
+- name: Cherin's Appliance
+  category: Home repairs & trades
+  subcategory: Appliances
+  what: 'Two dads independently and instantly: "Go to Cherins" for a kitchen appliance package.'
+  vouches: 2
+  when: Jul '26
+  links:
+  - label: cherinsappliance.com
+    url: https://www.cherinsappliance.com/
+- name: King
+  category: Home repairs & trades
+  subcategory: Pest & mold
+  what: 'Ants: sprays interior + exterior walls, ~$100, once a year. "Only thing that worked."'
+  vouches: 2
+  when: Feb '26
+  contact: ask in Outer Dadas
+- name: Pest control & insulation company
+  category: Home repairs & trades
+  subcategory: Pest & mold
+  what: '"Lifesavers" for mice in a garage/condo; they guarantee results and return free.'
+  vouches: 1
+  when: Oct '25
+  links:
+  - label: Yelp link from the chat
+    url: https://yelp.to/XY3P6Uqlg7
+- name: Termite exterminator
+  category: Home repairs & trades
+  subcategory: Pest & mold
+  what: '"Great job in the past; would happily use them again."'
+  vouches: 1
+  when: Jun '26
+  links:
+  - label: Yelp link from the chat
+    url: https://yelp.to/tCGghfUJmp
+- name: Cheryl — Moldbusters
+  category: Home repairs & trades
+  subcategory: Pest & mold
+  what: Get an inspection before remediation (lots of scammers out there); "Cheryl is awesome, has an MS in microbiology/immunology."
+    Independently referred by a member's realtor too.
+  vouches: 2
+  when: Apr–May '26
+  links:
+  - label: moldbusters.net
+    url: https://moldbusters.net/
+- name: Sandra & crew
+  category: Home repairs & trades
+  subcategory: Cleaning, organizing & hauling
+  what: House cleaning, $180/visit with a team; very thorough, responsive to feedback.
+  vouches: 1
+  when: Nov '25
+  contact: ask in Outer Dadas
+- name: Danielle Space Cleaning
+  category: Home repairs & trades
+  subcategory: Cleaning, organizing & hauling
+  what: '"Very reliable and has done a great job always."'
+  vouches: 1
+  when: Dec '25
+  contact: ask in Outer Dadas
+- name: Beatriz
+  category: Home repairs & trades
+  subcategory: Cleaning, organizing & hauling
+  what: House cleaning; "always does good work."
+  vouches: 1
+  when: Oct '25
+  contact: ask in Outer Dadas
+- name: Ger — Jokers Wild
+  category: Home repairs & trades
+  subcategory: Cleaning, organizing & hauling
+  what: trash/compost/recycling bin cleaning (and did a great couch clean too). "Can't recommend this nice fella
+    enough"; donates jobs under $100 to a mental-health charity. Ask in the chat for his contact.
+  vouches: 3
+  when: Jul '26
+- name: Danit — Sorted Spaces Home Organizing
+  category: Home repairs & trades
+  subcategory: Cleaning, organizing & hauling
+  what: Move logistics and systems-level home organizing; "absolutely worth it."
+  vouches: 2
+  when: May '26
+  links:
+  - label: sortedspacessf.com
+    url: https://www.sortedspacessf.com/
+- name: Santos
+  category: Home repairs & trades
+  subcategory: Cleaning, organizing & hauling
+  what: 'Yard clearing + hauling: 8-person crew, done in under an hour, same-day availability, reasonable.'
+  vouches: 2
+  when: Mar '26
+  links:
+  - label: Yelp link from the chat
+    url: https://yelp.to/2MQga3-4n_
+- name: Wally (and son)
+  category: Home repairs & trades
+  subcategory: Cleaning, organizing & hauling
+  what: Junk hauling; "very efficient, cleaned out my garage."
+  vouches: 1
+  when: Apr '26
+  links:
+  - label: Yelp link from the chat
+    url: https://yelp.to/EbqQdFlb6c
+- name: Debris hauling
+  category: Home repairs & trades
+  subcategory: Cleaning, organizing & hauling
+  what: Good experience with tree-trimming removal.
+  vouches: 1
+  when: Sep '25
+  links:
+  - label: Yelp link from the chat
+    url: https://yelp.to/Zjti1QXbQl
+- name: Rug deep-cleaning shop
+  category: Home repairs & trades
+  subcategory: Cleaning, organizing & hauling
+  what: Two dads used the same shop, both happy.
+  vouches: 2
+  when: Jul '25
+  links:
+  - label: map link from the chat
+    url: https://maps.app.goo.gl/UcQB4chE4XRcMqDu8
+- name: Ridwell
+  category: Home repairs & trades
+  subcategory: Cleaning, organizing & hauling
+  what: 'Subscription pickup for the hard stuff: styrofoam, worn-out clothes/shoes, and more.'
+  vouches: 3
+  when: Jan + Apr '26
+  links:
+  - label: ridwell.com
+    url: https://www.ridwell.com/
+- name: JG (upholstery)
+  category: Home repairs & trades
+  subcategory: Upholstery & repairs
+  what: Good work reupholstering; not cheap, not fast, cash only, nice people.
+  vouches: 1
+  when: Apr '26
+  links:
+  - label: listing from the chat
+    url: https://share.google/cjSRW2IDZwNtgHorp
+- name: Stroller Spa
+  category: Home repairs & trades
+  subcategory: Upholstery & repairs
+  what: Stroller repairs by appointment (storefront closed, service continues).
+  vouches: 1
+  when: Nov '25
+  links:
+  - label: booking site
+    url: https://stroller-spa.square.site/
+- name: SL Remodel (Idan)
+  category: Remodels & big projects
+  subcategory: General contractors, design-build & architects
+  what: '"Big fan"; specializes in Sunset-style homes over garages ("knows this type of house inside and out") —
+    garage buildouts and downstairs projects.'
+  vouches: 2
+  when: Nov '25 + Jul '26
+  links:
+  - label: slremodel.com
+    url: https://slremodel.com/
+- name: Jose Mireles
+  category: Remodels & big projects
+  subcategory: General contractors, design-build & architects
+  what: GC for a full expansion and gut remodel.
+  vouches: 1
+  when: Nov '25
+  contact: ask in Outer Dadas
+- name: Jason Lennon — Urban Crew Construction
+  category: Remodels & big projects
+  subcategory: General contractors, design-build & architects
+  what: Bathroom install + room reshaping; "HIGHLY recommend."
+  vouches: 1
+  when: Nov '25
+  contact: ask in Outer Dadas
+- name: DiLuzio / The Home Team (Millbrae)
+  category: Remodels & big projects
+  subcategory: General contractors, design-build & architects
+  what: day-to-day contact Joel Ansaldo, (650) 678-0449. Kitchen/bath remodel, rehired for a downstairs buildout;
+    also built a backyard shed for under $15k.
+  vouches: 1
+  when: Apr '26
+  links:
+  - label: thehometeamdbt.com
+    url: https://www.thehometeamdbt.com/
+- name: Green Group Remodeling
+  category: Remodels & big projects
+  subcategory: General contractors, design-build & architects
+  what: 'Large project: kitchen, floors, painting, panel upgrade.'
+  vouches: 1
+  when: Apr '26
+  links:
+  - label: greengroupremodeling.com
+    url: https://www.greengroupremodeling.com/
+- name: MD Buildworks
+  category: Remodels & big projects
+  subcategory: General contractors, design-build & architects
+  what: '"A great guy in the neighborhood."'
+  vouches: 1
+  when: Apr '26
+  links:
+  - label: mdbuildworks.com
+    url: https://www.mdbuildworks.com/
+- name: Actually Design Build
+  category: Remodels & big projects
+  subcategory: General contractors, design-build & architects
+  what: '"Fantastic. Paid a premium but worth it for the communication and thoughtful approach."'
+  vouches: 1
+  when: Apr '26
+  links:
+  - label: actuallydesignbuild.com
+    url: https://www.actuallydesignbuild.com
+- name: Aaron Lim (designer/architect)
+  category: Remodels & big projects
+  subcategory: General contractors, design-build & architects
+  what: '"Highly recommend."'
+  vouches: 1
+  when: Apr '26
+  links:
+  - label: aaronlimdesign.com
+    url: https://aaronlimdesign.com/
+- name: Peter — Astoria Construction
+  category: Remodels & big projects
+  subcategory: General contractors, design-build & architects
+  what: '"I''m working with Peter and he''s great."'
+  vouches: 1
+  when: Feb '26
+  links:
+  - label: astoria-construction.com
+    url: https://astoria-construction.com/
+- name: Wellmade
+  category: Remodels & big projects
+  subcategory: General contractors, design-build & architects
+  what: Backyard studios/sheds including foundation and wiring (~$40k range); "very positive experience."
+  vouches: 2
+  when: Apr '26
+  links:
+  - label: wllmd.com
+    url: https://www.wllmd.com/
+- name: Eric — Milan Pavers
+  category: Remodels & big projects
+  subcategory: Yards, hardscape & fences
+  what: (650) 444-6325. Complex multi-level backyard (hardscape, retaining walls) at less than half the price of
+    other quotes.
+  vouches: 1
+  when: Jan '26
+  links:
+  - label: Yelp link
+    url: https://yelp.to/aLpJe3PefE
+- name: Luis — Form and Function
+  category: Remodels & big projects
+  subcategory: Yards, hardscape & fences
+  what: 'full yard (beds, gravel, two retaining walls, irrigation, electrical) for $30k vs. much higher quotes:
+    "I 100% recommend him." Ask in the chat for his contact.'
+  vouches: 1
+  when: Jan '26
+- name: Talc Studio
+  category: Remodels & big projects
+  subcategory: Yards, hardscape & fences
+  what: Landscape design; "so far they've been great."
+  vouches: 1
+  when: Jan '26
+  links:
+  - label: talcstudio.com
+    url: https://talcstudio.com/
+- name: A1 Fence
+  category: Remodels & big projects
+  subcategory: Yards, hardscape & fences
+  what: did an adequate job for the price ("+1 for A1 fence"), but manage them closely.
+  vouches: 2
+  when: Sep '25
+- name: Friday Gardens, Down-to-Earth Landscapes, and Molina Fence
+  category: Remodels & big projects
+  subcategory: Yards, hardscape & fences
+  what: Friday Gardens (landscape design), Down-to-Earth Landscapes (fencing & landscaping), and Molina Fence (budget-friendly).
+  from_earlier_knowledge_base: true
+  links:
+  - label: landscape design
+    url: https://www.fridaygardens.com/
+  - label: fencing &
+    url: https://www.down-to-earth-landscapes.com/
+  - label: landscaping
+    url: https://www.down-to-earth-landscapes.com/
+- name: Simply Solar
+  category: Remodels & big projects
+  subcategory: Solar
+  what: '"Great experience, definitely recommend"; good quotes. Group wisdom: pay cash if you can, avoid lease/financing
+    deals.'
+  vouches: 3
+  when: Jul + Sep '25
+  links:
+  - label: simplysolar.com
+    url: https://simplysolar.com/
+- name: All Bay Solar
+  category: Remodels & big projects
+  subcategory: Solar
+  what: Great experience; handled solar plus an electrical upgrade.
+  vouches: 1
+  when: Sep '25
+  links:
+  - label: allbaysolar.com
+    url: https://allbaysolar.com/
+- name: Next Solar
+  category: Remodels & big projects
+  subcategory: Solar
+  what: Chosen by a member after shopping around.
+  vouches: 1
+  when: Sep '25
+  links:
+  - label: nextsolarinc.com
+    url: https://nextsolarinc.com/
+- name: Occidental Power
+  category: Remodels & big projects
+  subcategory: Solar
+  what: Longtime Outer Sunset family-run solar company that knows the local climate.
+  vouches: 1
+  when: Jul '25
+  links:
+  - label: oxypower.com
+    url: https://www.oxypower.com/
+- name: Tip
+  category: Remodels & big projects
+  subcategory: Solar
+  what: is a good way to collect multiple bids.
+  links:
+  - label: EnergySage
+    url: https://www.energysage.com/
+- name: Golden State Lumber
+  category: Remodels & big projects
+  subcategory: Lumber, materials & garden supply
+  what: '"Went there for a big project and it was great"; usually a little cheaper than Beronio.'
+  vouches: 2
+  when: Jan '26
+  links:
+  - label: goldenstatelumber.com
+    url: https://www.goldenstatelumber.com/
+- name: Beronio Lumber
+  category: Remodels & big projects
+  subcategory: Lumber, materials & garden supply
+  what: High quality (pricier).
+  vouches: 1
+  when: Jan '26
+  links:
+  - label: beronio.com
+    url: https://www.beronio.com/
+- name: Moore Newton
+  category: Remodels & big projects
+  subcategory: Lumber, materials & garden supply
+  what: (San Leandro). "The best for plywood."
+  vouches: 1
+  when: Jan '26
+  links:
+  - label: moorenewton.com
+    url: https://moorenewton.com/
+- name: Building Resources (Bayview)
+  category: Remodels & big projects
+  subcategory: Lumber, materials & garden supply
+  what: Salvage yard for used/vintage building materials — one dad built a shed for ~$1,500 mostly from here; also
+    accepts material donations (as does SCRAP).
+  vouches: 2
+  when: Aug + Dec '25
+  links:
+  - label: buildingresources.org
+    url: https://buildingresources.org/
+  - label: SCRAP
+    url: https://www.scrap-sf.org/
+- name: The Urban Farmer Store
+  category: Remodels & big projects
+  subcategory: Lumber, materials & garden supply
+  what: 2833 Vicente St. Irrigation and garden supply; they'll help you DIY a whole system and can suggest contractors.
+  vouches: 3
+  when: Jun '25
+  links:
+  - label: urbanfarmerstore.com
+    url: https://www.urbanfarmerstore.com/
+- name: José (gardener)
+  category: Remodels & big projects
+  subcategory: Gardeners
+  what: Trimming, mowing, weeding, cleanup; very inexpensive, will quote from photos. One dad hired him off the
+    group rec and confirmed.
+  vouches: 2
+  when: Feb–Mar '26
+  contact: ask in Outer Dadas
+- name: Jose Lopez (landscaper)
+  category: Remodels & big projects
+  subcategory: Gardeners
+  what: Weekly visits, ~$130/month; reliable (and enthusiastic with suggestions).
+  vouches: 1
+  when: Mar–Apr '26
+  contact: ask in Outer Dadas
+- name: Garden for the Environment
+  category: Remodels & big projects
+  subcategory: Gardeners
+  what: 7th & Lawton. Excellent classes for exactly this foggy microclimate; free composting workshop; great community.
+  vouches: 2
+  when: Jun '26
+  links:
+  - label: gardenfortheenvironment.org
+    url: https://www.gardenfortheenvironment.org/
+- name: Far Out West Community Garden
+  category: Remodels & big projects
+  subcategory: Gardeners
+  what: The neighborhood garden community.
+  vouches: 1
+  when: Jun '26
+  links:
+  - label: faroutwestcommunity.org
+    url: https://www.faroutwestcommunity.org/garden-community
+- name: Natural Resources
+  category: Pregnancy, birth & postpartum
+  what: 'The group''s hub for parenting classes and birth pros: intro-to-solids ("the teacher is dope"), car seat
+    safety ("Love Natural Resources!"), baby sign classes, TENS machine rentals.'
+  vouches: 4
+  vouches_note: 4+ (at least)
+  when: Jul '25–Mar '26
+  links:
+  - label: naturalresources-sf.com
+    url: https://www.naturalresources-sf.com/
+- name: SF Birth Center (Nancy)
+  category: Pregnancy, birth & postpartum
+  what: '"Can''t say enough good things about Nancy and SFBC" — not insurance-covered but well worth it.'
+  vouches: 2
+  when: Sep '25
+  links:
+  - label: sfbirthcenter.com
+    url: https://sfbirthcenter.com/
+- name: Jane Austin prenatal partners yoga
+  category: Pregnancy, birth & postpartum
+  what: '"10/10 recommend… Jane''s a legend."'
+  vouches: 1
+  when: Sep '25
+  links:
+  - label: janeaustinyoga.com
+    url: https://janeaustinyoga.com/prenatal-partners-workshop/
+- name: Amy Clark, RN + lactation consultant (IBCLC)
+  category: Pregnancy, birth & postpartum
+  what: '"A life saver for both our kids"; one family saw multiple consultants and she was the best.'
+  vouches: 4
+  when: Jun '26
+  links:
+  - label: Yelp
+    url: https://www.yelp.com/biz/amy-clark-rn-ibclc-san-francisco
+- name: Teeya Smith — Flow Doula
+  category: Pregnancy, birth & postpartum
+  kind: Doulas
+  what: '"Highly recommend"; navigated Kaiser and got fully paid through them.'
+  vouches: 1
+  when: Mar + Jul '26
+  links:
+  - label: flowdoula.com
+    url: https://www.flowdoula.com/
+- name: Neva Hauser
+  category: Pregnancy, birth & postpartum
+  kind: Doulas
+  what: '"Awesome, and fully covered by Kaiser."'
+  vouches: 1
+  when: Mar '26
+- name: Ronit Varga & Heather Charmatz
+  category: Pregnancy, birth & postpartum
+  kind: Doulas
+  what: / Heather. Highly recommended pair who can cover day/night together; one family used Heather for both kids.
+  vouches: 2
+  when: Mar '26
+  links:
+  - label: Ronit
+    url: https://www.ronitaprilv.com/about
+  - label: Heather
+    url: https://sfbirthdoulaandplacentaencapsulationservices.com/about-heather
+- name: Kelly — Hatch Midwifery
+  category: Pregnancy, birth & postpartum
+  kind: Doulas
+  what: '"She was great!"'
+  vouches: 1
+  when: Mar '26
+- name: Kysha
+  category: Pregnancy, birth & postpartum
+  kind: Doulas
+  what: '"Amazing team" — two families use her; ask in the chat for contact.'
+  vouches: 2
+  when: Mar '26
+- name: Night help
+  category: Pregnancy, birth & postpartum
+  what: Vanessa Rocha (night doula); "world of a difference" for parent sleep and baby sleep habits. Bay Area Night
+    Doulas (agency) found a temporary person on short notice when baby came early.
+  vouches: 1
+  when: Oct '25
+  contact: ask in Outer Dadas
+- name: Dr. Green — Pacific Women's OB/GYN
+  category: Pregnancy, birth & postpartum
+  what: '"Incredible at her job."'
+  vouches: 1
+  when: Oct '25
+- name: UCSF Mission Bay labor & delivery
+  category: Pregnancy, birth & postpartum
+  what: 'several very positive induction/birth experiences: staff "super helpful and amazing."'
+  vouches: 3
+  when: Nov '25
+- name: Car seat help
+  category: Pregnancy, birth & postpartum
+  what: Hannah Gann. Child passenger safety technician + career nanny; does free home visits, great advice. Also
+    Safe in the Seat for paid 1:1 seat-matching.
+  vouches: 1
+  when: Nov '25
+  links:
+  - label: Safe in the Seat
+    url: https://www.safeintheseat.com/
+  contact: ask in Outer Dadas
+- name: Bill White — Happy Baby Signs
+  category: Pregnancy, birth & postpartum
+  what: (classes via Natural Resources). "Can't recommend him enough."
+  vouches: 3
+  when: Mar '26
+  links:
+  - label: happybabysigns.com
+    url: https://www.happybabysigns.com/
+- name: Golden Gate Pediatrics
+  category: Pediatricians & kids' health
+  what: 'The group''s most-recommended practice: "world class office," very professional, after-hours urgent care
+    line; Drs. Kwan and Schultz called out; Richmond office convenient.'
+  vouches: 6
+  when: Oct '25–Jan '26
+  links:
+  - label: goldengatepediatrics.com
+    url: https://goldengatepediatrics.com/
+- name: SF Bay Pediatrics
+  category: Pediatricians & kids' health
+  what: Dr. Newman "absolutely wonderful… a cut above"; families like all the doctors (Dr. Davis too).
+  vouches: 5
+  when: Oct '25–May '26
+  links:
+  - label: sfbaypeds.com
+    url: https://sfbaypeds.com/
+- name: Dr. Noah Simons (Marina)
+  category: Pediatricians & kids' health
+  what: '"Phenomenal"; "a true voice of reason and calm." Note: office phone screens unknown numbers — use the website''s
+    new-patient form; Dr. Klein at the same office is a great backup.'
+  vouches: 3
+  when: Jan–Jun '26
+  links:
+  - label: noahsimonsmd.com
+    url: https://noahsimonsmd.com/
+- name: Dr. Tessler — Town & Country Pediatrics
+  category: Pediatricians & kids' health
+  what: Practical, no-nonsense, listens, very experienced.
+  vouches: 1
+  when: Oct '25
+  links:
+  - label: practice page
+    url: https://www.stanfordchildrens.org/en/town-and-country-pediatrics/
+- name: Dr. Benjamin Wan (near Stonestown)
+  category: Pediatricians & kids' health
+  what: '"Great so far"; several CPMC nurses use him. Takes Anthem.'
+  vouches: 1
+  when: May '26
+  links:
+  - label: drbenjaminwan.com
+    url: https://www.drbenjaminwan.com/
+- name: Dr. Tim Lee — Sutter, Daly City
+  category: Pediatricians & kids' health
+  what: Seen with Anthem Blue Cross; good things heard about the whole group.
+  vouches: 1
+  when: May '26
+  links:
+  - label: Sutter page
+    url: https://www.sutterhealth.org/find-doctor/city/Daly%20City/pediatricians-1042264908
+- name: UCSF Benioff pediatric primary care (Dr. Laguna)
+  category: Pediatricians & kids' health
+  what: '"They''ve been good to us," including urgent-care visits.'
+  vouches: 1
+  when: Jun '26
+  links:
+  - label: clinic page
+    url: https://www.ucsfbenioffchildrens.org/clinics/pediatric-primary-care-clinic
+- name: Sen Kidz Therapy (pediatric OT)
+  category: Pediatricians & kids' health
+  what: 3100 Noriega St. Reassuring, level-headed evaluation experience.
+  vouches: 1
+  when: Jul '25
+  links:
+  - label: senkidzot.com
+    url: https://www.senkidzot.com/
+- name: Dr. Han — Han Pediatric Dentistry
+  category: Pediatricians & kids' health
+  subcategory: Pediatric dentists
+  what: 1530 Noriega St. "He's awesome"; kids went for years and loved him. (Check insurance — he stopped taking
+    Delta Dental at some point.)
+  vouches: 3
+  when: Jun '25
+  links:
+  - label: hanpediatricdentistry.com
+    url: https://www.hanpediatricdentistry.com/
+- name: One Parker Pediatric Dentistry
+  category: Pediatricians & kids' health
+  subcategory: Pediatric dentists
+  what: '"We''ve really loved One Parker"; dogs in the office and TVs in the ceiling; not on Delta but handles partial
+    reimbursement paperwork.'
+  vouches: 2
+  when: Jun '25 + Jul '26
+  links:
+  - label: oneparkerpediatricdentistry.com
+    url: https://www.oneparkerpediatricdentistry.com/
+- name: OPDSF Pediatric Dentistry
+  category: Pediatricians & kids' health
+  subcategory: Pediatric dentists
+  what: '"This place was great for my almost 2 year old."'
+  vouches: 1
+  when: Jun '25
+  links:
+  - label: opdsf.com
+    url: https://www.opdsf.com
+- name: Dr. Ramirez — Dream Dental
+  category: Pediatricians & kids' health
+  subcategory: Pediatric dentists
+  what: 2409 Taraval St. "We like Dr Ramirez."
+  vouches: 1
+  when: Jul '26
+  links:
+  - label: sfdreamdental.com
+    url: https://sfdreamdental.com/
+- name: Dr. Nate — Discovery Pediatric Dentistry
+  category: Pediatricians & kids' health
+  subcategory: Pediatric dentists
+  what: 1700 California St. "Big fan."
+  vouches: 1
+  when: Jul '26
+  links:
+  - label: pediatricdentistsf.dentist
+    url: https://www.pediatricdentistsf.dentist/
+- name: Habelt Dentistry
+  category: Adult health & personal care
+  subcategory: Dentists, optometrists & more
+  what: 2033 Taraval St. Years-long patient; took their 1.5-year-old too.
+  vouches: 2
+  when: Jun '25
+  links:
+  - label: drhabelt.com
+    url: https://www.drhabelt.com/
+- name: Dr. Victoria Tobar
+  category: Adult health & personal care
+  subcategory: Dentists, optometrists & more
+  what: 800 Santiago St. Two families happy.
+  vouches: 2
+  when: Jun '25 + Aug '25
+  links:
+  - label: drvictoriatobar.com
+    url: https://www.drvictoriatobar.com/
+- name: Dr. Robyn Moyer, DDS
+  category: Adult health & personal care
+  subcategory: Dentists, optometrists & more
+  what: 2665 Ocean Ave. "Big fan."
+  vouches: 1
+  when: Aug '25
+  links:
+  - label: robynlmoyerdds.com
+    url: http://www.robynlmoyerdds.com/
+- name: '"Dr G" (dentist)'
+  category: Adult health & personal care
+  subcategory: Dentists, optometrists & more
+  what: '"Love Dr G."'
+  vouches: 1
+  when: Jun '25
+  links:
+  - label: map link from the chat
+    url: https://maps.app.goo.gl/oR9ynTL1FCGNaMbk8
+- name: Fong & Wong Optometry (Inner Sunset)
+  category: Adult health & personal care
+  subcategory: Dentists, optometrists & more
+  what: 1372 9th Ave. "Very kind father-son practice."
+  vouches: 1
+  when: Aug '25
+  links:
+  - label: sfeyedocs.com
+    url: https://www.sfeyedocs.com/
+- name: Two more optometrists dads like
+  category: Adult health & personal care
+  subcategory: Dentists, optometrists & more
+  what: ("haven't found anything better") and one in the Richmond.
+  vouches: 1
+  when: Aug '25
+  links:
+  - label: one that takes walk-ins
+    url: https://maps.app.goo.gl/FwCcuqy69YvGpd5T9
+  - label: one in the Richmond
+    url: https://maps.app.goo.gl/TsXfd5ADezbmUk2F6
+- name: Chiropractors
+  category: Adult health & personal care
+  subcategory: Dentists, optometrists & more
+  what: 'two suggestions shared by link: option 1, option 2. (May ''26)'
+  links:
+  - label: option 1
+    url: https://share.google/BSYgC3GSUYamTqD28
+  - label: option 2
+    url: https://maps.app.goo.gl/maXrwWEP5diyfso98
+- name: Judy — Gentle Cuts (Taraval)
+  category: Adult health & personal care
+  subcategory: Haircuts (dads & kids)
+  what: '"The absolute best with children" — $35, toddlers ask to come back.'
+  vouches: 2
+  when: Apr '26
+  links:
+  - label: Yelp
+    url: https://m.yelp.com/biz/gentle-cuts-san-francisco
+- name: Heidi — New Starting (Clement)
+  category: Adult health & personal care
+  subcategory: Haircuts (dads & kids)
+  what: great with little kids (cutting one son's hair since age 1), $23.
+  vouches: 1
+  when: Apr '26
+- name: David — D Style Cuts
+  category: Adult health & personal care
+  subcategory: Haircuts (dads & kids)
+  what: '"Great with kids."'
+  vouches: 1
+  when: Oct '25
+  links:
+  - label: map link
+    url: https://maps.app.goo.gl/xC8YfVWKAz5LTeFG6
+- name: Dick's on Geary
+  category: Adult health & personal care
+  subcategory: Haircuts (dads & kids)
+  what: ~$25 walk-in clipper shop; "a good deal for what it is."
+  vouches: 3
+  when: Apr '26
+- name: Salon J (Irving & 8th)
+  category: Adult health & personal care
+  subcategory: Haircuts (dads & kids)
+  what: '$20 cash. Also mentioned in the sub-$30 tier: Friendly Cuts, Ben Salon, Mai Ling.'
+  vouches: 2
+  when: Apr '26
+  links:
+  - label: map link
+    url: https://maps.app.goo.gl/TWBF5spLzzieu5t77
+  - label: Friendly
+    url: https://maps.app.goo.gl/814qRXP8TeTGfDQAA
+  - label: Cuts
+    url: https://maps.app.goo.gl/814qRXP8TeTGfDQAA
+  - label: Ben Salon
+    url: https://maps.app.goo.gl/mnnPoKUQzHh8MvrK9
+  - label: Mai Ling
+    url: https://maps.app.goo.gl/x8eDbM3Gkau1T8LZ9
+- name: A&K on Taraval
+  category: Adult health & personal care
+  subcategory: Haircuts (dads & kids)
+  what: '"pretty good." · Barberschu (23rd & Anza), razor-cut specialist. · Deal tip: Supercuts West Portal does
+    $225/year unlimited cuts.'
+  vouches: 1
+  when: Apr '26
+  links:
+  - label: IG
+    url: https://www.instagram.com/barberschu
+- name: Tailors
+  category: Adult health & personal care
+  subcategory: Tailors, dry cleaning & repairs
+  what: Mr. Ma (Clement), C&W Tailoring (Noriega), Laurie's Tailor.
+  vouches: 1
+  when: Sep '25
+- name: Dry cleaners
+  category: Adult health & personal care
+  subcategory: Tailors, dry cleaning & repairs
+  what: Sunny's (Taraval, map, gentle on suits, ~$6–8/shirt); Soap Box (Geary); Mulberries.
+  vouches: 1
+  when: Mar '26
+  links:
+  - label: map
+    url: https://maps.app.goo.gl/CkbYkP8A34iGYx3D6
+- name: Watch repair
+  category: Adult health & personal care
+  subcategory: Tailors, dry cleaning & repairs
+  what: Versailles (~20th & Geary) — fast, good quality; West Portal Jewelers for batteries; Tigge’s on Geary that
+    revived an old Seiko.
+  vouches: 1
+  when: May '26
+  links:
+  - label: Tigge’s on Geary
+    url: https://maps.app.goo.gl/FCiC53XSbrLvnn6f8
+- name: Passport photos (baby-tested)
+  category: Adult health & personal care
+  subcategory: Tailors, dry cleaning & repairs
+  what: 'USPS passport offices were "amazing"/"breezy" (Daly City with an appointment: in and out in 15 min); Walgreens
+    on Taraval also worked; plus a local shop two dads liked.'
+  vouches: 3
+  when: Jan '26
+  links:
+  - label: a
+    url: https://maps.app.goo.gl/T5mazVeALoajonPx5
+  - label: local shop
+    url: https://maps.app.goo.gl/T5mazVeALoajonPx5
+- name: Eunice (babysitter)
+  category: Childcare, sitters & help
+  what: '"We love Eunice"; took a same-evening last-minute booking and came through.'
+  vouches: 2
+  when: Oct '25
+  contact: ask in Outer Dadas
+- name: UrbanSitter
+  category: Childcare, sitters & help
+  what: 'The group''s go-to platform for finding sitters (one trick: find your sitters, then cancel the subscription).'
+  vouches: 3
+  when: Jun–Jul '26
+  links:
+  - label: urbansitter.com
+    url: https://www.urbansitter.com/
+- name: Stanford Park Nannies
+  category: Childcare, sitters & help
+  what: Agency used for extra help; "happy with results so far."
+  vouches: 1
+  when: Feb '26
+  links:
+  - label: spnannies.com
+    url: https://spnannies.com/
+- name: Poppins Payroll
+  category: Childcare, sitters & help
+  what: 'nanny payroll; "easy to set up and runs on autopilot." (Related tip: AAA home insurance covered one family''s
+    household-employee workers'' comp.)'
+  vouches: 1
+  when: Mar '26
+- name: Winnie's
+  category: Childcare, sitters & help
+  subcategory: Daycares & preschools
+  what: Takes very young infants; "we love it there."
+  vouches: 3
+  when: May '26
+  links:
+  - label: map link
+    url: https://maps.app.goo.gl/4Rbag5xyijVXoTpR9
+- name: The Growing Tree (48th & Pacheco)
+  category: Childcare, sitters & help
+  subcategory: Daycares & preschools
+  what: Mandarin immersion, takes babies from ~3 months; "she runs in with a big smile every morning." Email the
+    waitlist (info@thegrowingtreeschool.com) rather than calling.
+  vouches: 3
+  when: Feb + May '26
+  links:
+  - label: thegrowingtreeschool.com
+    url: https://www.thegrowingtreeschool.com/
+- name: Wise Forest School
+  category: Childcare, sitters & help
+  subcategory: Daycares & preschools
+  what: Outdoor preschool; "many many great things from several people," happy muddy kids.
+  vouches: 3
+  when: Jan '26
+  links:
+  - label: wiseforestpreschool.com
+    url: https://www.wiseforestpreschool.com/
+- name: The Lands End School (Outer Richmond)
+  category: Childcare, sitters & help
+  subcategory: Daycares & preschools
+  what: '"Solid operation with strong communication habits"; VA employees/siblings get priority, easier entry at
+    age 3.'
+  vouches: 2
+  when: May '26
+  links:
+  - label: thelandsendschool.com
+    url: https://thelandsendschool.com/
+- name: Happy Learning Mandarin (25th & Santiago)
+  category: Childcare, sitters & help
+  subcategory: Daycares & preschools
+  what: '"Awesome… Kathy is amazing."'
+  vouches: 2
+  when: Feb + May '26
+  links:
+  - label: Yelp
+    url: https://www.yelp.com/biz/happy-learning-mandarin-daycare-san-francisco-6
+- name: Sunny Infant (Balboa & Clement locations)
+  category: Childcare, sitters & help
+  subcategory: Daycares & preschools
+  what: '"We love Sunny Infant"; Mandarin immersion at Clement.'
+  vouches: 2
+  when: Feb + May '26
+  links:
+  - label: sunnyinfantpreschool.com
+    url: https://sunnyinfantpreschool.com/home
+- name: Little Robles (Spanish bilingual)
+  category: Childcare, sitters & help
+  subcategory: Daycares & preschools
+  what: '"Heard great things and really enjoyed our visit"; impressed on tour.'
+  vouches: 2
+  when: Jun '26
+  links:
+  - label: littlerobles.com
+    url: https://www.littlerobles.com/
+- name: Jargal — Lincoln Daycare (in-home)
+  category: Childcare, sitters & help
+  subcategory: Daycares & preschools
+  what: '"Can''t say enough good things about Jargal."'
+  vouches: 2
+  when: Feb + May '26
+  links:
+  - label: listing
+    url: https://winnie.com/place/lincoln-daycare-san-francisco
+- name: Discovery Land (38th & Lawton)
+  category: Childcare, sitters & help
+  subcategory: Daycares & preschools
+  what: Both kids from six months; "they loved it," nice parent community.
+  vouches: 1
+  when: Feb '26
+  links:
+  - label: discoverylandsf.com
+    url: http://www.discoverylandsf.com/
+- name: Casa dei Bambini Montessori (Taraval & 34th)
+  category: Childcare, sitters & help
+  subcategory: Daycares & preschools
+  what: '"We enjoy it."'
+  vouches: 1
+  when: Dec '25
+  links:
+  - label: cdeib.com
+    url: https://cdeib.com/
+- name: Terra (Outer Richmond)
+  category: Childcare, sitters & help
+  subcategory: Daycares & preschools
+  what: 3 days inside / 2 days in the park, rain or shine; "the two days in the park is pretty awesome."
+  vouches: 1
+  when: Jan–Mar '26
+  links:
+  - label: terraschools.org
+    url: https://www.terraschools.org/terra-san-francisco-school
+- name: SF Roots Forest School
+  category: Childcare, sitters & help
+  subcategory: Daycares & preschools
+  what: Second year in; "Highly recommend!"
+  vouches: 1
+  when: Jan '26
+  links:
+  - label: site
+    url: https://sfrootsforestschool.wordpress.com/
+- name: Forest Bloom School
+  category: Childcare, sitters & help
+  subcategory: Daycares & preschools
+  what: Susie (415) 420-7877. Outdoor curriculum in GG Park; "it's great."
+  vouches: 1
+  when: Dec '25
+  links:
+  - label: forestbloomschool.com
+    url: https://forestbloomschool.com/
+- name: Amy — Happy Childcare (38th & Yorba)
+  category: Childcare, sitters & help
+  subcategory: Daycares & preschools
+  what: '"Totally amazing."'
+  vouches: 1
+  when: May '26
+  links:
+  - label: amyhappychildcare.com
+    url: https://www.amyhappychildcare.com/
+- name: Jenny (in-home, 19th & Rivera)
+  category: Childcare, sitters & help
+  subcategory: Daycares & preschools
+  what: Both kids went through her; takes infants from ~2–4 months.
+  vouches: 1
+  when: May '26
+  contact: ask in Outer Dadas
+- name: Little Angels (Funston & Irving, Zaya)
+  category: Childcare, sitters & help
+  subcategory: Daycares & preschools
+  what: '"I could not recommend it highly enough… we would do it again a million times"; very competitive tuition.'
+  vouches: 1
+  when: Jun '26
+  links:
+  - label: sflittleangels.com
+    url: https://www.sflittleangels.com/
+- name: Hungry Caterpillars Too
+  category: Childcare, sitters & help
+  subcategory: Daycares & preschools
+  what: Recommended specifically for one-year-olds.
+  vouches: 1
+  when: Jun '26
+  links:
+  - label: hungrycaterpillars.com
+    url: https://hungrycaterpillars.com/
+- name: HolaKids (Laurel Hill, Spanish)
+  category: Childcare, sitters & help
+  subcategory: Daycares & preschools
+  what: where one family landed for their 2-year-old.
+  vouches: 1
+  when: Jun '26
+- name: Little Leaps and Bounds (Ingleside)
+  category: Childcare, sitters & help
+  subcategory: Daycares & preschools
+  what: '"A great daycare."'
+  vouches: 1
+  when: Jan '26
+  links:
+  - label: littleleapsandbounds.com
+    url: https://littleleapsandbounds.com/
+- name: St. Cecilia's (TK)
+  category: Childcare, sitters & help
+  subcategory: Daycares & preschools
+  what: '"Really happy with TK and the overall community."'
+  vouches: 1
+  when: Nov '25
+  links:
+  - label: stceciliaschool.org
+    url: https://stceciliaschool.org/
+- name: St. Thomas the Apostle (preschool)
+  category: Childcare, sitters & help
+  subcategory: Daycares & preschools
+  what: '"Excellent, especially for the price" (K–8 has closed; preschool still operating).'
+  vouches: 1
+  when: Feb '26
+- name: Playmates Co-op Preschool (42nd/Santiago)
+  category: Childcare, sitters & help
+  subcategory: Daycares & preschools
+  what: A member family attended; happy to answer questions.
+  vouches: 1
+  when: Dec '25
+  links:
+  - label: playmatespreschool.org
+    url: https://www.playmatespreschool.org
+- name: SF Tots (soccer & sports)
+  category: Kids' activities, classes & camps
+  what: '"It was awesome" — patient coaches who can actually wrangle toddlers; classes all over the city. "Worth
+    the $30, trust me."'
+  vouches: 5
+  when: Oct '25–Jul '26
+  links:
+  - label: sftots.com
+    url: https://www.sftots.com/
+- name: Music Together SF
+  category: Kids' activities, classes & camps
+  what: / musictogethersf.com. Teacher Adam's outdoor classes in Robin Williams Meadow are "awesome"; teacher Corey
+    "is the best."
+  vouches: 4
+  when: May–Jun '26
+  links:
+  - label: sfmusictogether.com
+    url: https://www.sfmusictogether.com
+  - label: musictogethersf.com
+    url: https://www.musictogethersf.com
+- name: Outer Village (8th & Irving / 45th & Judah camps)
+  category: Kids' activities, classes & camps
+  what: 'Started by an Outer Mama: playroom, kids'' consignment, music classes (0–5), movie nights, summer camps
+    and after-school for 4–8. "Awesome space."'
+  vouches: 3
+  when: Jul '25–Jun '26
+  links:
+  - label: outervillagesf.com
+    url: https://www.outervillagesf.com/
+- name: One Martial Arts (850 Taraval)
+  category: Kids' activities, classes & camps
+  what: '"Very good things" heard from parents of young kids; well-liked local studio.'
+  vouches: 2
+  when: Jul '25
+  links:
+  - label: onemartialarts.com
+    url: https://onemartialarts.com/location/san-francisco-ca/
+- name: Pomeroy Rec Center (swim)
+  category: Kids' activities, classes & camps
+  what: Warm-water pool, toddler lessons ("Pomeroy is great!") — sign-up windows fill in seconds.
+  vouches: 2
+  when: Apr–May '26
+  links:
+  - label: prrcsf.org
+    url: https://www.prrcsf.org/pool-details
+- name: Camp Mather
+  category: Kids' activities, classes & camps
+  what: 'SF''s family camp near Yosemite: cabins, communal meals, kids'' activities, no screens. "The highlight
+    of our year." Enter the lottery Dec 1–Jan 2.'
+  vouches: 3
+  when: Feb '26
+  links:
+  - label: sfrecpark.org
+    url: https://sfrecpark.org/443/Camp-Mather
+- name: Wheel Kids bike camp
+  category: Kids' activities, classes & camps
+  what: Got a resistant 4-year-old riding in a couple of days.
+  vouches: 1
+  when: Dec '25
+  links:
+  - label: wheelkids.com
+    url: https://wheelkids.com/summer-camps-sf/
+- name: SummerGATE
+  category: Kids' activities, classes & camps
+  what: '"A good option if your kid likes a bunch of different things."'
+  vouches: 1
+  when: Mar '26
+  links:
+  - label: summergatesf.org
+    url: https://www.summergatesf.org/
+- name: Project Commotion
+  category: Kids' activities, classes & camps
+  what: Saturday drop-in movement class, pay-what-you-can (~$5).
+  vouches: 1
+  when: May '26
+  links:
+  - label: projectcommotion.org
+    url: https://www.projectcommotion.org/classes
+- name: JCC SF
+  category: Kids' activities, classes & camps
+  what: Really nice family pool for rainy-day toddler swims (and a gym dads use).
+  vouches: 2
+  when: Oct '25 + Apr '26
+  links:
+  - label: jccsf.org
+    url: https://www.jccsf.org/
+- name: Harvey Milk Photo Center
+  category: Kids' activities, classes & camps
+  what: $221 for six months of one of America's largest community darkrooms; "incredibly helpful" volunteers.
+  vouches: 2
+  when: Mar '26
+  links:
+  - label: harveymilkphotocenter.org
+    url: https://www.harveymilkphotocenter.org/
+- name: Freebie
+  category: Kids' activities, classes & camps
+  what: Dolly Parton's Imagination Library — free monthly kids' books via the SF Department of Early Childhood.
+  from_earlier_knowledge_base: true
+- name: Trailing Tails (dog walking/sitting)
+  category: Pets
+  what: '"We love Trailing Tails." (Not ideal for carsick dogs.)'
+  vouches: 2
+  when: Oct '25
+  links:
+  - label: trailingtails.com
+    url: https://trailingtails.com/
+- name: Andrea — K9 Rockstars
+  category: Pets
+  what: (415) 781-9398. "Walking my dogs for 10 years and is amazing."
+  vouches: 1
+  when: Oct '25
+  links:
+  - label: kninerockstars.com
+    url: https://kninerockstars.com/
+- name: Brandon — Poi Dog Walking Co
+  category: Pets
+  what: '"Simply put, he''s a godsend" — gentle beach pack walks (rec forwarded from a neighboring list).'
+  vouches: 1
+  when: Oct '25
+  links:
+  - label: IG
+    url: https://www.instagram.com/poidogwalkingco
+  contact: ask in Outer Dadas
+- name: Pet Camp (boarding)
+  category: Pets
+  what: Non-crate boarding; "we use Pet Camp and like it." Rover also = "always good luck."
+  vouches: 1
+  when: Mar '26
+  links:
+  - label: petcamp.com
+    url: https://www.petcamp.com/
+- name: Groomers
+  category: Pets
+  what: Cindy at Tilt Pet Spa (Fulton & Divis — "great," years of Cavapoo cuts); Mudpuppy's (Castro St); Scissor
+    Me Whiskers (Clement — "has been great for our dog"); BFF Dogs (Lawton & 25th — "very happy").
+  vouches: 1
+  when: Dec '25–Mar '26
+  links:
+  - label: Yelp
+    url: https://www.yelp.com/biz/tilt-pet-spa-san-francisco
+  - label: Castro St
+    url: https://mudpuppys.com/
+  - label: Clement
+    url: https://scissormewhiskersgrooming.com/
+  - label: Lawton & 25th
+    url: https://www.bffdogssf.com/
+- name: Parkside Motorworks
+  category: Cars
+  subcategory: Mechanics, tires & smog
+  what: used for several things, "always been good."
+  vouches: 1
+  when: Jan '26
+- name: JT's Auto Repair (Lawton & 42nd)
+  category: Cars
+  subcategory: Mechanics, tires & smog
+  what: brakes and more; "great experience."
+  vouches: 1
+  when: Jul '26
+- name: Ken — Beacon station, West Portal
+  category: Cars
+  subcategory: Mechanics, tires & smog
+  what: '"We swear by Ken."'
+  vouches: 1
+  when: Jan '26
+- name: William — ABC Automotive
+  category: Cars
+  subcategory: Mechanics, tires & smog
+  what: '"just a fair and straight up dude."'
+  vouches: 1
+  when: Jan '26
+- name: '"The most honest mechanic I have ever had"'
+  category: Cars
+  subcategory: Mechanics, tires & smog
+  what: (downtown; good for office commuters).
+  vouches: 1
+  when: Jan '26
+  links:
+  - label: listing from the chat
+    url: https://share.google/xlv8H0SFABw3RkIdY
+- name: Toyota on Geary & 4th
+  category: Cars
+  subcategory: Mechanics, tires & smog
+  what: for anything serious on a Toyota (body work).
+  vouches: 1
+  when: Jun '26
+- name: Tires
+  category: Cars
+  subcategory: Mechanics, tires & smog
+  what: Costco — cheapest for a set of 4 and honest about repairs; Paul's on Geary will swap in a single used tire;
+    quick plugs at the 76 on 29th & Taraval or the shop at 19th & Quintara. (Sep '25)
+  vouches: 2
+  when: Sep '25
+  links:
+  - label: the
+    url: https://maps.app.goo.gl/2d4ESgup3LnfP5aT9
+  - label: shop at 19th & Quintara
+    url: https://maps.app.goo.gl/2d4ESgup3LnfP5aT9
+- name: Smog
+  category: Cars
+  subcategory: Mechanics, tires & smog
+  what: $60–80, quick, STAR certified; the 76 at Lawton & 42nd is quick (not STAR); Clean Air on 11th if you're
+    downtown. (Jul '25)
+  links:
+  - label: 19th & Taraval Smog Test Only
+    url: https://www.yelp.com/biz/19th-and-taraval-smog-test-san-francisco-7
+- name: Mark (mobile detailer)
+  category: Cars
+  subcategory: Detailing
+  what: $35 interior + exterior at your curb; "can't beat it for the price and convenience." Book with a neighbor
+    — he likes 2+ SF cars per trip.
+  vouches: 5
+  when: Jul '26
+  contact: ask in Outer Dadas
+- name: Brian — UNFILTHIFY
+  category: Cars
+  subcategory: Detailing
+  what: Sunset dad; "did a fantastic job on my car."
+  vouches: 1
+  when: Mar '26
+  links:
+  - label: unfilthify.com
+    url: https://www.unfilthify.com/
+- name: Danny's Auto Detailing
+  category: Cars
+  subcategory: Detailing
+  what: Very hairy dog, car comes back "brand new."
+  vouches: 1
+  when: Mar '26
+  links:
+  - label: map link
+    url: https://maps.app.goo.gl/75gETPitYzBhtpDX7
+- name: Toyota Sienna
+  category: Cars
+  subcategory: What dads drive (family-car wisdom)
+  what: 'the unofficial group car ("Sienna Appreciation Club"): ~40 MPG hybrid, "absolutely cavernous," sliding
+    doors for tight SF parking.'
+  vouches: 4
+  when: Nov '25–Jul '26
+- name: Honda Odyssey
+  category: Cars
+  subcategory: What dads drive (family-car wisdom)
+  what: '"legitimately one of my favorite cars I''ve ever had"; won back-to-back rental comparisons vs. the Sienna
+    for comfort and configurability.'
+  vouches: 4
+  when: Nov '25–Jul '26
+- name: Hyundai Santa Fe hybrid
+  category: Cars
+  subcategory: What dads drive (family-car wisdom)
+  what: great on gas, tons of room. · Kia EV9 — 2 kids + large dog, "highly recommend." · Tesla Model Y — workable
+    with 2–3 car seats, "but it's tight."
+  vouches: 1
+  when: Jan '26
+- name: Specialized Globe Haul ST/LT
+  category: Bikes & e-bikes
+  subcategory: Cargo e-bikes dads own and love
+  what: 'the most-endorsed bike in group history: 1k–3k+ miles reported, "zero issues and a hell of a value," the
+    sweet spot between budget bikes and $5k rigs; sold/supported by local shops.'
+  vouches: 7
+  when: Jul '25–Jun '26
+- name: Tern GSD / Quick Haul / HSD
+  category: Bikes & e-bikes
+  subcategory: Cargo e-bikes dads own and love
+  what: '"tank-solid," carries 100 lbs of kids, "like a semi tractor trailer for your family"; Quick Haul Long =
+    "very reliable and good value"; HSD stores vertically in a closet.'
+  vouches: 5
+  when: Jul '25–Nov '25
+- name: Aventon Abound
+  category: Bikes & e-bikes
+  subcategory: Cargo e-bikes dads own and love
+  what: 'the budget pick: "absolutely love it," cheap enough to lock up around town.'
+  vouches: 2
+  when: Jul '25 + Jun '26
+- name: Riese & Müller Load
+  category: Bikes & e-bikes
+  subcategory: Cargo e-bikes dads own and love
+  what: '"the luxury minivan of cargo bikes"; one family rarely drives now.'
+  vouches: 2
+  when: Jul '25 + Jan '26
+- name: Xtracycle
+  category: Bikes & e-bikes
+  subcategory: Cargo e-bikes dads own and love
+  what: Local (Marin) company that "does really great work, doesn't skimp on components."
+  vouches: 1
+  when: Jul '25
+  links:
+  - label: xtracycle.com
+    url: https://xtracycle.com/
+- name: Tip
+  category: Bikes & e-bikes
+  subcategory: Cargo e-bikes dads own and love
+  what: Velosurance made one dad comfortable locking up anywhere.
+- name: The New Wheel
+  category: Bikes & e-bikes
+  subcategory: Bike shops & services
+  what: (SF + Larkspur). The go-to for cargo e-bike test rides and purchases — one dad test-rode ~5 bikes in an
+    afternoon.
+  vouches: 5
+  when: Jul '25 + Jun '26
+  links:
+  - label: newwheel.net
+    url: https://newwheel.net/
+- name: Swell Bicycles (Irving & 41st)
+  category: Bikes & e-bikes
+  subcategory: Bike shops & services
+  what: 'The neighborhood shop: honest e-bike advice, orders, and legendary tune-ups (a $10 Goodwill bike re-trued
+    and fully tuned for $20 — "good as new, definitely my new go-to!").'
+  vouches: 3
+  when: Jul '25–Jan '26
+  links:
+  - label: swellbicycles.com
+    url: https://www.swellbicycles.com/
+- name: Friiway (e-bike leasing)
+  category: Bikes & e-bikes
+  subcategory: Bike shops & services
+  what: Monthly lease with maintenance included, lease-to-own credit; founder Joe is "incredibly knowledgeable and
+    friendly."
+  vouches: 2
+  when: Jul '25
+  links:
+  - label: friiway.com
+    url: https://friiway.com/
+- name: Upway (used e-bikes)
+  category: Bikes & e-bikes
+  subcategory: Bike shops & services
+  what: Good service buying a used Tern.
+  vouches: 1
+  when: Nov '25
+  links:
+  - label: upway.co
+    url: https://upway.co/
+- name: Velofix (mobile repair)
+  category: Bikes & e-bikes
+  subcategory: Bike shops & services
+  what: '"They pull up with a van at your door."'
+  vouches: 1
+  when: Aug '25
+  links:
+  - label: velofix.com
+    url: https://www.velofix.com/locations/san-francisco-bay-area/
+- name: Spoke Easy (20th & Clement)
+  category: Bikes & e-bikes
+  subcategory: Bike shops & services
+  what: '"Does great work."'
+  vouches: 1
+  when: Aug '25
+  links:
+  - label: spokeeasysf.com
+    url: https://spokeeasysf.com/
+- name: Also liked
+  category: Bikes & e-bikes
+  subcategory: Bike shops & services
+  what: High Trails ("team was great" buying a Haul), Warm Planet Bikes. For kids' bikes, skip the heavy big-box
+    models — try Sports Basement, American Cyclery, or Mike's Bikes. (Jul '25–Jun '26)
+- name: Patricia — DeFonte Law
+  category: Money, insurance & legal
+  subcategory: Wills & estate planning
+  what: 'patricia@defontelaw.com. "Did ours and we''re very happy"; free intro call. (Group wisdom: with kids +
+    a house, use an attorney and set up a trust to avoid probate.)'
+  vouches: 1
+  when: Sep '25
+- name: Gemma O'Keeffe (25th & Taraval)
+  category: Money, insurance & legal
+  subcategory: Wills & estate planning
+  what: Two generations of one family; will + trust for $1,500 (2023).
+  vouches: 1
+  when: Feb '26
+  links:
+  - label: Yelp
+    url: https://www.yelp.com/biz/mary-gemma-o-keeffe-san-francisco
+- name: Singh Law Firm
+  category: Money, insurance & legal
+  subcategory: Wills & estate planning
+  what: Simple trust/will, fully remote with mobile notary, $3–4k.
+  vouches: 1
+  when: Feb '26
+  links:
+  - label: singhlawfirm.com
+    url: https://singhlawfirm.com
+- name: Connie Yi
+  category: Money, insurance & legal
+  subcategory: Wills & estate planning
+  what: CPA + attorney; good for tax + estate questions together.
+  vouches: 1
+  when: Feb '26
+  links:
+  - label: Yelp link
+    url: https://yelp.to/WlrMd5zMj2
+- name: Guideway Legal
+  category: Money, insurance & legal
+  subcategory: Wills & estate planning
+  what: Straightforward and remote-friendly.
+  vouches: 1
+  when: Sep '25
+  links:
+  - label: guidewaylegal.com
+    url: https://guidewaylegal.com/
+- name: Freewill.com
+  category: Money, insurance & legal
+  subcategory: Wills & estate planning
+  what: 'free online wills; fine for simple situations. Also: several dads did estate plans nearly free through
+    work legal benefit plans — check yours.'
+  vouches: 2
+  when: Sep '25
+- name: Edmonds LLP (CPA)
+  category: Money, insurance & legal
+  subcategory: Taxes, insurance & banking
+  what: Timely and attentive; best suited to complicated tax situations.
+  vouches: 1
+  when: Oct '25
+  links:
+  - label: edmondsllp.com
+    url: https://www.edmondsllp.com/
+- name: Collective
+  category: Money, insurance & legal
+  subcategory: Taxes, insurance & banking
+  what: S-corp/self-employment accounting that replaced an expensive CPA.
+  vouches: 1
+  when: Mar '26
+  links:
+  - label: collective.com
+    url: https://www.collective.com/
+- name: Neda — Alive Insurance (broker)
+  category: Money, insurance & legal
+  subcategory: Taxes, insurance & banking
+  what: '"Super helpful" navigating California''s brutal homeowners market. "Can attest."'
+  vouches: 2
+  when: Nov '25
+  links:
+  - label: aliveinsurance.com
+    url: https://aliveinsurance.com
+- name: Megan Glasson — Mighty Oak
+  category: Money, insurance & legal
+  subcategory: Taxes, insurance & banking
+  what: megan@mightyoaksf.com. Found a good secondary-market rate (Honeycomb) after a Safeco cancellation.
+  vouches: 1
+  when: Jan '26
+- name: Car insurance
+  category: Money, insurance & legal
+  subcategory: Taxes, insurance & banking
+  what: Geico — half the price of other quotes, easy claims incl. a totaled car; Progressive — ~50% cheaper than
+    Allstate.
+  vouches: 2
+  when: Dec '25
+- name: Banks dads like
+  category: Money, insurance & legal
+  subcategory: Taxes, insurance & banking
+  what: SF Fire Credit Union ("big fan"), Navy Federal (zero complaints since 2012, if eligible), Schwab (if you
+    don't need a branch).
+  vouches: 1
+  when: Nov '25
+- name: KeyOpp (property management)
+  category: Money, insurance & legal
+  subcategory: Taxes, insurance & banking
+  what: '"Good experience," works in the Sunset.'
+  vouches: 1
+  when: Apr '26
+  links:
+  - label: keyopp.net
+    url: https://keyopp.net/
+- name: Life insurance tip
+  category: Money, insurance & legal
+  subcategory: Taxes, insurance & banking
+  what: for quotes; one family went direct with Nationwide, no broker needed. (Jul '26)
+  links:
+  - label: term4sale.com
+    url: https://www.term4sale.com/
+- name: Craig Epstein (Compass)
+  category: Money, insurance & legal
+  subcategory: Real estate agents
+  what: City-native surfer, 40+ years in the outer lands; bought and sold with him — "very positive," self-driven,
+    doesn't burden you with details.
+  vouches: 3
+  when: Jan + May '26
+  links:
+  - label: profile
+    url: https://www.compass.com/agents/craig-epstein/
+- name: Sabrina Gee-Shin (Embrace SF)
+  category: Money, insurance & legal
+  subcategory: Real estate agents
+  what: (415) 290-3378. Decades in the Avenues, very sharp, "kept searching even after we had given up."
+  vouches: 1
+  when: May '26
+  links:
+  - label: embracesf.com
+    url: https://www.embracesf.com
+- name: Norm Fung (Compass)
+  category: Money, insurance & legal
+  subcategory: Real estate agents
+  what: '"Incredible, couldn''t speak more highly."'
+  vouches: 1
+  when: Jan '26
+  links:
+  - label: profile
+    url: https://www.compass.com/agents/norm-fung/
+- name: Lynn Finnegan (Compass)
+  category: Money, insurance & legal
+  subcategory: Real estate agents
+  what: Found an off-market Parkside house — the one they bought.
+  vouches: 1
+  when: Jan '26
+  links:
+  - label: profile
+    url: https://www.compass.com/agents/lynn-finnegan/
+- name: Deniz Kahramaner (Atlasa)
+  category: Money, insurance & legal
+  subcategory: Real estate agents
+  what: Extremely detailed, data-driven.
+  vouches: 1
+  when: Jan '26
+  links:
+  - label: profile
+    url: https://www.atlasa.com/deniz-kahramaner
+- name: Ron (ronsellsthecity)
+  category: Money, insurance & legal
+  subcategory: Real estate agents
+  what: '"100% recommend" — full team incl. lender and insurance contacts.'
+  vouches: 1
+  when: Jan '26
+  links:
+  - label: ronsellsthecity.com
+    url: https://ronsellsthecity.com/
+- name: Chip McAllister (Compass)
+  category: Money, insurance & legal
+  subcategory: Real estate agents
+  what: '"Absolutely excellent."'
+  vouches: 1
+  when: May '26
+- name: Courtney & Connor (City Real Estate)
+  category: Money, insurance & legal
+  subcategory: Real estate agents
+  what: Great experience, echoed by several friends.
+  vouches: 1
+  when: May '26
+  links:
+  - label: profile
+    url: https://junglennan.cityrealestatesf.com
+- name: Marcus Lee (Compass)
+  category: Money, insurance & legal
+  subcategory: Real estate agents
+  what: helped a member and several of his friends.
+  vouches: 1
+  when: Jan '26
+- name: Max — fellow Outer Dada (Compass)
+  category: Money, insurance & legal
+  subcategory: Real estate agents
+  what: Local Sunset dada; "can definitely vouch for his real-estate savvy, especially in the Sunset."
+  vouches: 1
+  when: Jan + May '26
+  links:
+  - label: profile
+    url: https://www.compass.com/agents/max-wickham/
+- name: Sonic (fiber internet)
+  category: Internet & phone
+  what: 'The most unanimous recommendation in group history — 15+ dads across two threads: "best internet service
+    we''ve ever had," human customer support, fewer outages than Comcast, ~$49–79/mo (10G upgrades available on
+    new fiber runs). Note: blocks on legacy AT&T infrastructure get 1 Gbps with a mandatory voice line (~$80/mo).'
+  vouches: 15
+  vouches_note: 15+ (at least)
+  when: Nov '25 + Apr '26
+  links:
+  - label: sonic.com
+    url: https://www.sonic.com/
+- name: Monkeybrains
+  category: Internet & phone
+  what: Affordable ($35/mo) local wireless ISP; friends "rave about" it (check west-side coverage).
+  vouches: 2
+  when: Nov '25 + Apr '26
+  links:
+  - label: monkeybrains.net
+    url: https://www.monkeybrains.net
+- name: Cell service dads switched to
+  category: Internet & phone
+  what: Visible (Verizon network at ~half the price — ×4 · Feb + Jul '26), US Mobile (cheap, reliable, can toggle
+    between all three networks — "only way I get signal in West Portal" — ×4 · Feb + Jul '26), Google Fi.
+  vouches: 2
+  when: Jul '26
+- name: Two Pitchers Brewing (45th & Noriega)
+  category: Food & drink
+  subcategory: Family-tested favorites
+  what: $3 beers, 20 taps, juice flights for the kids, "the space is awesome" — and Maillards (maillardssf.com)
+    serving "the best smash burgers in the city" inside.
+  vouches: 4
+  when: Mar–Apr '26
+  links:
+  - label: twopitchers.com
+    url: https://www.twopitchers.com/oceanbeach
+  - label: maillardssf.com
+    url: https://www.maillardssf.com/
+- name: Golden Gate Indian Cuisine & Pizza (Judah)
+  category: Food & drink
+  subcategory: Family-tested favorites
+  what: 'Beloved institution: get the Indian food or the Indian pizza; "the family that runs it is super nice" (bring
+    your own containers welcome).'
+  vouches: 3
+  when: Jul '25 + Feb '26
+  links:
+  - label: goldengateindian.com
+    url: https://goldengateindian.com/
+- name: WenChang Dumpling (1650 Balboa)
+  category: Food & drink
+  subcategory: Family-tested favorites
+  what: '"Best Chinese I''ve had in SF ever"; the orange chicken converted a second dad within a day.'
+  vouches: 2
+  when: Oct '25
+  links:
+  - label: Yelp
+    url: https://www.yelp.com/biz/wenchang-dumpling-restaurant-san-francisco
+- name: Sherpa House (733 Taraval)
+  category: Food & drink
+  subcategory: Family-tested favorites
+  what: Really flavorful Nepalese/Indian, easy with a kid (high chairs, adjustable spice, mango ice cream win).
+  vouches: 1
+  when: Jul '25
+  links:
+  - label: sherpahousesf.com
+    url: https://www.sherpahousesf.com/
+- name: Han Il Kwan (1802 Balboa)
+  category: Food & drink
+  subcategory: Family-tested favorites
+  what: '"Incredible" Korean.'
+  vouches: 2
+  when: Apr '26
+  links:
+  - label: hanilkwan.org
+    url: http://hanilkwan.org/
+- name: Zitouna (2435 Clement)
+  category: Food & drink
+  subcategory: Family-tested favorites
+  what: '"Really like" this Tunisian/Mediterranean spot (order ahead, they get slammed).'
+  vouches: 1
+  when: Apr '26
+  links:
+  - label: zitounasf.com
+    url: https://www.zitounasf.com/
+- name: Burgers beyond Maillards
+  category: Food & drink
+  subcategory: Family-tested favorites
+  what: Beep's (classic drive-up, ×2), Lovely's (inside Woods, Cole Valley — "best burger in the city," and their
+    outpost at Two Pitchers is "incredible"), Smish Smash (Saluhall, downtown), plus Outerlands' Wednesday burger
+    night. (Mar '26)
+  links:
+  - label: classic drive-up
+    url: https://www.beepsburgers.com/
+  - label: inside Woods
+    url: https://www.lovelysburgers.com/cole-valley
+  - label: Cole Valley
+    url: https://www.lovelysburgers.com/cole-valley
+- name: Karl's Beacon
+  category: Food & drink
+  subcategory: Family-tested favorites
+  what: '"a fun spot" with drinks, a view, and food — the group''s happy-hour pick.'
+  vouches: 2
+  when: Jun–Jul '25
+- name: Lung Fung Bakery (1823 Clement)
+  category: Food & drink
+  subcategory: Bakeries & cafes
+  what: '"World class egg tart," best pork bun in the area, and a $1.65 pineapple bun that "can go toe-to-toe against
+    any $9 pastry."'
+  vouches: 3
+  when: Apr '26
+  links:
+  - label: Yelp
+    url: https://www.yelp.com/biz/lung-fung-bakery-san-francisco
+- name: The Coffee Movement (1737 Balboa)
+  category: Food & drink
+  subcategory: Bakeries & cafes
+  what: Richmond dads' Saturday ritual.
+  vouches: 4
+  when: Apr '26
+  links:
+  - label: thecoffeemovement.com
+    url: https://www.thecoffeemovement.com/
+- name: Breadbelly (1408 Clement)
+  category: Food & drink
+  subcategory: Bakeries & cafes
+  what: '"Fantastic food," quieter — good with a sleeping baby.'
+  vouches: 2
+  when: Jan '26
+  links:
+  - label: breadbellysf.com
+    url: https://www.breadbellysf.com/
+- name: Weekend pop-ups
+  category: Food & drink
+  subcategory: Bakeries & cafes
+  what: the French pâtisserie at 31st & California (map — "amazing," go before open, it sells out) and Milk Cloud
+    Bakery at Coffee Movement ("really good stuff").
+  vouches: 2
+  when: Apr '26
+  links:
+  - label: map
+    url: https://maps.app.goo.gl/iHuggaLkjinNGf9e8
+- name: Also loved
+  category: Food & drink
+  subcategory: Bakeries & cafes
+  what: 'Dimdoduc (Balboa — "fire pork bun" with Dutch-crunch top), Art Bistro ("bomb Thai tea + breakfast bagel
+    sandwiches"), George''s Donuts & Merriment (West Portal meetings), Ilana Coffee (banh mi), Portside Bakery''s
+    pretzels at the Stonestown farmers market, and Gus''s for the best beer selection on this side of the city.
+    Quiet-patio picks for nap-in-stroller coffee: Bazaar Cafe, Thorough Bread, Garden House Cafe, Cafe Josephine
+    (Randall Museum), Saint Frank. (Jun ''25–Apr ''26)'
+- name: Seafood Center (831 Clement)
+  category: Food & drink
+  subcategory: Fish & groceries
+  what: Family-owned since 1986; great selection.
+  vouches: 2
+  when: May '26
+  links:
+  - label: seafoodcentersf.com
+    url: https://seafoodcentersf.com/
+- name: Sunset Super (Vicente + Irving)
+  category: Food & drink
+  subcategory: Fish & groceries
+  what: 'good fish, and don''t skip the free cleaning-and-frying: $6/lb freshly fried shrimp.'
+  vouches: 2
+  when: May '26
+- name: Sea Forager (fish CSA)
+  category: Food & drink
+  subcategory: Fish & groceries
+  what: Weekly local catch with an Outer Sunset pickup; "very high quality."
+  vouches: 1
+  when: May '26
+  links:
+  - label: seaforager.com
+    url: https://www.seaforager.com/
+- name: Golden Boy Pizza
+  category: Food & drink
+  subcategory: Kid-party catering
+  what: (Taraval + North Beach). At 80% of kids' parties for a reason; "get some garlic clam for the adults."
+  vouches: 2
+  when: Jan '26
+  links:
+  - label: goldenboypizza.com
+    url: https://www.goldenboypizza.com/
+- name: Early Bird Tacos
+  category: Food & drink
+  subcategory: Kid-party catering
+  what: Delivers and sets up at playgrounds/parks; veg, vegan, and GF in standard packages.
+  vouches: 1
+  when: Jul '26
+  links:
+  - label: earlybirdtacos.com
+    url: https://www.earlybirdtacos.com/
+- name: Also worked well
+  category: Food & drink
+  subcategory: Kid-party catering
+  what: Onigilly rice balls (vegan options, ~$5–6 each), Panda Express ("kids love carbs"), Pasquale's.
+  vouches: 1
+  when: Jan + Jul '26
+- name: Toy stores
+  category: Shops, parties & everything else
+  what: Growing Up Art and Crafts (West Portal — "my go-to when I don't know what to get; very helpful staff") and
+    Tantrum (248 Clement — "we love Tantrum").
+  vouches: 1
+  when: Dec '25
+  links:
+  - label: 248 Clement
+    url: https://shoptantrum.com/
+- name: Sports Basement
+  category: Shops, parties & everything else
+  what: Gear rentals with delivery, kids' bikes and soccer gear, and free community rooms (Stonestown/Presidio)
+    that fit 100 people, BYO food and beer.
+  vouches: 4
+  when: Jun '25–Dec '25
+  links:
+  - label: rentals page
+    url: https://shop.sportsbasement.com/collections/rentals
+- name: Tiny Tots (compostable diaper service)
+  category: Shops, parties & everything else
+  what: '"Painless process. Polite service." — the group''s pick after other services declined.'
+  vouches: 4
+  when: Sep '25
+  links:
+  - label: tinytots.com
+    url: https://www.tinytots.com/
+- name: Bounce houses
+  category: Shops, parties & everything else
+  what: 'Bay Area Fun Jumpers (bayareafunjumpers.com, (415) 286-6070 — party-tested) and Bouncin Bins (Matt price-matched
+    on short notice and upgraded the unit free). Tip: get multiple quotes and let them compete.'
+  vouches: 2
+  when: Jun '26
+  links:
+  - label: bayareafunjumpers.com
+    url: https://www.bayareafunjumpers.com
+- name: Photographers
+  category: Shops, parties & everything else
+  what: Natalie Pearl (IG — in-home newborn shoots, used 3 times, "fantastic job") and Trautfield Photography (trautfieldphotography.com
+    — a fellow Dada; client families say he "killed it").
+  vouches: 1
+  when: Sep '25 + Mar '26
+  links:
+  - label: IG
+    url: https://www.instagram.com/natalienphoto
+  - label: trautfieldphotography.com
+    url: https://www.trautfieldphotography.com/outerfamilies/
+- name: Music
+  category: Shops, parties & everything else
+  what: Julian Shipp (jazz piano lessons — "he's really good") and Honor Brass Band (played a member's wedding —
+    "they were great").
+  vouches: 1
+  when: Apr–Jun '26
+  links:
+  - label: jazz piano lessons
+    url: https://www.julianshippmusic.com/
+  - label: played a member's wedding
+    url: https://www.honorbrassband.com/
+- name: Coworking
+  category: Shops, parties & everything else
+  what: Tillage (tillage.place, Inner Sunset — "great space," cheap monthly, friendly community); Our Third Realm
+    (9th & Irving) is the other local option.
+  vouches: 1
+  when: Nov '25–Apr '26
+  links:
+  - label: tillage.place
+    url: https://www.tillage.place/
+- name: Gyms
+  category: Shops, parties & everything else
+  what: F45 City Center ("I enjoy it") and the JCC.
+  vouches: 1
+  when: Apr–Jul '26
+- name: Fabric
+  category: Shops, parties & everything else
+  what: Fabrix (Clement, decent selection) and Discount Fabrics (Cesar Chavez, massive selection).
+  vouches: 1
+  when: Mar '26
+- name: Irving Housewares & Restaurant Supplies (Irving & 23rd)
+  category: Shops, parties & everything else
+  what: red envelopes, woks, and "lots of cool stuff — make some time to browse."
+  vouches: 1
+  when: Jan '26
+- name: Tellason (Sausalito)
+  category: Shops, parties & everything else
+  what: SF-made denim from "good dudes"; pay cash at their HQ for a discount.
+  vouches: 3
+  when: Nov '25
+  links:
+  - label: tellason.com
+    url: https://www.tellason.com/
+- name: Blinds
+  category: Shops, parties & everything else
+  what: blinds.com during a sale — $125 total measure + install across 7 windows.
+  vouches: 1
+  when: Jul '26
+- name: Flowers
+  category: Shops, parties & everything else
+  what: Marigold SF — "really elegant flowers."
+  from_earlier_knowledge_base: true
+- name: Christmas trees
+  category: Shops, parties & everything else
+  what: Clancy's on Sloat (friendly, close) and the Guardsmen lot at Fort Mason (best selection, benefits charity
+    — go Friday afternoon); or make a day of cutting your own in Sebastopol.
+  vouches: 2
+  when: Nov '25
