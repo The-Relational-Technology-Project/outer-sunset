@@ -26,6 +26,25 @@ Every PR the agent opens carries a label (`event`, `correction`, `proposal`) and
 
 Merge, or leave a comment. The agent never follows up on its own; a neighbor has to come back.
 
+## Bringing in a suggested source
+
+Neighbors can suggest a doc, a spreadsheet, a site, a calendar, or a group's list, in the chat or with the form on the sources page. Each one arrives as a pull request adding a file to `suggestions/` (labeled `source`) and as an email. Uploaded files come only by email; they never go into this repo.
+
+Merge the suggestion file as the record, then bring the source in the right way:
+
+| It's a | Bring it in as |
+| --- | --- |
+| Doc of recommendations (a group's recs) | A `recs/` file, like `recs/outer-dadas.yml`. Claude Code can convert a doc or PDF; keep personal numbers out unless the person said yes |
+| Doc of background or history | An `archive/` note with its source |
+| Spreadsheet that stays current | A `csv` source in `sources.yml`: publish the sheet to the web as CSV, then give it `title` and `text` templates |
+| Spreadsheet that's a one-time list | Rows in `places.yml`, `resources.yml`, or a `recs/` file |
+| Calendar | An `ics` source with the public iCal address |
+| Blog, newsletter, news site with a feed | An `rss` source |
+| Site neighbors built | An entry in `resources.yml` with the questions it answers; if it has a feed, a calendar, a Neighborhood API, or an llm.txt, a source too |
+| Anything from a private group | Nothing yet: check with the group first, the way the Outer Dadas recs were |
+
+Then set the suggestion's `status: added` (or `declined`) and a one-line `decision:`. Neighbors see that on the sources page, so a no comes with a kind reason.
+
 ## Becoming a steward
 
 Open a PR that adds you to the table above, with a line on why you want to steward this and which part of the neighborhood you're closest to. Current stewards talk it over in the PR. We want this to be a few people from different corners of the Sunset, not a committee.
