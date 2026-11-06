@@ -26,18 +26,28 @@ sources:
     name: outersunset.today
     url: https://outersunset.today
     type: api
+    adapter: neighborhood-api
+    refresh: 1h
+    license: CC BY 4.0. Public events API following the Neighborhood API spec; no key needed.
+    status: live
+    config:
+      endpoints:
+        events: https://nawdvulumebqbxmkedzw.supabase.co/functions/v1/get-public-events
+      query: "start_after={today}&start_before={today+45}&limit=100"
+
+  - id: outersunset-today-menus
+    name: outersunset.today
+    url: https://outersunset.today
+    type: api
     adapter: supabase-rest
     refresh: 1h
-    license: Neighborhood site built by Josh Nesbit; public read of approved events and daily menus. Code at https://github.com/The-Relational-Technology-Project/outer-sunset-today
+    license: The Arizmendi pizza ticker and local news from outersunset.today's public tables. Needs the site's publishable key (OUTERSUNSET_TODAY_ANON_KEY); skipped without it. Retire this source once there's a public menus endpoint.
     status: live
     config:
       project_url: https://nawdvulumebqbxmkedzw.supabase.co
       key_env: OUTERSUNSET_TODAY_ANON_KEY
+      optional: true
       tables:
-        - table: events
-          kind: event
-          select: id,title,event_date,start_time,end_time,location,event_type,source_url,description
-          filter: "event_date=gte.{today}&order=event_date.asc&limit=200"
         - table: daily_menus
           kind: note
           select: id,restaurant,special_item,menu_date,category,hours,price,location
@@ -74,19 +84,11 @@ sources:
   - id: community-supplies
     name: communitysupplies.org
     url: https://communitysupplies.org
-    type: api
-    adapter: supabase-rest
+    type: page
     refresh: 24h
-    license: Sharing community for Sunset and Richmond. Only the public community listing is readable; the items themselves are visible to vouched members. See resources.yml for the answer to "do we have a tool library?"
-    status: live
-    config:
-      project_url: https://mbmmfgivhqzhjyneyelu.supabase.co
-      key_env: COMMUNITY_SUPPLIES_ANON_KEY
-      tables:
-        - table: communities
-          kind: resource
-          select: id,name,slug,description,public_location_label
-          filter: "discoverable=eq.true"
+    license: Sharing community for Sunset and Richmond. Items are visible only to vouched members, so there's nothing public to read; resources.yml carries the answer to "do we have a tool library?"
+    status: planned
+    note: Wire it if the site publishes a public listing or a Neighborhood API assets feed.
 
   - id: neighborhood-api
     name: Neighborhood API
