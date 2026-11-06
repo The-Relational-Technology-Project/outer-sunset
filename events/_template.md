@@ -5,7 +5,7 @@ start: "14:00"
 end: "17:00"
 place: 48th Ave at Judah St
 host: Neighbors on the 1300 block of 48th
-contact: a public url, email, or "ask the agent"
+contact: a public url or email, only if the host wants one listed
 source: told to the agent by the host
 added: 2026-11-06
 ---
