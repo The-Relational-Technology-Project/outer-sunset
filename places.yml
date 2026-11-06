@@ -1,0 +1,85 @@
+# Businesses and spots. Hours only with a source and a date; otherwise leave them out and the agent says it doesn't know.
+#
+# Fields: name, address, what, url, hours, hours_source, last_verified, tags
+
+places:
+  - name: Black Bird Bookstore
+    address: Irving St near 46th Ave
+    what: bookstore and cafe; the corkboard outside is where walking-group flyers go
+    url: https://www.blackbirdbooks.com/
+    hours: null
+    hours_source: null
+    last_verified: null
+    tags: [books, coffee, flyers, events]
+
+  - name: Arizmendi Bakery
+    address: 1331 9th Ave (Inner Sunset)
+    what: worker-owned bakery; the daily pizza shows up on outersunset.today
+    url: https://outersunset.today
+    hours: null
+    hours_source: null
+    last_verified: null
+    tags: [pizza, bread, co-op]
+
+  - name: Andytown Coffee Roasters
+    address: Lawton St at 43rd Ave
+    what: coffee; another spot where flyers get posted
+    url: https://www.andytownsf.com/
+    hours: null
+    hours_source: null
+    last_verified: null
+    tags: [coffee, flyers]
+
+  - name: Sunset Village Music Hall
+    address: 4114 Judah St
+    what: classes, kids' programs, shows; many sunsetboard.org listings happen here
+    url: https://sunsetboard.org
+    hours: null
+    hours_source: null
+    last_verified: 2026-11-06
+    tags: [music, classes, kids, venue]
+
+  - name: Far Out West Community Garden
+    address: Judah St between 43rd and 44th Ave
+    what: community garden, film series, neighbor coffee hangouts
+    url: https://faroutwestcommunity.org/
+    hours: null
+    hours_source: null
+    last_verified: 2026-11-06
+    tags: [garden, volunteering, gathering]
+
+  - name: Ortega Branch Library
+    address: 3223 Ortega St
+    what: public library; kids' programs, STEM afternoons
+    url: https://sfpl.org/locations/ortega
+    hours: null
+    hours_source: null
+    last_verified: null
+    tags: [library, kids, free]
+
+  - name: Episcopal Church of the Incarnation
+    address: 1750 29th Ave
+    what: church; hosts bazaars and community events
+    url: https://incarnationsf.org/events
+    hours: null
+    hours_source: null
+    last_verified: 2026-11-06
+    tags: [venue, events]
+
+  - name: Ocean Beach
+    address: the whole western edge
+    what: the beach. Fire rings between Stairwells 15 and 20; plover protection area to the south
+    url: https://www.nps.gov/goga/planyourvisit/oceanbeach.htm
+    hours: null
+    hours_source: null
+    last_verified: 2026-11-06
+    tags: [beach, ocean, bonfire, dogs, plovers]
+
+  - name: Sunset Dunes
+    address: the old Great Highway, Lincoln Way to Sloat Blvd
+    what: the park; events need a Rec and Park permit
+    url: https://sfrecpark.org/
+    hours: null
+    hours_source: null
+    last_verified: null
+    tags: [park, dunes, walking, biking]

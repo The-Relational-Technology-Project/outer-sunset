@@ -1,0 +1,53 @@
+# Systems neighbors already built and can use. The agent points here before proposing anything new.
+#
+# Fields: name, what, url, answers (the questions this is the answer to), how_to_use, source
+
+resources:
+  - name: Community Supplies
+    what: the Sunset and Richmond sharing community. Ladders, drills, a pressure washer, camping gear, books. Members lend to members.
+    url: https://communitysupplies.org
+    answers: [do we have a tool library, how do I borrow a ladder, can we start a tool-sharing thing, where can I lend my stuff]
+    how_to_use: Join at communitysupplies.org and get vouched by a neighbor who's already in. Then browse and ask.
+    source: https://communitysupplies.org
+
+  - name: outersunset.today
+    what: what's happening today and this week, the weekly email, the Arizmendi pizza ticker, local news
+    url: https://outersunset.today
+    answers: [what's happening today, what's on this weekend, what's the pizza, is there a newsletter]
+    how_to_use: Open the site. Submit an event with the form there, or tell this agent.
+    source: https://outersunset.today
+
+  - name: outersunset.us
+    what: the community guide; local groups by category, with how to join each one
+    url: https://outersunset.us
+    answers: [how do I meet people, is there a running group, where are the parent groups, how do I find a club]
+    how_to_use: Browse by category. Show up to one thing.
+    source: https://outersunset.us
+
+  - name: Sunset Board
+    what: fliers found on poles and boards in the Sunset, logged with dates and places, plus a calendar
+    url: https://sunsetboard.org
+    answers: [what classes are there, kids activities, what was on that flyer, where do I post a flyer]
+    how_to_use: Browse, or add a flyer you found. Calendar feed at sunsetboard.org/calendar.ics.
+    source: https://sunsetboard.org
+
+  - name: SF Welcome Packet
+    what: a welcome for new neighbors; an ambassador texts you a packet for your corner of the city
+    url: https://sf.welcomepacket.org
+    answers: [I just moved here, how do I welcome a new neighbor, is there a welcome packet]
+    how_to_use: Fill in the form. Live in the Lower Haight first; ask whether the Sunset is on yet.
+    source: https://sf.welcomepacket.org
+
+  - name: Sunset Social Club
+    what: a club for the neighborhood. Tea, tai chi, gatherings in neighbors' backyards.
+    url: https://sunsetsocialclub.org
+    answers: [how do I join something, is there a social club, who knows everyone]
+    how_to_use: Join on the site. Come to the next thing on the home page.
+    source: https://sunsetsocialclub.org
+
+  - name: Relational Tech Project
+    what: the group stewarding this agent and other neighborhood tools; runs build days
+    url: https://relationaltechproject.org
+    answers: [who built this, what's a build day, can I help build neighborhood tools]
+    how_to_use: Email josh@relationaltechproject.org or come to a build day.
+    source: STEWARDS.md

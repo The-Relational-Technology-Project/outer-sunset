@@ -1,0 +1,243 @@
+# Every data source the agent reads. If it isn't here, the agent doesn't know it.
+#
+# Fields
+#   id        short handle the code uses; adapters in the code repo are matched by `adapter`
+#   name      how the agent names the source in an answer
+#   url       the page a neighbor can open to check for themselves
+#   type      api | feed | page | repo-file
+#   adapter   which adapter in neighborhood-agent reads it (omit = listed but not wired yet)
+#   refresh   how often the agent refetches (cache TTL)
+#   license   permission note. Respect robots.txt and terms; if a source doesn't allow fetching, leave it out and say so here
+#   config    adapter-specific settings. Secrets never go here; they go in the environment
+#   status    live | planned | excluded
+
+sources:
+  - id: repo
+    name: this repo
+    url: https://github.com/The-Relational-Technology-Project/outer-sunset
+    type: repo-file
+    adapter: repo
+    refresh: 5m
+    license: CC BY 4.0
+    status: live
+    note: Events, corrections, proposals, people, places, resources, constituents. Always wins over fetched data when they conflict.
+
+  - id: outersunset-today
+    name: outersunset.today
+    url: https://outersunset.today
+    type: api
+    adapter: supabase-rest
+    refresh: 1h
+    license: Neighborhood site built by Josh Nesbit; public read of approved events and daily menus. Code at https://github.com/The-Relational-Technology-Project/outer-sunset-today
+    status: live
+    config:
+      project_url: https://nawdvulumebqbxmkedzw.supabase.co
+      key_env: OUTERSUNSET_TODAY_ANON_KEY
+      tables:
+        - table: events
+          kind: event
+          select: id,title,event_date,start_time,end_time,location,event_type,source_url,description
+          filter: "event_date=gte.{today}&order=event_date.asc&limit=200"
+        - table: daily_menus
+          kind: note
+          select: id,restaurant,special_item,menu_date,category,hours,price,location
+          filter: "menu_date=gte.{today}&order=menu_date.asc&limit=50"
+        - table: news_items
+          kind: archive-note
+          select: id,title,source_name,source_url,published_at,summary
+          filter: "order=published_at.desc&limit=30"
+
+  - id: sunsetboard
+    name: sunsetboard.org
+    url: https://sunsetboard.org
+    type: feed
+    adapter: ics
+    refresh: 2h
+    license: Rory Partalis's project. robots.txt welcomes search engines; public iCal feed.
+    status: live
+    config:
+      ics_url: https://sunsetboard.org/calendar.ics
+      horizon_days: 60
+
+  - id: outersunset-us
+    name: outersunset.us
+    url: https://outersunset.us
+    type: api
+    adapter: llm-txt
+    refresh: 24h
+    license: Community guide (Sunset People). Publishes a text endpoint meant for this. Code at https://github.com/The-Relational-Technology-Project/sunsetpeople
+    status: live
+    config:
+      text_url: https://onskepiqiwkbulhtxnsx.supabase.co/functions/v1/llm-txt
+      fallback_url: https://outersunset.us/llm.txt
+
+  - id: community-supplies
+    name: communitysupplies.org
+    url: https://communitysupplies.org
+    type: api
+    adapter: supabase-rest
+    refresh: 24h
+    license: Sharing community for Sunset and Richmond. Only the public community listing is readable; the items themselves are visible to vouched members. See resources.yml for the answer to "do we have a tool library?"
+    status: live
+    config:
+      project_url: https://mbmmfgivhqzhjyneyelu.supabase.co
+      key_env: COMMUNITY_SUPPLIES_ANON_KEY
+      tables:
+        - table: communities
+          kind: resource
+          select: id,name,slug,description,public_location_label
+          filter: "discoverable=eq.true"
+
+  - id: neighborhood-api
+    name: Neighborhood API
+    url: https://github.com/The-Relational-Technology-Project/neighborhood-api
+    type: api
+    adapter: neighborhood-api
+    refresh: 1h
+    license: Open spec, CC BY 4.0 entries. Reference implementation for the Sunset is not yet hosted; set base_url when it is.
+    status: planned
+    config:
+      base_url: ""
+
+  - id: sunset-social-club
+    name: sunsetsocialclub.org
+    url: https://sunsetsocialclub.org
+    type: page
+    refresh: 24h
+    license: Club site. Server-rendered home page with the next event; no feed yet.
+    status: planned
+    note: Listed as a group in resources.yml and via outersunset.us. Ask the club for an iCal or JSON feed before scraping.
+
+  - id: welcome-packet
+    name: sf.welcomepacket.org
+    url: https://sf.welcomepacket.org
+    type: page
+    refresh: 7d
+    license: Joel Reske's project. robots.txt disallows /neighbor-packet, /submission-receipt, /ambassador, /api/. Only the front page is read.
+    status: planned
+    note: Listed in resources.yml.
+
+  - id: cozy-corner
+    name: cozycorner.place
+    url: https://cozycorner.place
+    type: page
+    refresh: 24h
+    license: Client-rendered; nothing to read without a feed.
+    status: planned
+
+  - id: sunset-events-feed
+    name: Sunset Events (Benjamin Von Wong)
+    url: ""
+    type: feed
+    refresh: 24h
+    license: Josh to confirm access; may already flow into outersunset.today.
+    status: planned
+
+  - id: noaa-tides
+    name: NOAA Tides and Currents
+    url: https://tidesandcurrents.noaa.gov/stationhome.html?id=9414290
+    type: api
+    adapter: noaa-tides
+    refresh: 1h
+    license: US government data, public domain.
+    status: live
+    vital_sign: true
+    config:
+      station: "9414290"
+
+  - id: open-meteo-marine
+    name: Open-Meteo marine
+    url: https://open-meteo.com/en/docs/marine-weather-api
+    type: api
+    adapter: open-meteo-marine
+    refresh: 1h
+    license: CC BY 4.0, free for non-commercial use. Model estimate, not a buoy.
+    status: live
+    vital_sign: true
+    config:
+      latitude: 37.753
+      longitude: -122.51
+
+  - id: open-meteo-air
+    name: Open-Meteo air quality
+    url: https://open-meteo.com/en/docs/air-quality-api
+    type: api
+    adapter: open-meteo-air
+    refresh: 1h
+    license: CC BY 4.0, free for non-commercial use. CAMS model data.
+    status: live
+    vital_sign: true
+    config:
+      latitude: 37.753
+      longitude: -122.505
+
+  - id: sfpuc-beach-water
+    name: SFPUC beach water quality
+    url: https://sfpuc.org/programs/ocean-and-beach-monitoring
+    type: page
+    refresh: 24h
+    license: No public feed found. Results are on a map and a hotline (415-242-2214). The agent links the page and the hotline.
+    status: excluded
+    vital_sign: true
+
+  - id: plover-season
+    name: GGNRA snowy plover protection season
+    url: https://www.nps.gov/goga/planyourvisit/oceanbeach.htm
+    type: repo-file
+    adapter: plover-season
+    refresh: 24h
+    license: Dates come from constituents/plovers.md, which cites the NPS Ocean Beach page.
+    status: live
+    vital_sign: true
+
+  - id: nps-alerts
+    name: NPS alerts for Golden Gate
+    url: https://www.nps.gov/goga/planyourvisit/conditions.htm
+    type: api
+    adapter: nps-alerts
+    refresh: 6h
+    license: US government data. Needs an NPS API key in the environment (NPS_API_KEY); DEMO_KEY works for light use.
+    status: live
+    vital_sign: true
+    config:
+      park_code: goga
+      key_env: NPS_API_KEY
+
+  - id: inaturalist
+    name: iNaturalist
+    url: https://www.inaturalist.org/observations?nelat=37.78&nelng=-122.47&swlat=37.72&swlng=-122.52
+    type: api
+    adapter: inaturalist
+    refresh: 6h
+    license: Observations are licensed by their observers, mostly CC BY-NC. The agent shows common name, date, place, and the observation link. No photos cached.
+    status: live
+    vital_sign: true
+    config:
+      nelat: 37.78
+      nelng: -122.47
+      swlat: 37.72
+      swlng: -122.52
+      per_page: 30
+
+  - id: airnow
+    name: AirNow
+    url: https://www.airnow.gov/
+    type: api
+    refresh: 1h
+    license: Needs an API key. Open-Meteo covers air quality for now.
+    status: planned
+
+  - id: opensfhistory
+    name: OpenSFHistory
+    url: https://opensfhistory.org/
+    type: page
+    refresh: 30d
+    license: Western Neighborhoods Project. Check their terms before caching anything; for now the agent links, it doesn't fetch.
+    status: planned
+
+  - id: instagram
+    name: Instagram
+    url: ""
+    type: page
+    license: No public page or feed. Excluded by rule.
+    status: excluded

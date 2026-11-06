@@ -1,0 +1,65 @@
+# Public points of contact neighbors have agreed to be listed as.
+#
+# Rule: a person goes here only with their yes, for this purpose. Until then, list the org and its
+# public contact page, not a person. The agent can point to anything here; it refuses to say where
+# any individual lives.
+#
+# Fields: name, org, role, reach (a public url or address they chose), topics (what to send them), listed (date), consent (how)
+
+people:
+  - name: Josh Nesbit
+    org: Relational Tech Project
+    role: first steward of this agent
+    reach: josh@relationaltechproject.org
+    topics: [stewarding, the agent itself, outersunset.today, build days]
+    listed: 2026-11-06
+    consent: wrote the spec
+
+orgs:
+  - name: Sunset Social Club
+    role: a club for the neighborhood; gatherings, tea, tai chi, members
+    reach: https://sunsetsocialclub.org/contact
+    topics: [meeting people, joining something, hosting a gathering]
+    source: https://sunsetsocialclub.org
+
+  - name: Surfrider Foundation San Francisco
+    role: beach cleanups, ocean advocacy
+    reach: https://sf.surfrider.org/
+    topics: [beach cleanups, the ocean, water quality]
+    source: https://outersunset.us
+
+  - name: Far Out West Community Garden
+    role: community garden, film nights, neighbor coffee
+    reach: https://faroutwestcommunity.org/
+    topics: [gardening, outdoor film, volunteering]
+    source: https://outersunset.us
+
+  - name: Sunset Dunes parkrun
+    role: free weekly 5k, Saturdays 8am
+    reach: https://www.parkrun.us/sunsetdunes/
+    topics: [running, walking, Saturday mornings]
+    source: https://outersunset.us
+
+  - name: Community Supplies
+    role: the Sunset and Richmond sharing community
+    reach: https://communitysupplies.org
+    topics: [borrowing tools, lending things, a tool library]
+    source: https://communitysupplies.org
+
+  - name: Sunset Board
+    role: flyers found on poles and boards, logged
+    reach: https://sunsetboard.org/add
+    topics: [posting a flyer, classes, kids, music]
+    source: https://sunsetboard.org
+
+  - name: SF Recreation and Parks
+    role: runs Sunset Dunes; permits for events there
+    reach: https://sfrecpark.org/
+    topics: [events in Sunset Dunes, permits]
+    source: constituents/dunes.md
+
+  - name: San Francisco Animal Care and Control
+    role: coyotes, lost pets
+    reach: "415-554-6364"
+    topics: [coyotes, an aggressive animal, a lost dog]
+    source: constituents/coyotes.md
