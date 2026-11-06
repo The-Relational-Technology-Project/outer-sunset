@@ -113,6 +113,89 @@ sources:
     config:
       base_url: ""
 
+  - id: sf-development-pipeline
+    name: SF Development Pipeline (SF Planning)
+    url: https://data.sf.gov/d/6jgi-cpb4
+    type: api
+    adapter: socrata
+    refresh: 7d
+    license: City of San Francisco open data (PDDL). Updated quarterly. Covers the whole Sunset/Parkside planning neighborhood, not only the Outer Sunset. Sponsor and contact columns are left out.
+    status: live
+    config:
+      domain: data.sf.gov
+      dataset: 6jgi-cpb4
+      select: case_no,blklot,nameaddr,current_status,current_status_date,description_planning,net_pipeline_units,pipeline_affordable_units,zoning_district,height_district,planner
+      where: nhood41 = 'Sunset/Parkside'
+      order: current_status_date DESC
+      limit: 500
+      kind: development
+      id: "{case_no}-{blklot}"
+      title: "{nameaddr}"
+      text: "[{net_pipeline_units|size}. ][Status: {current_status|label}, as of {current_status_date|date}. ][Net new homes: {net_pipeline_units|num}. ][Affordable: {pipeline_affordable_units|num}. ]{description_planning}[ Zoning: {zoning_district}, height {height_district}.][ Planner: {planner}.][ Planning case {case_no}.]"
+      date: current_status_date
+      location: nameaddr
+      url: "https://sfplanninggis.org/pim?search={case_no}"
+      tags: [development, housing, construction, pipeline]
+      labels:
+        current_status:
+          PL Filed: planning application filed, under review
+          PL Approved: approved by Planning; building permit not yet filed
+          BP Filed: building permit filed
+          BP Approved: building permit approved
+          BP Issued: building permit issued; construction can start
+          Construction: under construction
+
+  - id: sf-planning-projects
+    name: SF Planning project records
+    url: https://data.sf.gov/d/qvu5-m3a2
+    type: api
+    adapter: socrata
+    refresh: 12h
+    license: City of San Francisco open data (PDDL), updated daily. Projects in the Sunset ZIP codes (94122 and 94116, which also take in the Inner Sunset and Parkside), open ones filed in the last three years and any closed in the last year. Applicant names are left out.
+    status: live
+    config:
+      domain: data.sf.gov
+      dataset: qvu5-m3a2
+      select: record_id,project_name,description,record_status,project_address,open_date,close_date,project_decision,assigned_to_planner,number_of_units_net,number_of_affordable_units,environmental_document_type
+      where: "record_type = 'PRJ' AND (project_address like '%94122' OR project_address like '%94116') AND ((close_date IS NULL AND open_date > '{today-1095}') OR close_date > '{today-365}')"
+      order: open_date DESC
+      limit: 500
+      kind: development
+      id: record_id
+      title: "{project_name}"
+      text: "[{number_of_units_net|size}. ][Status: {record_status}. ][Decision: {project_decision}. ][Opened {open_date|date}. ][Closed {close_date|date}. ][Net new homes: {number_of_units_net|num}. ][Affordable: {number_of_affordable_units|num}. ]{description}[ Planner: {assigned_to_planner}.][ Record {record_id}.]"
+      date: open_date
+      location: project_address
+      url: "https://sfplanninggis.org/pim?search={record_id}"
+      tags: [development, planning, permit]
+
+  - id: sf-311
+    name: SF 311 Cases
+    url: https://data.sf.gov/d/vw6y-z8j6
+    type: api
+    live_query: "311"
+    refresh: live
+    license: City of San Francisco open data (PDDL), updated daily. Queried live, not stored. Addresses are shown at block level; reporters aren't in the data; photos aren't linked.
+    status: live
+    config:
+      domain: data.sf.gov
+      dataset: vw6y-z8j6
+      neighborhood_field: neighborhoods_sffind_boundaries
+      neighborhood: Outer Sunset
+      case_url: "https://mobile311.sfgov.org/tickets/{id}"
+      report_url: https://sf311.org
+      # Plain words neighbors use, mapped to the city's names (added to the built-in list)
+      topic_aliases:
+        speeding: [traffic, mta]
+        bike lane: [bike, blocked]
+
+  - id: hoodline
+    name: Hoodline
+    url: https://hoodline.com
+    type: page
+    license: Blocks automated requests (403 on its pages, feeds, and sitemap). Excluded. Some of its stories reach Knowy through outersunset.today's news feed.
+    status: excluded
+
   - id: sunset-social-club
     name: sunsetsocialclub.org
     url: https://sunsetsocialclub.org

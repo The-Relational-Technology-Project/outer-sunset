@@ -45,6 +45,20 @@ resources:
     how_to_use: Join on the site. Come to the next thing on the home page.
     source: https://sunsetsocialclub.org
 
+  - name: SF311
+    what: the city's line for reporting street and sidewalk problems, graffiti, potholes, trees, streetlights, noise, and more, and for checking a case
+    url: https://sf311.org
+    answers: [how do I report a pothole, who do I call about graffiti, how do I report a broken streetlight, how do I check my 311 case]
+    how_to_use: Report in the SF311 app, at sf311.org, or by calling 311. Knowy can look up a case's status by its number.
+    source: https://sf311.org
+
+  - name: SF Planning Property Information Map
+    what: the city's map of every planning application, permit, and zoning rule by address
+    url: https://sfplanninggis.org/pim/
+    answers: [what's being built at, is there a permit for, what's the zoning on, who's the planner for]
+    how_to_use: Search an address or a record number. Knowy links each development to its page here.
+    source: https://sfplanninggis.org/pim/
+
   - name: Relational Tech Project
     what: the group stewarding this agent and other neighborhood tools; runs build days
     url: https://relationaltechproject.org
