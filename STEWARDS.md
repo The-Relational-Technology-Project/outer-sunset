@@ -52,3 +52,11 @@ Open a PR that adds you to the table above, with a line on why you want to stewa
 ## Stepping back
 
 Open a PR removing your row. No explanation needed. Thank you for the time you gave.
+
+## Doors (doors.yml)
+
+Groups that are glad to meet people at a life change: a new baby, a new move, a kid starting school. When a neighbor mentions one, Knowy offers a door or two, once, with how to get in. It points to the group, never to a member, and never guesses someone's life stage.
+
+- Add a group only if it's public, or its organizers said Knowy may point people there. Write how and when in `confirmed`.
+- `how_to_join` is only what the group is happy to have shared.
+- A new moment (say, newly retired) needs at least one group that wants to be its door.

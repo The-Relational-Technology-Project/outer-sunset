@@ -1,0 +1,72 @@
+# Doors: groups that are glad to meet people at a life change.
+#
+# When a neighbor mentions a moment like a new baby or a new move, Knowy offers one or two of these,
+# once, with how to get in. It points to the group; the group's own people decide who joins. Knowy
+# never hands out anyone's contact and never asks about the neighbor's life.
+#
+# Fields:
+#   group        the group's name, as neighbors say it
+#   moments      which moments it's a good door for: new-parent, new-to-neighborhood,
+#                kids-starting-school (add others as groups say yes)
+#   what         one line on what it's like
+#   how_to_join  the public way in. Only what the group is happy to have shared.
+#   url          the group's page, or where it's listed
+#   ok_to_point  yes only when the group is public or its organizers said Knowy may point people there
+#   confirmed    when, and how (public listing, or which steward checked with the group)
+
+doors:
+  - group: Outer Dadas
+    moments: [new-parent]
+    what: A group chat of dads in the Outer Sunset, where they trade recommendations and help each other out.
+    how_to_join: Ask a neighborhood steward to add you; see the contact page.
+    url: https://knowy.org/contact
+    ok_to_point: yes
+    confirmed: 2026-11-07, a steward who's a member (Knowy already sends people here for recs)
+
+  - group: Outer Village
+    moments: [new-parent]
+    what: A community space with classes, workshops, and events, with a focus on parents.
+    how_to_join: Go to a class or an event; they're listed on the community guide.
+    url: https://outersunset.us
+    ok_to_point: yes
+    confirmed: 2026-11-07, public listing on outersunset.us
+
+  - group: School PTAs
+    moments: [kids-starting-school, new-parent]
+    what: Where parents at each local school gather and organize.
+    how_to_join: Ask your school's front office or go to the next PTA meeting.
+    url: https://outersunset.us
+    ok_to_point: yes
+    confirmed: 2026-11-07, public listing on outersunset.us
+
+  - group: Sunset Dunes parkrun
+    moments: [new-to-neighborhood]
+    what: A free 5k run, jog, or walk in Sunset Dunes every Saturday at 8am. Everyone's welcome, at any pace.
+    how_to_join: Show up Saturday at 8.
+    url: https://outersunset.us
+    ok_to_point: yes
+    confirmed: 2026-11-07, public listing on outersunset.us
+
+  - group: Walking groups
+    moments: [new-to-neighborhood]
+    what: Neighbors who walk together on a regular schedule.
+    how_to_join: Look for the flyers near Black Bird on Irving and Andytown on Lawton.
+    url: https://outersunset.us
+    ok_to_point: yes
+    confirmed: 2026-11-07, public listing on outersunset.us
+
+  - group: Community Supplies
+    moments: [new-to-neighborhood]
+    what: The Sunset and Richmond sharing community. Members lend ladders, drills, camping gear, and books to each other.
+    how_to_join: Join at communitysupplies.org and get vouched in by a neighbor who's already a member, which is a nice way to meet one.
+    url: https://communitysupplies.org
+    ok_to_point: yes
+    confirmed: 2026-11-07, public site
+
+  - group: Outer Sunset Farmers' Market
+    moments: [new-to-neighborhood]
+    what: Sunday mornings. Where the neighborhood runs into each other while buying produce.
+    how_to_join: Go on a Sunday morning.
+    url: https://outersunset.us
+    ok_to_point: yes
+    confirmed: 2026-11-07, public listing on outersunset.us
