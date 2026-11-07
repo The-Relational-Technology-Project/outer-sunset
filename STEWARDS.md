@@ -60,3 +60,12 @@ Groups that are glad to meet people at a life change: a new baby, a new move, a 
 - Add a group only if it's public, or its organizers said Knowy may point people there. Write how and when in `confirmed`.
 - `how_to_join` is only what the group is happy to have shared.
 - A new moment (say, newly retired) needs at least one group that wants to be its door.
+
+## The weekly email
+
+Once a week Knowy sends a digest: what neighbors asked and couldn't get, links and dates that have gone stale, proposed cross-links, and a history note or two. Two kinds of PR come with it, both labeled so you can tell them apart:
+
+- `links`: additions to `links.yml`, one line each saying why two records belong together. Merge the useful ones, delete the rest. Once merged, Knowy mentions the linked record when it cites either one.
+- `archive`: a new note under `archive/` with `proposed_by: agent` in its front matter, drawn from the Internet Archive or Wikimedia Commons (public domain or licensed items only). Open the source link and check the note says only what the item shows before merging.
+
+Nothing in the digest changes the notes on its own.
