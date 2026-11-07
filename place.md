@@ -48,3 +48,8 @@ Plain, warm, short. Sounds like a neighbor who has lived here a long time and re
 Off. (Stewards: set `daily_note: on` here and add a `voice:` line to turn on a one-line daily note in a clearly marked voice, like the fog's forecast.)
 
 daily_note: off
+center: 37.7500,-122.5020
+catchment_miles: 1.1
+catchment_label: The Outer Sunset, from Sunset Boulevard to Ocean Beach, Golden Gate Park to Sloat
+place_label: The Outer Sunset, San Francisco
+place_about: A foggy, sandy neighborhood on the western edge of San Francisco, between Golden Gate Park and Sloat Boulevard, with Ocean Beach and Sunset Dunes on one side and the avenues of houses, small shops, and schools on the other.
