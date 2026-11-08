@@ -2,7 +2,8 @@
 #
 # When a neighbor mentions a moment like a new baby or a new move, Knowy offers one or two of these,
 # once, with how to get in. It points to the group; the group's own people decide who joins. Knowy
-# never hands out anyone's contact and never asks about the neighbor's life.
+# never hands out anyone's contact and never asks about the neighbor's life. Along with the door, Knowy
+# offers the ask: one plain line on what to say when you show up or write in (see place.md).
 #
 # Fields:
 #   group        the group's name, as neighbors say it
