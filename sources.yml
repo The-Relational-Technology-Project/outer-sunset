@@ -52,29 +52,19 @@ sources:
       query: "start_after={today}&start_before={today+45}&limit=100"
 
   - id: outersunset-today-menus
-    name: outersunset.today pizza and news
-    about: The daily Arizmendi pizza and local news headlines.
+    name: outersunset.today pizza, school lunch, and news
+    about: The daily Arizmendi pizza, the SFUSD school lunch, and local news headlines.
     url: https://outersunset.today
     type: api
-    adapter: supabase-rest
+    adapter: neighborhood-api
     refresh: 1h
-    # Stewards: needs OUTERSUNSET_TODAY_ANON_KEY (the site's publishable key); skipped without it.
-    # Retire this source once outersunset.today publishes a public menus endpoint.
-    license: The Arizmendi pizza ticker and local news from outersunset.today.
+    license: CC BY 4.0. Public feeds following the Neighborhood API spec; no key needed.
     status: live
     config:
-      project_url: https://nawdvulumebqbxmkedzw.supabase.co
-      key_env: OUTERSUNSET_TODAY_ANON_KEY
-      optional: true
-      tables:
-        - table: daily_menus
-          kind: note
-          select: id,restaurant,special_item,menu_date,category,hours,price,location
-          filter: "menu_date=gte.{today}&order=menu_date.asc&limit=50"
-        - table: news_items
-          kind: archive-note
-          select: id,title,source_name,source_url,published_at,summary
-          filter: "order=published_at.desc&limit=30"
+      endpoints:
+        pizza: "https://nawdvulumebqbxmkedzw.supabase.co/functions/v1/get-public-pizza?start_after={today}&start_before={today+14}"
+        school_lunch: "https://nawdvulumebqbxmkedzw.supabase.co/functions/v1/get-public-school-lunch?start_after={today}&start_before={today+14}"
+        news: "https://nawdvulumebqbxmkedzw.supabase.co/functions/v1/get-public-news?start_after={today-14}&limit=30"
 
   - id: sunsetboard
     name: sunsetboard.org
