@@ -39,10 +39,10 @@ resources:
     source: https://sf.welcomepacket.org
 
   - name: Sunset Social Club
-    what: a club for the neighborhood. Tea, tai chi, gatherings in neighbors' backyards.
+    what: a free club for the neighborhood, for anyone who lives in the Sunset or is a friend of it. Potlucks, pizza, workshops, tea and tai chi, a build-a-thon, and the Sunset Wave. Its vision is a Sunset where everyone knows someone on every block.
     url: https://sunsetsocialclub.org
-    answers: [how do I join something, is there a social club, who knows everyone]
-    how_to_use: Join on the site. Come to the next thing on the home page.
+    answers: [how do I join something, is there a social club, who knows everyone, how do I join the Sunset Social Club, when is the next Sunset Social Club event, I have an idea for a neighborhood gathering, how do I host a club event]
+    how_to_use: Join at sunsetsocialclub.org/join with an email. Upcoming gatherings and RSVPs are at luma.com/sunsetsocialclub. Share an idea on the public board on the home page.
     source: https://sunsetsocialclub.org
 
   - name: The Sunset Wave

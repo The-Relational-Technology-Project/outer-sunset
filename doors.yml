@@ -78,3 +78,11 @@ doors:
     url: https://thesunsetwave.org
     ok_to_point: yes
     confirmed: 2026-11-09, a steward of the Wave; public site
+
+  - group: Sunset Social Club
+    moments: [new-to-neighborhood]
+    what: A free club for anyone who lives in the Sunset. Potlucks, workshops, tea and tai chi, hosted by neighbors.
+    how_to_join: Join at sunsetsocialclub.org/join, then come to the next gathering on luma.com/sunsetsocialclub.
+    url: https://sunsetsocialclub.org
+    ok_to_point: yes
+    confirmed: 2026-11-09, a steward of the club; public site

@@ -202,13 +202,16 @@ sources:
 
   - id: sunset-social-club
     name: sunsetsocialclub.org
-    about: The Sunset Social Club's gatherings, once the club has a calendar feed.
-    url: https://sunsetsocialclub.org
-    type: page
-    refresh: 24h
-    license: Club site. Server-rendered home page with the next event; no feed yet.
-    status: planned
-    note: Listed as a group via outersunset.us. Knowy would need a calendar feed from the club to read its events.
+    about: The Sunset Social Club's gatherings, from the club's public calendar.
+    url: https://luma.com/sunsetsocialclub
+    type: feed
+    adapter: ics
+    refresh: 12h
+    license: The club's public Luma calendar, shared by its stewards. Public iCal feed; the feed asks to be checked every 12 hours. robots.txt on the feed's host disallows only /insights/.
+    status: live
+    config:
+      ics_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-EktVbYQFoGMjT6M
+      horizon_days: 90
 
   - id: the-sunset-wave
     name: thesunsetwave.org
