@@ -17,10 +17,16 @@ people:
 
 orgs:
   - name: Sunset Social Club
-    role: a club for the neighborhood; gatherings, tea, tai chi, members
+    role: a free neighborhood club run by people who live in the Sunset; gatherings, workshops, tea, tai chi, and the Sunset Wave. Write to oursunsetsocialclub@gmail.com or use the contact page.
     reach: https://sunsetsocialclub.org/contact
-    topics: [meeting people, joining something, hosting a gathering]
+    topics: [meeting people, joining something, hosting a gathering, ideas for a gathering, sponsoring an event, the Sunset Wave]
     source: https://sunsetsocialclub.org
+
+  - name: The Sunset Wave
+    role: neighbor gatherings on every block on Saturday, March 20, 2027, organized by the Sunset Social Club; Sandi Lam Harder and Josh Nesbit are its stewards
+    reach: oursunsetsocialclub@gmail.com
+    topics: [hosting a gathering on your block, block parties, co-hosting, street closure permits, help with hosting costs, sponsoring or donating, press about the Wave]
+    source: https://thesunsetwave.org/contact
 
   - name: Surfrider Foundation San Francisco
     role: beach cleanups, ocean advocacy

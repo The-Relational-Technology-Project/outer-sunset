@@ -202,13 +202,26 @@ sources:
 
   - id: sunset-social-club
     name: sunsetsocialclub.org
-    about: The Sunset Social Club's gatherings, once the club has a calendar feed.
-    url: https://sunsetsocialclub.org
+    about: The Sunset Social Club's gatherings, from the club's public calendar.
+    url: https://luma.com/sunsetsocialclub
+    type: feed
+    adapter: ics
+    refresh: 12h
+    license: The club's public Luma calendar, shared by its stewards. Public iCal feed; the feed asks to be checked every 12 hours. robots.txt on the feed's host disallows only /insights/.
+    status: live
+    config:
+      ics_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-EktVbYQFoGMjT6M
+      horizon_days: 90
+
+  - id: the-sunset-wave
+    name: thesunsetwave.org
+    about: The Sunset Wave, neighbor gatherings on every block on March 20, 2027. Which blocks have a host, once the site shares that as a feed.
+    url: https://thesunsetwave.org
     type: page
     refresh: 24h
-    license: Club site. Server-rendered home page with the next event; no feed yet.
+    license: The Sunset Social Club's site. robots.txt allows all automated visitors. The page and map are drawn in the browser; no feed yet.
     status: planned
-    note: Listed as a group via outersunset.us. Knowy would need a calendar feed from the club to read its events.
+    note: Knowy answers from the neighborhood's own notes on the Wave, written from the site and checked by its stewards. A public count of hosts by block would let it read the map.
 
   - id: welcome-packet
     name: sf.welcomepacket.org
