@@ -210,6 +210,16 @@ sources:
     status: planned
     note: Listed as a group via outersunset.us. Knowy would need a calendar feed from the club to read its events.
 
+  - id: the-sunset-wave
+    name: thesunsetwave.org
+    about: The Sunset Wave, neighbor gatherings on every block on March 20, 2027. Which blocks have a host, once the site shares that as a feed.
+    url: https://thesunsetwave.org
+    type: page
+    refresh: 24h
+    license: The Sunset Social Club's site. robots.txt allows all automated visitors. The page and map are drawn in the browser; no feed yet.
+    status: planned
+    note: Knowy answers from the neighborhood's own notes on the Wave, written from the site and checked by its stewards. A public count of hosts by block would let it read the map.
+
   - id: welcome-packet
     name: sf.welcomepacket.org
     about: Welcome packets for new neighbors.

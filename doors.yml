@@ -70,3 +70,11 @@ doors:
     url: https://outersunset.us
     ok_to_point: yes
     confirmed: 2026-11-07, public listing on outersunset.us
+
+  - group: The Sunset Wave
+    moments: [new-to-neighborhood]
+    what: Gatherings on blocks all over the Sunset on Saturday, March 20, 2027. A way to meet the people on your own block, as a host or by walking outside.
+    how_to_join: Find your block on the map at thesunsetwave.org, or raise your hand there to host.
+    url: https://thesunsetwave.org
+    ok_to_point: yes
+    confirmed: 2026-11-09, a steward of the Wave; public site

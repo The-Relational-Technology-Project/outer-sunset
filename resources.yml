@@ -45,6 +45,13 @@ resources:
     how_to_use: Join on the site. Come to the next thing on the home page.
     source: https://sunsetsocialclub.org
 
+  - name: The Sunset Wave
+    what: neighbor gatherings on every block of the Sunset on one day, Saturday, March 20, 2027. The aim is 400. Neighbors host on their own block, with support from the Sunset Social Club.
+    url: https://thesunsetwave.org
+    answers: [what is the Sunset Wave, how do I host a block party, how do I host a gathering on my block, do I need a permit for a block party, is anyone hosting on my block, how do I meet the people on my block, when is the Sunset Wave, how do I sponsor or donate to the Sunset Wave, who organizes the Sunset Wave]
+    how_to_use: Tap "Host on your block" at thesunsetwave.org and give your stretch, or find your block on the map to see if a neighbor has already raised a hand. Questions go to oursunsetsocialclub@gmail.com.
+    source: https://thesunsetwave.org
+
   - name: SF311
     what: the city's line for reporting street and sidewalk problems, graffiti, potholes, trees, streetlights, noise, and more, and for checking a case
     url: https://sf311.org
