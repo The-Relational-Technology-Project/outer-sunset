@@ -45,6 +45,26 @@ Merge the suggestion file as the record, then bring the source in the right way:
 
 Then set the suggestion's `status: added` (or `declined`) and a one-line `decision:`. Neighbors see that on the sources page, so a no comes with a kind reason.
 
+## Neighbors who offer to be asked (knowers/)
+
+Anyone can offer on the commons page to be asked about what they know. What reaches us is only the public part: a description and what they know, as a pull request labeled `knower` adding a file to `knowers/`. Their name and email are held privately (as contacts in Resend, outside every broadcast) and are not in this repo; `ref` is an opaque handle.
+
+- They already confirmed from their own email. Read the description: anything private, anyone else named? Then merge.
+- To pause someone, set `status: paused`. When someone uses the stop link in an email, their contact is deleted at once and we get a note to remove their file. Do it the same day.
+- We never need their email. If we want to thank them, ask Knowy to pass a note along like any other question.
+
+## What neighbors give (knowledge/)
+
+A memory, a piece of history, an answer to another neighbor's question. Each arrives as a pull request labeled `knowledge`.
+
+- Keep their words. Credit them the way they asked.
+- Leave out other people's names and addresses.
+- We don't fact-check it like a paper would. Knowy passes it on as one neighbor's account. When it disagrees with a published source, Knowy gives both. When two neighbors remember it differently, keep both.
+
+## History and field notes (archive/)
+
+Notes gathered from public sources, one `##` section per subject, each ending in its sources. Knowy searches them a section at a time. They are a place to start, written in November 2026, and they will have mistakes. A neighbor's correction or account wins. When you fix one, fix the section and its source line together.
+
 ## Becoming a steward
 
 Open a PR that adds you to the table above, with a line on why you want to steward this and which part of the neighborhood you're closest to. Current stewards talk it over in the PR. We want this to be a few people from different corners of the Sunset, not a committee.
