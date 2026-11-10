@@ -22,7 +22,9 @@ The code that runs the agent lives in a separate repo, [neighborhood-agent](http
 | `proposals/` | Open asks from neighbors: a build day, a tool library, a question for stewards | Neighbors via the agent, or by hand |
 | `corrections/` | Merged corrections, dated and attributed. The agent prefers these over anything it fetched | Neighbors via the agent, or by hand |
 | `suggestions/` | Sources neighbors suggested, and what the stewards decided. Knowy shows these but never answers from them | Neighbors via Knowy; stewards set the status |
-| `archive/` | History notes and pointers into public archives | Anyone |
+| `archive/` | History and field notes, one `##` section per subject with its sources: the eras of the place, its plants and animals and how they live together | Anyone, by PR |
+| `knowledge/` | What neighbors shared in their own words: memories, history, answers to each other's questions. Passed on as one neighbor's account | Neighbors via Knowy; stewards review |
+| `knowers/` | Neighbors who offered to be asked: a description and what they know. No names or emails; those are held privately, outside this repo | Neighbors via Knowy; stewards review |
 | `log/questions.md` | Aggregated question log by topic and week. No names, no message text | The agent, by PR |
 
 ## How to correct the agent
