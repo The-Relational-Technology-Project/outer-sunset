@@ -37,6 +37,19 @@ sources:
       file: recs/outer-dadas.yml
       group: Outer Dadas
 
+  - id: sunset-neighbors-picks
+    name: Sunset neighbors' picks
+    about: 'Places and services neighbors spoke well of in a long-running neighborhood chat: vets, mechanics, cafes to work from, bars to watch a game, and more, with how many vouched and when. Places, not people.'
+    url: https://knowy.org/sources
+    type: repo-file
+    adapter: recs
+    refresh: 5m
+    license: Compiled by a steward from a Sunset neighbors' group chat (late May to mid-November 2026). Only places and services with a public presence. No one who recommended or commented is named or quoted; no individuals, phone numbers, or addresses. The chat itself is not kept.
+    status: live
+    config:
+      file: recs/sunset-neighbors.yml
+      group: a Sunset neighbors' chat
+
   - id: outersunset-today
     name: outersunset.today events
     about: What's happening around the neighborhood, today and the weeks ahead.
