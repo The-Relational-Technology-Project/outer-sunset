@@ -65,6 +65,14 @@ A memory, a piece of history, an answer to another neighbor's question. Each arr
 
 Notes gathered from public sources, one `##` section per subject, each ending in its sources. Knowy searches them a section at a time. They are a place to start, written in November 2026, and they will have mistakes. A neighbor's correction or account wins. When you fix one, fix the section and its source line together.
 
+## Block by block (blocks/)
+
+Notes pinned to a corner or a block, so Knowy can answer "what's special about my block?". `blocks/README.md` says how a note is written.
+
+- A note needs a place (a corner or a block, never a house number) and a source. A neighbor's memory of their block goes in `knowledge/` instead, in their words.
+- The photographs are pins and links into OpenSFHistory, credited the way the archive asks. We keep no captions or pictures: the archive asks that its content not be collected for AI. Ask the Western Neighborhoods Project before adding more than a link.
+- `grid.yml` is built by a script from public data (the Wave's map, USGS heights, the Assessor's roll). Fix a block's figures with a correction.
+
 ## Becoming a steward
 
 Open a PR that adds you to the table above, with a line on why you want to steward this and which part of the neighborhood you're closest to. Current stewards talk it over in the PR. We want this to be a few people from different corners of the Sunset, not a committee.
