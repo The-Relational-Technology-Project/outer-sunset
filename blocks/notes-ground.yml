@@ -1,0 +1,835 @@
+# The ground under the blocks: sand, water, faults, the shore.
+# Gathered from the public sources named on each note, November 2026. A place to start; it will have
+# mistakes. A neighbor's correction (corrections/) or own account (knowledge/) wins.
+meta:
+  title: "The ground under the blocks: sand, water, faults, the shore"
+  researched: 2026-11-12
+notes:
+  - id: more-than-100-feet-of-sand-under-the-ortega-schools
+    title: More than 100 feet of sand under the Ortega schools
+    kind: geology
+    at: 39th Ave & Ortega
+    lat: 37.751739
+    lng: -122.497793
+    radius_m: 420
+    extent: the school blocks on Ortega Street around 39th to 41st Avenue
+    years: "1952"
+    text: Before these blocks were built up in 1952, a USGS geologist measured the dunes where A.P. Giannini Middle School and its neighbor school on Ortega now stand. From the dune crests down to the troughs between them was a drop of 75 feet, and the sand itself was more than 100 feet thick. That is a ten-story building of loose, wind-sorted sand under the playground. The dunes were leveled for the schools and the houses around them, but most of that sand is still down there.
+    tags:
+      - dunes
+      - sand depth
+      - schools
+    sources:
+      - name: USGS Professional Paper 782, Geology of the San Francisco North Quadrangle (Schlocker, 1974)
+        url: https://pubs.usgs.gov/pp/0782/report.pdf
+  - id: every-block-here-sits-on-dune-sand
+    title: Every block here sits on dune sand
+    kind: geology
+    at: 30th Ave & Noriega
+    lat: 37.753721
+    lng: -122.488262
+    reach: everywhere
+    radius_m: 420
+    extent: the whole grid from 19th Avenue to the beach, Lincoln to Sloat
+    text: "On the USGS geologic maps, nearly the whole Sunset is one color: Qd, dune sand. It is well-sorted fine to medium sand, mostly quartz and feldspar, and USGS reports put its thickness anywhere from 0 to about 150 feet. Under the dune sand lies the Colma Formation, an older sandy layer, and under that the Merced Formation. Solid bedrock is far below. If you dig in your yard and hit clean tan sand, you have found the top of the stack."
+    tags:
+      - dunes
+      - Qd
+      - geologic map
+      - Colma Formation
+      - Merced Formation
+    sources:
+      - name: USGS Water-Resources Investigations Report 93-4019, Geohydrology of San Francisco (Phillips, Hamlin, Yates, 1993)
+        url: https://pubs.usgs.gov/wri/1993/4019/report.pdf
+      - name: USGS Open-File Report 98-354, Geologic map of the San Francisco South quadrangle (Bonilla, 1998)
+        url: https://pubs.usgs.gov/of/1998/of98-354/sfsouth.pdf
+      - name: USGS Professional Paper 782, Geology of the San Francisco North Quadrangle (Schlocker, 1974)
+        url: https://pubs.usgs.gov/pp/0782/report.pdf
+  - id: your-sand-came-down-the-sacramento-river-in-the-ice-age
+    title: Your sand came down the Sacramento River in the ice age
+    kind: geology
+    at: Great Hwy & Lawton
+    lat: 37.756552
+    lng: -122.508899
+    reach: everywhere
+    radius_m: 420
+    extent: the whole Sunset dune field, beach to 19th Avenue
+    text: USGS geologist Julius Schlocker traced the Sunset's sand back to a time when the sea was 228 to 406 feet lower than today. The shoreline then sat about 30 miles west of Ocean Beach, and the Sacramento and San Joaquin rivers ran out through the Golden Gate to a delta far offshore. As the ice melted and the sea rose, waves pushed that river sand east onto the beach, and the wind carried it inland. Much of the sand under the avenues started in rock far to the east.
+    tags:
+      - dunes
+      - ice age
+      - Sacramento River
+      - sea level
+    sources:
+      - name: USGS Professional Paper 782, Geology of the San Francisco North Quadrangle (Schlocker, 1974)
+        url: https://pubs.usgs.gov/pp/0782/report.pdf
+  - id: the-dunes-are-only-a-few-thousand-years-old
+    title: The dunes are only a few thousand years old
+    kind: geology
+    at: 34th Ave & Taraval
+    lat: 37.742343
+    lng: -122.491767
+    reach: everywhere
+    radius_m: 420
+    extent: the whole Sunset dune field
+    text: The National Park Service dates San Francisco's big dune sheet to roughly 5,000 to 8,000 years ago, when sea level steadied after the last ice age. Almost 14 square miles of the city were once covered by high, rolling dunes. The USGS map of the south half of the Sunset adds that some of the dune sand is older, reaching back into the Pleistocene. Either way, the ground under the avenues is very young by geologic standards, far younger than the rock of Twin Peaks.
+    tags:
+      - dunes
+      - age
+      - Holocene
+    sources:
+      - name: NPS Golden Gate NRA, Geologic Activity
+        url: https://www.nps.gov/goga/learn/nature/geologicactivity.htm
+      - name: NPS Golden Gate NRA, Sand Dunes
+        url: https://www.nps.gov/goga/learn/nature/sanddunes.htm
+      - name: USGS Open-File Report 98-354, Geologic map of the San Francisco South quadrangle (Bonilla, 1998)
+        url: https://pubs.usgs.gov/of/1998/of98-354/sfsouth.pdf
+  - id: sand-that-climbed-a-600-foot-hill
+    title: Sand that climbed a 600 foot hill
+    kind: geology
+    at: 19th Ave & Moraga
+    lat: 37.756115
+    lng: -122.476483
+    reach: area
+    box:
+      - 37.7335
+      - -122.48
+      - 37.765
+      - -122.474
+    extent: the east edge of the Sunset along 19th Avenue, below Golden Gate Heights
+    text: The west wind did not stop at 19th Avenue. The USGS found dune sand more than 600 feet above sea level on the Sunset Heights and Grand View ridge just east of here, and photographed sand that had blown clean over a 666 foot hilltop near Moraga and Funston. On hills like these the sand piled thickest on the sheltered east side. From Ocean Beach the dunes reached about 6 miles across the city, to the old shoreline between Telegraph Hill and Rincon Hill.
+    tags:
+      - dunes
+      - wind
+      - Golden Gate Heights
+      - Sunset Heights
+    sources:
+      - name: USGS Professional Paper 782, Geology of the San Francisco North Quadrangle (Schlocker, 1974)
+        url: https://pubs.usgs.gov/pp/0782/report.pdf
+  - id: the-last-moving-dunes-of-the-sunset
+    title: The last moving dunes of the Sunset
+    kind: geology
+    at: 38th Ave & Pacheco
+    lat: 37.7497
+    lng: -122.4965
+    reach: area
+    box:
+      - 37.7335
+      - -122.512
+      - 37.7522
+      - -122.4955
+    extent: west of Sunset Boulevard and south of Ortega Street
+    years: 1937-1951
+    text: Open, drifting dunes lasted here well into living memory. USGS geologist Julius Schlocker wrote that he saw active dunes in 1937 across the Sunset west of 33rd Avenue, and as late as 1951 in the area west of Sunset Boulevard and south of Ortega Street. They were transverse ridges, long sand waves lined up across the wind. Within a few years the last of them were graded flat for houses and schools.
+    tags:
+      - dunes
+      - history
+      - 1930s
+      - 1950s
+    sources:
+      - name: USGS Professional Paper 782, Geology of the San Francisco North Quadrangle (Schlocker, 1974)
+        url: https://pubs.usgs.gov/pp/0782/report.pdf
+  - id: why-the-avenues-roll-up-and-down
+    title: Why the avenues roll up and down
+    kind: geology
+    at: 32nd Ave & Lawton
+    lat: 37.757354
+    lng: -122.490664
+    reach: area
+    box:
+      - 37.755
+      - -122.4935
+      - 37.762
+      - -122.4805
+    extent: the mid-Sunset swells, roughly 24th to 34th Avenue between Judah and Moraga
+    text: Ride a bike along Lawton or Judah and you feel long swells. USGS elevation data shows Lawton dipping to about 247 feet at 30th Avenue, rising to about 278 feet at 33rd, then dropping steadily toward the beach. Judah does the same between 24th and 32nd. The USGS described the old Sunset dunes as ridges lined up across the wind, with as much as 75 feet between crest and trough. The street grid was laid over that shape, and the gentle rolls are most likely what is left of it.
+    tags:
+      - topography
+      - dunes
+      - elevation
+    sources:
+      - name: USGS National Map Elevation Point Query Service (3DEP), queried at street intersections
+        url: https://epqs.nationalmap.gov/v1/docs
+      - name: DataSF, Streets Active and Retired (intersection coordinates)
+        url: https://data.sfgov.org/d/3psu-pn9h
+      - name: USGS Professional Paper 782, Geology of the San Francisco North Quadrangle (Schlocker, 1974)
+        url: https://pubs.usgs.gov/pp/0782/report.pdf
+    confidence: medium
+  - id: the-high-point-of-the-avenues
+    title: The high point of the avenues
+    kind: geology
+    at: 20th Ave & Quintara
+    lat: 37.74859
+    lng: -122.477332
+    radius_m: 420
+    extent: the ridge around 19th to 26th Avenue, Pacheco to Rivera
+    text: The highest street corner in the Sunset grid west of 19th Avenue is around 20th Avenue and Quintara, about 454 feet above sea level by USGS elevation data. From there Quintara falls about 430 feet on its way to the ocean, reaching roughly 25 feet at the Great Highway. The lowest corners in the neighborhood are along the Great Highway near Irving and Judah, at about 22 feet. Lincoln Way makes the same trip more gently, from about 221 feet at 19th Avenue down to 25 feet at the beach.
+    tags:
+      - topography
+      - elevation
+      - high point
+      - low point
+    sources:
+      - name: USGS National Map Elevation Point Query Service (3DEP), queried at street intersections
+        url: https://epqs.nationalmap.gov/v1/docs
+      - name: DataSF, Streets Active and Retired (intersection coordinates)
+        url: https://data.sfgov.org/d/3psu-pn9h
+  - id: sunset-reservoir-two-basins-on-the-hilltop
+    title: "Sunset Reservoir: two basins on the hilltop"
+    kind: geology
+    at: 24th Ave & Ortega
+    lat: 37.752451
+    lng: -122.481723
+    radius_m: 420
+    extent: 24th to 28th Avenue, Ortega to Quintara
+    years: 1938, 1960, 2010
+    text: The big flat lawn between 24th and 28th Avenues, Ortega to Quintara, is the roof of the city's largest reservoir. SFPUC lists a north basin built in 1938 holding 87 million gallons and a south basin built in 1960 holding 81.3 million gallons. The water surface sits about 380 feet above sea level, so water flows out to homes by gravity. Since December 2010 the roof has also carried about 25,000 solar panels rated at 5 megawatts.
+    tags:
+      - reservoir
+      - water
+      - elevation
+      - solar
+    sources:
+      - name: SFPUC, in-city reservoir table (Sunset North and South Basins)
+        url: https://sfpuc.org/sites/default/files/about-us/InundationMap_SF.pdf
+      - name: Wikipedia, Sunset Reservoir
+        url: https://en.wikipedia.org/wiki/Sunset_Reservoir
+      - name: Richmond Review / Sunset Beacon, Groundwater from aquifer starts flowing (May 2017)
+        url: https://richmondsunsetnews.com/2017/05/03/groundwater-from-aquifer-starts-flowing/
+  - id: an-old-shear-zone-under-the-reservoir-hill
+    title: An old shear zone under the reservoir hill
+    kind: geology
+    at: 26th Ave & Ortega
+    lat: 37.752356
+    lng: -122.483865
+    radius_m: 420
+    extent: the Sunset Reservoir hill
+    text: Most of the bedrock under the Sunset is hidden beneath sand, but the USGS picked up a clue at the Sunset Reservoir site. A zone of sheared Franciscan bedrock seen at Lands End shows up again here, at the south edge of the San Francisco North map. Geologists link it to the City College shear zone, which runs northwest across the city. It is one of the few places in the Sunset where geologists have had a look at how the bedrock is put together, since almost everywhere else it is buried under sand.
+    tags:
+      - bedrock
+      - Franciscan
+      - shear zone
+    sources:
+      - name: USGS Professional Paper 782, Geology of the San Francisco North Quadrangle (Schlocker, 1974)
+        url: https://pubs.usgs.gov/pp/0782/report.pdf
+      - name: USGS Water-Resources Investigations Report 93-4019, Geohydrology of San Francisco (Phillips, Hamlin, Yates, 1993)
+        url: https://pubs.usgs.gov/wri/1993/4019/report.pdf
+    confidence: medium
+  - id: bedrock-is-nearly-half-a-mile-down-near-the-zoo
+    title: Bedrock is nearly half a mile down near the zoo
+    kind: geology
+    at: 45th Ave & Sloat
+    lat: 37.735653
+    lng: -122.503115
+    reach: area
+    box:
+      - 37.726
+      - -122.512
+      - 37.74
+      - -122.495
+    extent: the southwest corner of the Sunset, toward Lake Merced and the zoo
+    text: Toward the hills east of 19th Avenue, bedrock comes up to the surface. Heading southwest it plunges. A USGS study that combined about 200 boreholes with more than 700 gravity readings found the bedrock surface dropping to about 2,500 feet below sea level between Lake Merced and the ocean, the deepest spot in San Francisco County. Everything above it is sand, silt and clay of the dunes, the Colma Formation and the Merced Formation.
+    tags:
+      - bedrock
+      - depth
+      - Merced Formation
+    sources:
+      - name: USGS Water-Resources Investigations Report 93-4019, Geohydrology of San Francisco (Phillips, Hamlin, Yates, 1993)
+        url: https://pubs.usgs.gov/wri/1993/4019/report.pdf
+  - id: the-colma-formation-a-100-000-year-old-beach-under-your-sand
+    title: The Colma Formation, a 100,000 year old beach under your sand
+    kind: geology
+    at: Great Hwy & Skyline Blvd
+    lat: 37.7325
+    lng: -122.5055
+    reach: area
+    box:
+      - 37.726
+      - -122.512
+      - 37.735
+      - -122.5
+    extent: the beach bluffs from Sloat Boulevard south toward Fort Funston
+    text: Under the loose dune sand is a firmer, orange-brown sandy layer called the Colma Formation. The National Park Service dates it to about 100,000 years ago, a warm period when the sea stood high. You can see it south of Sloat, where it holds up near-vertical bluffs. When crews dug the Lake Merced Tunnel under the Great Highway, the northern 1,800 feet ran through weak sand and fill before the tunnel reached the stiffer Colma.
+    tags:
+      - Colma Formation
+      - bluffs
+      - Lake Merced Tunnel
+    sources:
+      - name: NPS Golden Gate NRA, Geologic Activity
+        url: https://www.nps.gov/goga/learn/nature/geologicactivity.htm
+      - name: SF Planning / SPUR, Coastal Protection Measures and Management Strategy for South Ocean Beach
+        url: https://default.sfplanning.org/plans-and-programs/local_coastal_prgm/Coastal__Mgmt_Framework.pdf
+      - name: USGS Professional Paper 782, Geology of the San Francisco North Quadrangle (Schlocker, 1974)
+        url: https://pubs.usgs.gov/pp/0782/report.pdf
+  - id: fossil-cobbles-from-the-merced-formation-wash-up-here
+    title: Fossil cobbles from the Merced Formation wash up here
+    kind: geology
+    at: Great Hwy & Ulloa
+    lat: 37.739821
+    lng: -122.506685
+    reach: area
+    box:
+      - 37.7335
+      - -122.512
+      - 37.765
+      - -122.504
+    extent: Ocean Beach from Lincoln to Sloat, and the cliffs to the south
+    text: "Deep under the Sunset, below the dunes and the Colma layer, is the Merced Formation: sand and clay laid down in shallow seas and estuaries over the last few million years. It comes to the surface in the cliffs at Fort Funston, just south, where the National Park Service calls it fossil-rich. The USGS noted that flat, rounded cobbles of fossil-bearing Merced sandstone are occasionally found on Ocean Beach. Fossils on park land stay where they are, so look and leave them."
+    tags:
+      - Merced Formation
+      - fossils
+      - beach
+    sources:
+      - name: USGS Professional Paper 782, Geology of the San Francisco North Quadrangle (Schlocker, 1974)
+        url: https://pubs.usgs.gov/pp/0782/report.pdf
+      - name: NPS Golden Gate NRA, Geologic Activity
+        url: https://www.nps.gov/goga/learn/nature/geologicactivity.htm
+      - name: USGS Water-Resources Investigations Report 93-4019, Geohydrology of San Francisco (Phillips, Hamlin, Yates, 1993)
+        url: https://pubs.usgs.gov/wri/1993/4019/report.pdf
+  - id: why-the-sunset-has-no-creeks
+    title: Why the Sunset has no creeks
+    kind: geology
+    at: 35th Ave & Kirkham
+    lat: 37.759084
+    lng: -122.493831
+    reach: everywhere
+    radius_m: 420
+    extent: the whole dune-covered grid
+    text: "Other San Francisco neighborhoods have buried creeks. The Sunset mostly does not, and the USGS offers a reason: the dune sand is so porous that rain sinks in before it can gather into a stream. Its 1974 report says the high porosity of the dune sand may have kept much surface flow from ever forming. The water goes down instead of sideways, which is why the real water story here is underground."
+    tags:
+      - hidden water
+      - creeks
+      - sand
+      - porosity
+    sources:
+      - name: USGS Professional Paper 782, Geology of the San Francisco North Quadrangle (Schlocker, 1974)
+        url: https://pubs.usgs.gov/pp/0782/report.pdf
+    confidence: medium
+  - id: the-westside-basin-aquifer-under-every-block
+    title: The Westside Basin aquifer under every block
+    kind: geology
+    at: 36th Ave & Rivera
+    lat: 37.745979
+    lng: -122.494101
+    reach: everywhere
+    radius_m: 420
+    extent: the whole Sunset, Lincoln to Sloat and beyond
+    text: Beneath the Sunset is the Westside Groundwater Basin, the largest in San Francisco. The state lists it at about 40 square miles, running from Golden Gate Park south into San Mateo County. The water sits in the pores of the dune sand, the Colma Formation and the Merced Formation, on top of watertight bedrock. Near the surface it is open to the air above; deeper than about 100 feet it is held under clay layers. SFPUC says it is filtered naturally through hundreds of feet of sand, silt and clay.
+    tags:
+      - aquifer
+      - Westside Basin
+      - groundwater
+    sources:
+      - name: California DWR Bulletin 118, Westside Groundwater Basin (2-35)
+        url: https://www.smcsustainability.org/wp-content/uploads/2-35.pdf
+      - name: SFPUC, San Francisco Groundwater Supply Project overview (July 2023)
+        url: https://sfpuc.org/sites/default/files/programs/GroundwaterOverview_July2023.pdf
+      - name: USGS Water-Resources Investigations Report 93-4019, Geohydrology of San Francisco (Phillips, Hamlin, Yates, 1993)
+        url: https://pubs.usgs.gov/wri/1993/4019/report.pdf
+  - id: a-drinking-water-well-at-west-sunset-playground
+    title: A drinking water well at West Sunset Playground
+    kind: geology
+    at: 41st Ave & Ortega
+    lat: 37.751334
+    lng: -122.499914
+    radius_m: 420
+    extent: West Sunset Playground, 39th to 41st Avenue between Ortega and Quintara
+    years: "2017"
+    text: One of the city's six groundwater supply wells is at West Sunset Playground. SFPUC's San Francisco Groundwater Supply Project pumps from 120 to 460 feet down in the Westside Basin, treats the water, and blends it in small amounts with Hetch Hetchy water in the Sunset and Sutro reservoirs. Groundwater has been going into the drinking supply since April 2017, with a long-term goal of about 4 million gallons a day.
+    tags:
+      - aquifer
+      - well
+      - SFPUC
+      - drinking water
+    sources:
+      - name: SFPUC, San Francisco Groundwater Supply Project overview (July 2023)
+        url: https://sfpuc.org/sites/default/files/programs/GroundwaterOverview_July2023.pdf
+      - name: SF Planning, San Francisco Groundwater Supply Project Draft EIR (2008.1396E)
+        url: https://sfmea.sfplanning.org/2008.1396E_DEIR1.pdf
+      - name: Richmond Review / Sunset Beacon, Groundwater from aquifer starts flowing (May 2017)
+        url: https://richmondsunsetnews.com/2017/05/03/groundwater-from-aquifer-starts-flowing/
+  - id: south-sunset-playground-has-a-well-too
+    title: South Sunset Playground has a well too
+    kind: geology
+    at: 40th Ave & Vicente
+    lat: 37.738331
+    lng: -122.497929
+    radius_m: 420
+    extent: South Sunset Playground, around 40th Avenue between Vicente and Wawona
+    years: "2017"
+    text: A second neighborhood well sits at South Sunset Playground. Like its twin at West Sunset, it draws from the Westside Basin and sends water uphill by pipeline to Sunset Reservoir, where it is mixed with the regional supply. A 2017 report in the neighborhood paper said the blend flows by gravity to the Richmond, the Sunset and about 60 percent of the city's area, and that groundwater could rise to as much as 15 percent of the mix over time.
+    tags:
+      - aquifer
+      - well
+      - SFPUC
+      - drinking water
+    sources:
+      - name: SFPUC, San Francisco Groundwater Supply Project overview (July 2023)
+        url: https://sfpuc.org/sites/default/files/programs/GroundwaterOverview_July2023.pdf
+      - name: SF Planning, San Francisco Groundwater Supply Project Draft EIR (2008.1396E)
+        url: https://sfmea.sfplanning.org/2008.1396E_DEIR1.pdf
+      - name: Richmond Review / Sunset Beacon, Groundwater from aquifer starts flowing (May 2017)
+        url: https://richmondsunsetnews.com/2017/05/03/groundwater-from-aquifer-starts-flowing/
+    confidence: medium
+  - id: a-water-table-that-held-steady-for-75-years
+    title: A water table that held steady for 75 years
+    kind: geology
+    at: 44th Ave & Kirkham
+    lat: 37.758653
+    lng: -122.503653
+    radius_m: 420
+    extent: around 44th Avenue from Kirkham to Lawton
+    years: 1913, 1988
+    text: In 1913 an engineer named Bartell recorded the height of the water table near 44th Avenue and Kirkham Street. When USGS scientists measured a well one block farther south in 1988, the level was nearly identical. Three quarters of a century of house building, paving and pipe laying had not moved it much. The same study measured a line of shallow monitoring wells along the Great Highway between Golden Gate Park and Lake Merced.
+    tags:
+      - aquifer
+      - water table
+      - history
+    sources:
+      - name: USGS Water-Resources Investigations Report 90-4080, Geohydrology, water quality, and water budgets, western San Francisco (Yates and others, 1990)
+        url: https://pubs.usgs.gov/wri/1990/4080/report.pdf
+  - id: leaky-pipes-and-garden-hoses-refill-the-aquifer
+    title: Leaky pipes and garden hoses refill the aquifer
+    kind: geology
+    at: 27th Ave & Irving
+    lat: 37.763187
+    lng: -122.485699
+    reach: everywhere
+    radius_m: 420
+    extent: the whole Sunset
+    text: "Before houses, rain was the main thing that refilled the groundwater here, about 21 inches a year at the Golden Gate Park weather station. Once the Sunset was built, the USGS found new sources: water that leaks from mains and sewers, and irrigation water that soaks past the roots in parks and backyards. On the west side the water table generally lies below the sewer lines, so leaks go down into the sand. One estimate put recharge for the whole basin at about 4,800 acre-feet a year in 1987 and 1988."
+    tags:
+      - aquifer
+      - recharge
+      - rain
+      - pipes
+    sources:
+      - name: USGS Water-Resources Investigations Report 93-4019, Geohydrology of San Francisco (Phillips, Hamlin, Yates, 1993)
+        url: https://pubs.usgs.gov/wri/1993/4019/report.pdf
+      - name: USGS Water-Resources Investigations Report 90-4080, Geohydrology, water quality, and water budgets, western San Francisco (Yates and others, 1990)
+        url: https://pubs.usgs.gov/wri/1990/4080/report.pdf
+      - name: California DWR Bulletin 118, Westside Groundwater Basin (2-35)
+        url: https://www.smcsustainability.org/wp-content/uploads/2-35.pdf
+  - id: why-sunset-gardens-drain-so-fast
+    title: Why Sunset gardens drain so fast
+    kind: geology
+    at: 42nd Ave & Moraga
+    lat: 37.755007
+    lng: -122.501248
+    reach: everywhere
+    radius_m: 420
+    extent: the whole dune-covered grid
+    text: USGS engineers rated the Sunset's dune sand as highly permeable, with the water table deep in most places. It is fine to medium sand, mostly quartz, feldspar and hornblende, with only a little plant matter in the top 2 to 3 feet. That is why water vanishes from a garden bed here and why compost matters so much. The same report warns that the sand runs freely in a cut and that slopes steeper than 30 degrees are generally unstable, which any neighbor who has dug a fence post hole can confirm.
+    tags:
+      - soil
+      - gardens
+      - sand
+      - drainage
+    sources:
+      - name: USGS Professional Paper 782, Geology of the San Francisco North Quadrangle (Schlocker, 1974)
+        url: https://pubs.usgs.gov/pp/0782/report.pdf
+  - id: black-sand-and-a-little-gold-near-the-foot-of-wawona
+    title: Black sand, and a little gold, near the foot of Wawona
+    kind: geology
+    at: Great Hwy & Wawona
+    lat: 37.7361
+    lng: -122.5062
+    reach: area
+    box:
+      - 37.7335
+      - -122.512
+      - 37.74
+      - -122.504
+    extent: Ocean Beach from about Vicente to Sloat
+    text: After storms, dark streaks sometimes show up on the beach. The USGS reported that black sands, natural concentrates of heavy minerals, are found from time to time on Ocean Beach about a mile south of the Ortega and Pacheco latitude, which puts them around Vicente, Wawona and Sloat. Heavy grains such as ilmenite, chromite and hornblende make up a fifth to a third of the beach sand. The report also notes that a small amount of gold has been recovered from these sands.
+    tags:
+      - beach
+      - black sand
+      - heavy minerals
+      - gold
+    sources:
+      - name: USGS Professional Paper 782, Geology of the San Francisco North Quadrangle (Schlocker, 1974)
+        url: https://pubs.usgs.gov/pp/0782/report.pdf
+    confidence: medium
+  - id: the-beach-grows-in-summer-and-shrinks-in-winter
+    title: The beach grows in summer and shrinks in winter
+    kind: geology
+    at: Great Hwy & Rivera
+    lat: 37.745392
+    lng: -122.507442
+    reach: area
+    box:
+      - 37.7335
+      - -122.512
+      - 37.765
+      - -122.504
+    extent: Ocean Beach, Lincoln to Sloat
+    years: 1956-1957
+    text: A researcher named Trask measured Ocean Beach at five stations every few weeks from July 1956 to June 1957. He found the beach built upward and seaward in summer and fall, then eroded in winter and spring, and the sand grains were coarser in the stormy months. The USGS adds that much of the beach sand comes from the soft Merced and Colma cliffs to the south, which slide and feed the shore. The beach you walk in August is not the one you walk in February.
+    tags:
+      - beach
+      - sand
+      - seasons
+    sources:
+      - name: USGS Professional Paper 782, Geology of the San Francisco North Quadrangle (Schlocker, 1974)
+        url: https://pubs.usgs.gov/pp/0782/report.pdf
+  - id: the-king-philip-a-clipper-ship-under-the-sand
+    title: The King Philip, a clipper ship under the sand
+    kind: geology
+    at: Great Hwy & Ortega
+    lat: 37.750969
+    lng: -122.508186
+    radius_m: 420
+    extent: the beach between about Noriega and Pacheco
+    years: 1878, 1902
+    text: On January 25, 1878, the 182 foot clipper King Philip lost her anchor hold and drifted onto Ocean Beach. Her lower hull is still there, buried on the beach near the foot of Noriega and Ortega. In 1902 the schooner Reporter wrecked on the same spot, and her timbers are mixed in. The ribs have surfaced in 1982 to 1985, 2007, 2010 and 2011, usually after winter storms strip the sand at a very low tide.
+    tags:
+      - shipwreck
+      - beach
+      - King Philip
+      - Reporter
+    sources:
+      - name: NPS Golden Gate NRA, Vestiges of Shipwrecks
+        url: https://home.nps.gov/goga/learn/historyculture/vestiges-shipwrecks.htm
+      - name: NPS Golden Gate NRA, Parks for the People, San Francisco County stories
+        url: https://www.nps.gov/goga/learn/historyculture/parks-for-the-people-san-francisco-story-panel.htm
+      - name: Wikipedia, King Philip (clipper)
+        url: https://en.wikipedia.org/wiki/King_Philip_(clipper)
+  - id: the-1906-earthquake-began-straight-out-from-here
+    title: The 1906 earthquake began straight out from here
+    kind: geology
+    at: Great Hwy & Pacheco
+    lat: 37.74911
+    lng: -122.507941
+    reach: area
+    box:
+      - 37.748
+      - -122.512
+      - 37.7545
+      - -122.504
+    extent: Ocean Beach, looking due west from about Ortega and Pacheco
+    years: "1906"
+    text: The USGS earthquake catalog places the starting point of the great 1906 earthquake at 37.75 north, 122.55 west. That is in the ocean due west of about Ortega and Pacheco streets, a little over 2 miles off the beach. The rupture began there at 5:12 a.m. on April 18 and ran along 296 miles of the San Andreas Fault. Scientists note real uncertainty in the exact spot, but the best estimate is closer to the Sunset than to downtown.
+    tags:
+      - earthquake
+      - "1906"
+      - epicenter
+      - San Andreas
+    sources:
+      - name: USGS earthquake catalog, M 7.9 The 1906 San Francisco, California Earthquake
+        url: https://earthquake.usgs.gov/earthquakes/eventpage/official19060418131226300_12
+      - name: USGS, The Northern California Earthquake, April 18, 1906 (virtual tour)
+        url: https://earthquake.usgs.gov/earthquakes/events/1906calif/virtualtour/earthquake.php
+  - id: the-san-andreas-fault-runs-2-to-3-miles-off-the-beach
+    title: The San Andreas Fault runs 2 to 3 miles off the beach
+    kind: geology
+    at: Great Hwy & Vicente
+    lat: 37.738886
+    lng: -122.506556
+    reach: everywhere
+    radius_m: 420
+    extent: the whole Sunset shoreline
+    text: The San Andreas Fault does not pass under the Sunset. It runs offshore. The USGS puts it 2 to 3 miles west of San Francisco, and the state fault map shows the main trace about 2 miles off Sloat Boulevard and about 3 miles off Lincoln Way. Follow it south and it comes ashore at Mussel Rock in Daly City, roughly 5 miles down the coast from Sloat. The state also counts the fault and the ocean as the west wall of the aquifer.
+    tags:
+      - earthquake
+      - San Andreas
+      - fault
+    sources:
+      - name: USGS Water-Resources Investigations Report 93-4019, Geohydrology of San Francisco (Phillips, Hamlin, Yates, 1993)
+        url: https://pubs.usgs.gov/wri/1993/4019/report.pdf
+      - name: California Geological Survey, Quaternary faults from the Fault Activity Map of California (map service)
+        url: https://gis.conservation.ca.gov/server/rest/services/CGS/FAM_QFaults/MapServer
+      - name: Wikipedia, Mussel Rock
+        url: https://en.wikipedia.org/wiki/Mussel_Rock
+      - name: California DWR Bulletin 118, Westside Groundwater Basin (2-35)
+        url: https://www.smcsustainability.org/wp-content/uploads/2-35.pdf
+  - id: the-1957-quake-hit-hardest-by-lake-merced
+    title: The 1957 quake hit hardest by Lake Merced
+    kind: geology
+    at: Sloat Blvd & Skyline Blvd
+    lat: 37.7338
+    lng: -122.4965
+    reach: area
+    box:
+      - 37.726
+      - -122.512
+      - 37.7365
+      - -122.474
+    extent: the Lake Merced edge of the Sunset, around and south of Sloat
+    years: "1957"
+    text: On March 22, 1957, at 11:44 in the morning, a magnitude 5.3 to 5.7 earthquake struck on the San Andreas just off Daly City. The worst effects were in western Daly City and the Lake Merced area at the south edge of the Sunset. One person died, about 40 were hurt, and damage came to roughly 1 million dollars, mostly cracked plaster and broken contents.
+    tags:
+      - earthquake
+      - "1957"
+      - Lake Merced
+    sources:
+      - name: Wikipedia, 1957 San Francisco earthquake
+        url: https://en.wikipedia.org/wiki/1957_San_Francisco_earthquake
+    confidence: medium
+  - id: most-of-the-sunset-is-outside-the-liquefaction-zone
+    title: Most of the Sunset is outside the liquefaction zone
+    kind: geology
+    at: 48th Ave & Kirkham
+    lat: 37.758473
+    lng: -122.507758
+    reach: area
+    box:
+      - 37.7455
+      - -122.512
+      - 37.765
+      - -122.506
+    extent: the beach strip west of about 47th Avenue, Lincoln to Rivera
+    text: "Loose sand sounds risky in an earthquake, but the state's official Seismic Hazard Zone maps mark only a thin strip of the Sunset for liquefaction. Checked corner by corner, the zone covers the Great Highway and reaches inland to about 47th or 48th Avenue from Lincoln Way to around Rivera. East of that, the avenues are outside it. The USGS explains why: in most places the water table in the dune sand is deep, and sand has to be waterlogged to liquefy.This is a reading of the state's map, corner by corner. For one address, check the official map."
+    tags:
+      - earthquake
+      - liquefaction
+      - hazard map
+    sources:
+      - name: California Geological Survey, Seismic Hazards Program liquefaction zones (map service, queried by intersection)
+        url: https://services2.arcgis.com/zr3KAIbsRSUyARHG/ArcGIS/rest/services/CGS_Liquefaction_Zones/FeatureServer
+      - name: California Geological Survey, Seismic Hazard Zones map, San Francisco North quadrangle (2000)
+        url: https://gmw.conservation.ca.gov/SHP/EZRIM/Maps/SAN_FRANCISCO_NORTH_EZRIM.pdf
+      - name: California Geological Survey, Seismic Hazard Zones map, San Francisco South quadrangle (2021)
+        url: https://www.conservation.ca.gov/cgs/Documents/Publications/EZRIM/SAN_FRANCISCO_SOUTH_EZRIM_a11y.pdf
+      - name: USGS Professional Paper 782, Geology of the San Francisco North Quadrangle (Schlocker, 1974)
+        url: https://pubs.usgs.gov/pp/0782/report.pdf
+  - id: a-liquefaction-band-along-sloat-boulevard
+    title: A liquefaction band along Sloat Boulevard
+    kind: geology
+    at: 43rd Ave & Sloat
+    lat: 37.735432
+    lng: -122.501016
+    reach: area
+    box:
+      - 37.733
+      - -122.512
+      - 37.7362
+      - -122.4975
+    extent: Sloat Boulevard from about 39th Avenue to the Great Highway
+    years: "2021"
+    text: The one place the state's liquefaction zone reaches well inland in the Sunset is along Sloat Boulevard. On the California Geological Survey map, revised in 2021, corners on Sloat from about 39th Avenue west to the ocean fall inside the zone, while Wawona and Vicente a block or two north mostly do not. This is the low ground between the avenues and the Lake Merced basin, where water sits closer to the surface.This is a reading of the state's map, corner by corner. For one address, check the official map.
+    tags:
+      - earthquake
+      - liquefaction
+      - hazard map
+      - Sloat
+    sources:
+      - name: California Geological Survey, Seismic Hazards Program liquefaction zones (map service, queried by intersection)
+        url: https://services2.arcgis.com/zr3KAIbsRSUyARHG/ArcGIS/rest/services/CGS_Liquefaction_Zones/FeatureServer
+      - name: California Geological Survey, Seismic Hazard Zones map, San Francisco South quadrangle (2021)
+        url: https://www.conservation.ca.gov/cgs/Documents/Publications/EZRIM/SAN_FRANCISCO_SOUTH_EZRIM_a11y.pdf
+    confidence: medium
+  - id: how-far-a-worst-case-tsunami-would-reach
+    title: How far a worst-case tsunami would reach
+    kind: geology
+    at: 47th Ave & Noriega
+    lat: 37.752917
+    lng: -122.506476
+    reach: area
+    box:
+      - 37.7335
+      - -122.512
+      - 37.765
+      - -122.506
+    extent: west of about 47th Avenue, Lincoln to Sloat
+    years: "2021"
+    text: The California Geological Survey's tsunami hazard map, updated in 2021, draws its line a few blocks in from the beach. Checked corner by corner, the hazard area reaches about 47th Avenue from Lincoln to Pacheco, pulls back to 48th between Quintara and Taraval, and reaches 46th Avenue by Wawona and Sloat. The scenario is extreme, a magnitude 9.3 earthquake off the Aleutians. The steady upward slope of the avenues is what stops the water.This is a reading of the state's map, corner by corner. For one address, check the official map.
+    tags:
+      - tsunami
+      - hazard map
+      - beach
+    sources:
+      - name: California Geological Survey, Tsunami Hazard Area (map service, queried by intersection)
+        url: https://gis.conservation.ca.gov/server/rest/services/CGS/IW_Tsunami_Hazard_Area/MapServer
+      - name: California Geological Survey, Tsunami Hazard Area Map, San Francisco County
+        url: https://www.conservation.ca.gov/cgs/documents/publications/tsunami-maps/Tsunami_Hazard_Area_Map_San_Francisco_County_a11y.pdf
+      - name: Richmond Review / Sunset Beacon, Updated tsunami hazard maps show West Side's vulnerabilities (Aug 2021)
+        url: https://richmondsunsetnews.com/2021/08/05/updated-tsunami-hazard-maps-show-west-sides-vulnerabilities/
+  - id: lake-merced-used-to-spill-into-the-ocean
+    title: Lake Merced used to spill into the ocean
+    kind: geology
+    at: Sunset Blvd & Lake Merced Blvd
+    lat: 37.73
+    lng: -122.495
+    reach: area
+    box:
+      - 37.726
+      - -122.512
+      - 37.735
+      - -122.474
+    extent: Lake Merced's north shore, just south of Sloat
+    years: 1852, 1869, 1895
+    text: Lake Merced is the water table showing at the surface; the USGS calls it an exposed part of the aquifer. It once had a natural outlet to the Pacific, drawn on an 1869 Coast Survey map. Accounts from November 1852 describe a night shock followed by the lake breaking through its sandbank and dropping about 30 feet, though heavy rain is the likelier cause. In 1895 an earth dam was built across the natural outlet, and a spillway now handles any overflow.
+    tags:
+      - Lake Merced
+      - hidden water
+      - lagoon
+      - history
+    sources:
+      - name: USGS Water-Resources Investigations Report 90-4080, Geohydrology, water quality, and water budgets, western San Francisco (Yates and others, 1990)
+        url: https://pubs.usgs.gov/wri/1990/4080/report.pdf
+      - name: Wikipedia, Lake Merced
+        url: https://en.wikipedia.org/wiki/Lake_Merced
+    confidence: medium
+  - id: pine-lake-a-natural-lake-in-a-sand-valley
+    title: Pine Lake, a natural lake in a sand valley
+    kind: geology
+    at: 33rd Ave & Wawona
+    lat: 37.737959
+    lng: -122.490637
+    radius_m: 420
+    extent: Pine Lake Park and Stern Grove, 19th to 34th Avenue south of Wawona
+    text: Tucked below Wawona Street is Pine Lake, once called Laguna Puerca. It is one of only three natural freshwater lakes in the city, along with Lake Merced and Mountain Lake. The lake covers about 1.7 acres at the west end of a long, steep-sided valley that continues east as Stern Grove. Its banks are sand, and its water comes from the same aquifer that feeds Lake Merced. The USGS lists it among the natural water bodies recharged mainly by groundwater seepage.
+    tags:
+      - Pine Lake
+      - Stern Grove
+      - hidden water
+      - aquifer
+    sources:
+      - name: SF Recreation and Parks, Significant Natural Resource Areas Management Plan, Pine Lake
+        url: https://www.sfrecpark.org/DocumentCenter/View/8526/67PineLake
+      - name: SF Recreation and Parks, Pine Lake Park
+        url: https://sfrecpark.org/facilities/facility/details/pinelakepark-197
+      - name: USGS Water-Resources Investigations Report 90-4080, Geohydrology, water quality, and water budgets, western San Francisco (Yates and others, 1990)
+        url: https://pubs.usgs.gov/wri/1990/4080/report.pdf
+  - id: a-giant-storm-tank-under-the-great-highway
+    title: A giant storm tank under the Great Highway
+    kind: geology
+    at: Great Hwy & Santiago
+    lat: 37.743524
+    lng: -122.507192
+    reach: area
+    box:
+      - 37.7335
+      - -122.512
+      - 37.765
+      - -122.504
+    extent: the Great Highway, Lincoln to Sloat
+    years: 1980s
+    text: Under the Great Highway from Lincoln to Sloat runs the Westside Transport Box, a long rectangular concrete tube built in the 1980s, when the road was cut from eight lanes to four. In a storm it stores the mix of rain and sewage from the Richmond and Sunset until the Oceanside plant by the zoo can treat it. Pumps at Sloat send the flow on. Only when everything is full does overflow go to the beach.
+    tags:
+      - sewer
+      - Great Highway
+      - stormwater
+      - hidden water
+    sources:
+      - name: "SPUR, Invisible Infrastructure: Ocean Beach and the Oceanside Water Pollution Control Plant (2014)"
+        url: https://www.spur.org/news/2014-04-11/invisible-infrastructure-ocean-beach-oceanside-water-pollution-control-plant
+      - name: California Coastal Commission staff report 2-15-1357, South Ocean Beach (Nov 2015)
+        url: https://documents.coastal.ca.gov/reports/2015/11/th14b-11-2015.pdf
+      - name: USGS Water-Resources Investigations Report 93-4019, Geohydrology of San Francisco (Phillips, Hamlin, Yates, 1993)
+        url: https://pubs.usgs.gov/wri/1993/4019/report.pdf
+      - name: Wikipedia, Great Highway
+        url: https://en.wikipedia.org/wiki/Great_Highway
+  - id: a-sewer-pipe-built-to-cross-the-san-andreas
+    title: A sewer pipe built to cross the San Andreas
+    kind: geology
+    at: 47th Ave & Sloat
+    lat: 37.735583
+    lng: -122.505333
+    radius_m: 420
+    extent: the shore and seabed off the Great Highway just south of Sloat
+    years: "1982"
+    text: Treated water from the Oceanside plant leaves through the Southwest Ocean Outfall, which heads out to sea from the shore just south of Sloat. Engineers described it in 1982 as 23,400 feet long, crossing the San Andreas fault zone about 8,700 feet offshore. Based on 1906, they designed it for the two sides of the fault to slip 16 to 20 feet sideways, with special earthquake joints every 20 feet through the fault zone. SPUR says it releases 4.5 miles offshore in 80 feet of water.
+    tags:
+      - sewer
+      - outfall
+      - San Andreas
+      - earthquake
+    sources:
+      - name: Coastal Engineering Proceedings (1982), Southwest Ocean Outfall, San Francisco
+        url: https://icce-ojs-tamu.tdl.org/icce/article/view/3761
+      - name: "SPUR, Invisible Infrastructure: Ocean Beach and the Oceanside Water Pollution Control Plant (2014)"
+        url: https://www.spur.org/news/2014-04-11/invisible-infrastructure-ocean-beach-oceanside-water-pollution-control-plant
+  - id: the-beach-south-of-sloat-is-retreating
+    title: The beach south of Sloat is retreating
+    kind: geology
+    at: Great Hwy & Sloat
+    lat: 37.735383
+    lng: -122.505976
+    reach: area
+    box:
+      - 37.726
+      - -122.512
+      - 37.7362
+      - -122.503
+    extent: Ocean Beach from Sloat Boulevard south to Skyline
+    years: 2015-2027
+    text: South of Sloat the shore has been losing ground at an average of about 2 feet a year, and a bad winter can take 10 to 50 feet of bluff in one season, according to the Coastal Commission. The bluff here is partly dune sand, earth and rubble pushed out over the last century. Behind it is the Lake Merced Tunnel, a 14 foot wide sewer storage pipe. In 2025 SFPUC trucked about 40,000 cubic yards of sand from the north end of the beach to protect it, and a buried wall is planned to start in late 2027.
+    tags:
+      - erosion
+      - beach
+      - Lake Merced Tunnel
+      - climate
+    sources:
+      - name: California Coastal Commission staff report 2-15-1357, South Ocean Beach (Nov 2015)
+        url: https://documents.coastal.ca.gov/reports/2015/11/th14b-11-2015.pdf
+      - name: SFPUC, Ocean Beach sand relocation construction notice (2025)
+        url: https://www.sfpuc.gov/sites/default/files/documents/Construction_Notice_Ocean_Beach_Sand_Backpass_2025.pdf
+      - name: SFPUC, Ocean Beach Climate Change Adaptation Project fact sheet (Oct 2025)
+        url: https://sfpuc.gov/sites/default/files/documents/Ocean%20Beach%20Climate%20Change%20Adaptation%20Project%20Fact%20Sheet%20October%202025.pdf
+  - id: the-taraval-seawall-from-the-1940s
+    title: The Taraval seawall from the 1940s
+    kind: geology
+    at: Great Hwy & Taraval
+    lat: 37.74167
+    lng: -122.50694
+    radius_m: 420
+    extent: the beach edge between Santiago and Taraval
+    years: "1941"
+    text: At the foot of Taraval there is a low concrete wall that the sand covers and uncovers. City planning documents call it the Taraval Seawall, built in the 1940s between Taraval and Santiago after several earlier attempts to hold the shore had failed. It is a steel sheet-pile wall with tie-backs, capped in reinforced concrete. Engineers still point to it as a model, because a wall that sits low lets a beach and dunes form on top.
+    tags:
+      - seawall
+      - beach
+      - erosion
+    sources:
+      - name: SF Planning / SPUR, Coastal Protection Measures and Management Strategy for South Ocean Beach
+        url: https://default.sfplanning.org/plans-and-programs/local_coastal_prgm/Coastal__Mgmt_Framework.pdf
+      - name: SPUR, Ocean Beach Master Plan open house boards (seawalls)
+        url: https://www.spur.org/sites/default/files/2013-10/OB_open%20house_ALL%20BOARDS_Part6.pdf
+  - id: the-noriega-seawall-and-its-sand-drifts
+    title: The Noriega seawall and its sand drifts
+    kind: geology
+    at: Great Hwy & Noriega
+    lat: 37.75283
+    lng: -122.508432
+    radius_m: 420
+    extent: the beach edge from Noriega to Santiago
+    years: 1980s, 2023
+    text: The seawall and promenade that start at Noriega date from the 1980s; planners label it the Noriega seawall. Wind piles sand against and over it every year. In June 2023 Public Works crews moved about 30,000 cubic yards of sand at the seawall between Noriega and Santiago, pushing it back toward the ocean. The work waits each year until the snowy plovers have left the beach.
+    tags:
+      - seawall
+      - sand
+      - wind
+      - beach
+    sources:
+      - name: SPUR, Ocean Beach Master Plan open house boards (seawalls)
+        url: https://www.spur.org/sites/default/files/2013-10/OB_open%20house_ALL%20BOARDS_Part6.pdf
+      - name: San Francisco Public Works, Great Highway sand removal (June 2023)
+        url: https://sfpublicworks.org/node/2398
+  - id: the-dunes-still-try-to-take-back-the-road
+    title: The dunes still try to take back the road
+    kind: geology
+    at: Great Hwy & Judah
+    lat: 37.760267
+    lng: -122.509385
+    reach: area
+    box:
+      - 37.7335
+      - -122.512
+      - 37.765
+      - -122.504
+    extent: the Great Highway and Sunset Dunes, Lincoln to Sloat
+    years: 2021-2025
+    text: Sand never stopped moving at the west edge. Before 2021 the Upper Great Highway was closed an average of 27 times a year for sand and flooding, and in April 2022 sand shut it for the entire month. Public Works named Judah as one of the hardest-hit spots. Since April 12, 2025, about 2 miles of the old roadway from Lincoln to Sloat has been Sunset Dunes park, where the drifts are part of the scenery.
+    tags:
+      - dunes
+      - wind
+      - sand
+      - Great Highway
+      - Sunset Dunes
+    sources:
+      - name: Wikipedia, Great Highway
+        url: https://en.wikipedia.org/wiki/Great_Highway
+      - name: San Francisco Public Works, Great Highway sand removal (June 2023)
+        url: https://sfpublicworks.org/node/2398

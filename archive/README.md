@@ -10,6 +10,8 @@ History and field notes for the Outer Sunset, gathered from public sources. Know
 - A last section, "Who knows more", naming groups a neighbor can ask.
 - `history-*.md` for the eras of the place, `ecology-*.md` for its more-than-human neighbors.
 
+For something that belongs to one corner or one block, write a pinned note in `blocks/` instead.
+
 These are a place to start, not the last word. They were gathered in November 2026 and will have mistakes. A neighbor's correction (`corrections/`) or own account (`knowledge/`) wins.
 
 ## Public archives worth an afternoon

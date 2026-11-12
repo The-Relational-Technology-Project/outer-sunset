@@ -1,0 +1,953 @@
+# History by block, Lincoln to Noriega.
+# Gathered from the public sources named on each note, November 2026. A place to start; it will have
+# mistakes. A neighbor's correction (corrections/) or own account (knowledge/) wins.
+meta:
+  title: History by block, Lincoln to Noriega
+  researched: 2026-11-12
+notes:
+  - id: a-gripmans-streetcar-house-on-20th-avenue
+    title: A gripman's streetcar house on 20th Avenue
+    kind: history
+    at: 20th Ave between Judah and Kirkham
+    lat: 37.760719
+    lng: -122.477999
+    years: "1895"
+    text: Before Carville took off at the beach, Charles Stahl, a gripman on the Ellis Street cable line, tried the idea here. On a lot on today's 20th Avenue between Judah and Kirkham, then unmarked sand dunes, he joined three old North Beach and Mission horsecars that he bought for 45 dollars. He set the whole thing on stilts to keep it above the shifting sand, and his family moved in during the summer of 1895. The Examiner wrote it up as 'a habitat of street cars.'
+    tags:
+      - carville
+      - streetcar
+      - first-houses
+      - sand-dunes
+    sources:
+      - name: "Streetwise: Carville, by Woody LaBounty (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/sw18.php
+    confidence: medium (block known, exact lot not given)
+  - id: the-17-line-and-why-20th-avenue-is-so-wide
+    title: The 17 line and why 20th Avenue is so wide
+    kind: history
+    at: 20th Ave & Judah
+    lat: 37.761652
+    lng: -122.478065
+    radius_m: 420
+    extent: 20th Ave from Lincoln Way south to Wawona
+    years: 1908-1945
+    text: "20th Avenue from Lincoln Way to Wawona was deliberately built wider than a standard avenue because it carried the Market Street Railway's 17 streetcar line. Riders took it to Stern Grove concerts or downtown via Lincoln Way, Haight and Market. A photo from about 1937 shows 17-line car 131 on 20th Avenue at Judah. Sources differ on the start date: columnist Frank Dunnigan gives 1916 to 1945, while the city's historic context statement says the 20th Avenue line ran from 1908 to 1945."
+    tags:
+      - streetcar
+      - 17-line
+      - market-street-railway
+    sources:
+      - name: "Streetwise: Ghost Streetcar Lines, by Frank Dunnigan (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/streetwise-ghost-lines.php
+      - name: "Then and Now: Judah Street and 20th Avenue (Richmond Review / Sunset Beacon)"
+        url: https://richmondsunsetnews.com/2022/07/04/then-and-now-judah-street-and-20th-avenue/
+      - name: "Sunset District Residential Builders, 1925-1950: Historic Context Statement (SF Planning, 2013)"
+        url: https://default.sfplanning.org/Preservation/sunset_survey/Adopted_SunsetHCS.pdf
+      - name: Sunset Streetcars, by Jack Coll (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/sunset_streetcars.php
+  - id: the-dynamite-factory-that-blew-up-near-22nd-avenue
+    title: The dynamite factory that blew up near 22nd Avenue
+    kind: history
+    at: 22nd Ave between Kirkham and Lawton
+    lat: 37.758758
+    lng: -122.48001
+    radius_m: 420
+    extent: about 19th to 23rd Ave, Kirkham to Moraga
+    years: 1870s-1879
+    text: In the 1870s the Giant Powder Works made dynamite on about 25 fenced acres called the Treat Tract, roughly 19th to 23rd Avenues between Kirkham and Moraga. The site was chosen because nobody lived nearby. At 2 p.m. on January 15, 1879, the packing house, standing approximately at 22nd Avenue between today's Kirkham and Lawton Streets, exploded with 6,000 pounds of powder and five workers inside. Nine other buildings were destroyed and the shock was felt from the Cliff House to the waterfront. Within about a year the company had moved to the East Bay.
+    tags:
+      - industry
+      - gunpowder
+      - disaster
+    sources:
+      - name: Dynamite Factories in the Sunset District, by Angus Macfarlane (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/dynamite-factories.php
+    confidence: medium (source gives the location as approximate)
+  - id: the-first-beach-chalet-ended-up-on-24th-avenue
+    title: The first Beach Chalet ended up on 24th Avenue
+    kind: history
+    at: 24th Ave between Irving and Judah
+    lat: 37.762395
+    lng: -122.482417
+    years: 1925-1958
+    text: The original Beach Chalet was an 1892 Queen Anne building on the ocean side of the Great Highway. When the current chalet was built in 1925, the old one was given to the Boy Scouts on condition that they move it. Parks Commissioner Herbert Fleishhacker paid for the move, and that spring its upper story was hauled along Irving Street to five lots on 24th Avenue between Irving and Judah. It served as the Sunset District Boy Scout Hall for 33 years. The Scouts sold it in 1958, and on May 12 of that year the vacant building burned in a three-alarm fire.
+    tags:
+      - boy-scouts
+      - moved-building
+      - ocean-beach
+      - fire
+    sources:
+      - name: The Odyssey of the Original Beach Chalet, by John Freeman (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/old-beach-chalet.php
+      - name: "Streetwise: Looking Back 100 Years Ago in the Western Neighborhoods (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/streetwise-looking-back-100-years-ago-in-the-western-neighborhoods.php
+  - id: shriners-hospital-and-the-street-named-for-it
+    title: Shriners Hospital and the street named for it
+    kind: history
+    at: 19th Ave between Lawton and Moraga
+    lat: 37.757046
+    lng: -122.47654
+    radius_m: 420
+    extent: block bounded by 19th Ave, 20th Ave, Lawton and Moraga
+    years: 1922-1998
+    text: The brick building at 1601 19th Avenue was built in 1922 and 1923 as Shriners Hospital for Crippled Children, designed by the firm Weeks and Day. San Francisco was the third site in a national chain that treated children regardless of race, religion or ability to pay. The campus filled the block bounded by 19th, 20th, Lawton and Moraga. The hospital moved to Sacramento in 1997, and neighbors won city landmark status (number 221) for the building in 1998. It is now senior housing, and the small new street behind it is named Shriners Avenue.
+    tags:
+      - hospital
+      - landmark
+      - architecture
+    sources:
+      - name: "Streetwise: Preserving a Sunset District Block, by Frank Dunnigan (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/streetwise-shrinehospital.php
+  - id: the-patty-hearst-bank-at-22nd-and-noriega
+    title: The Patty Hearst bank at 22nd and Noriega
+    kind: history
+    at: 22nd Ave & Noriega
+    lat: 37.754099
+    lng: -122.479687
+    years: "1974"
+    text: The Sunset branch of Hibernia Bank stood at 1450 Noriega Street, on the northeast corner of 22nd Avenue. On April 15, 1974, it was robbed by members of the Symbionese Liberation Army together with kidnapped newspaper heiress Patty Hearst, and it has been remembered as the Patty Hearst branch ever since. Columnist Frank Dunnigan also recalls a black-and-white photo mural of the whole western half of San Francisco on its lobby wall. Hibernia was absorbed by Security Pacific in 1988 and then Bank of America in 1992, which later closed the branch.
+    tags:
+      - bank
+      - crime
+      - 1970s
+      - noriega-street
+    sources:
+      - name: "Streetwise: SF Police Department On Duty (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/streetwise-sf-police-department-on-duty.php
+      - name: "Streetwise: Noriega Neighbors, by Frank Dunnigan (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/streetwise-noriega.php
+  - id: 20th-and-noriega-when-the-sand-was-still-winning
+    title: 20th and Noriega when the sand was still winning
+    kind: history
+    at: 20th Ave & Noriega
+    lat: 37.754186
+    lng: -122.477726
+    years: 1924-1930s
+    text: A 1924 photo looking west at 20th Avenue and Noriega shows a row of houses already built along the 1700 block of 20th Avenue, while Noriega beyond that block had not yet been cleared of sand. By the mid 1930s the southwest corner held the Sunset Central Market, run by Vic Barelich, where a clerk fetched each item for you from the shelves. Next door was Noriega Pharmacy, with a soda fountain and a slot machine. A Piggly Wiggly stood opposite, and a small early Safeway later opened up the street toward 19th Avenue.
+    tags:
+      - noriega-street
+      - markets
+      - sand-dunes
+    sources:
+      - name: Sunset Central Market, photo and memories from John Hills (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/sunset-central-market.php
+      - name: "Streetwise: Looking Back 100 Years (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/streetwise-looking-back-100-years.php
+  - id: the-drugstore-tower-at-21st-and-irving
+    title: The drugstore tower at 21st and Irving
+    kind: history
+    at: 21st Ave & Irving
+    lat: 37.76347
+    lng: -122.479266
+    years: 1925-1993
+    text: The building at 2001 Irving Street, on the southwest corner of 21st Avenue, went up in 1925. For decades it was Roth's Pharmacy, a Rexall store whose name and mortar and pestle were outlined in peach colored neon tubing. The building once had a corner tower, which was demolished in 1993 when it was remodeled, and it later became a bank branch. Across the avenue, Val Golding, who lived nearby in the 1930s, remembered Timel's Creamery as the place where Polytechnic High students fed dimes into the Seeburg jukebox and danced.
+    tags:
+      - irving-street
+      - pharmacy
+      - neon
+      - commercial-strip
+    sources:
+      - name: "Streetwise: Take Two Aspirin in the Western Neighborhoods (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/streetwise-take-two-aspirin-in-the-western-neighborhoods.php
+      - name: "Streetwise: Faded from the Scene (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/streetwise-faded-from-scene.php
+      - name: Sunset Reflections, by Val J. Golding (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/golding1.php
+  - id: fernando-nelsons-own-house-and-parkway-terrace
+    title: Fernando Nelson's own house and Parkway Terrace
+    kind: history
+    at: 28th Ave & Lincoln
+    lat: 37.764684
+    lng: -122.486877
+    radius_m: 420
+    extent: 27th to 32nd or 33rd Ave, Lincoln Way to Irving
+    years: 1913-1916
+    text: "In February 1913 the Chronicle called it the largest deal of its kind in city history: Victorian-era builder Fernando Nelson and Sons bought blocks of dunes between Lincoln Way and Irving Street for a tract named Parkway Terrace, with large detached houses on wide lots. Nelson built his own lavish home on Lincoln Way, with a rooftop pergola looking toward the ocean. City address records place it at the 28th Avenue corner. It was restored in 2015 by a Buddhist temple. Sources differ on the tract's limits: the city says 27th to 32nd Avenues, the Western Neighborhoods Project says 27th to 33rd."
+    tags:
+      - builders
+      - fernando-nelson
+      - parkway-terrace
+      - architecture
+    sources:
+      - name: "A Jewel Restored: Fernando Nelson's House in Parkway Terrace, by Inge Horton (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/parkway_terrace_jewel.php
+      - name: "Sunset District Residential Builders, 1925-1950: Historic Context Statement (SF Planning, 2013)"
+        url: https://default.sfplanning.org/Preservation/sunset_survey/Adopted_SunsetHCS.pdf
+  - id: the-concrete-benches-of-parkway-terrace
+    title: The concrete benches of Parkway Terrace
+    kind: history
+    at: 31st Ave & Lincoln
+    lat: 37.764541
+    lng: -122.490091
+    radius_m: 420
+    extent: corners along Lincoln Way, 27th to 32nd Ave
+    years: 1916-1918
+    text: The curved concrete benches built into the corners along Lincoln Way are street furniture from Fernando Nelson's Parkway Terrace tract. A United Railroads photograph dated July 19, 1918, shows the bench at 31st Avenue and Lincoln Way standing in front of bare sand dunes, before the houses arrived. The original bench and its Parkway Terrace sign were still visible in 2025. The city's historic context statement singles out these rounded corner benches, and the deep front yards behind them, as the things that make the five-block tract notable.
+    tags:
+      - parkway-terrace
+      - street-furniture
+      - fernando-nelson
+      - sand-dunes
+    sources:
+      - name: "Then and Now: Lincoln Way at 31st Avenue (Richmond Review / Sunset Beacon)"
+        url: https://richmondsunsetnews.com/2025/03/08/then-and-now-lincoln-way-at-31st-avenue/
+      - name: "Outside Lands Podcast 152: Parkway Terrace (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/podcast/WNP152_Parkway_Terrace
+      - name: "Sunset District Residential Builders, 1925-1950: Historic Context Statement (SF Planning, 2013)"
+        url: https://default.sfplanning.org/Preservation/sunset_survey/Adopted_SunsetHCS.pdf
+  - id: sunset-playground-a-wpa-project
+    title: Sunset Playground, a WPA project
+    kind: history
+    at: 28th Ave & Lawton
+    lat: 37.757853
+    lng: -122.486402
+    radius_m: 420
+    extent: block bounded by 28th Ave, 29th Ave, Lawton and Moraga
+    years: 1937-1951
+    text: The block between 28th and 29th Avenues, Lawton to Moraga, was bought by the city in 1937 for 50,676 dollars and developed as a playground by the Recreation Department and the federal Works Progress Administration. It opened in 1940 with a small field house and volleyball, basketball and tennis courts. In October 1951 Mayor Elmer Robinson dedicated a much bigger recreation center with a gymnasium, auditorium, kitchen and clubrooms.
+    tags:
+      - playground
+      - wpa
+      - new-deal
+      - parks
+    sources:
+      - name: Sunset Playground and Rec Center (San Francisco Parks Alliance)
+        url: https://sanfranciscoparksalliance.org/explore-parks/sunset-playground-and-rec-center
+      - name: Sunset Playground (SF Recreation and Parks)
+        url: https://sfrecpark.org/520/Sunset-Playground
+    confidence: medium (from search result summaries of the parks pages)
+  - id: builder-ray-galli-lived-on-his-own-tract
+    title: Builder Ray Galli lived on his own tract
+    kind: history
+    at: 28th Ave between Kirkham and Lawton
+    lat: 37.758474
+    lng: -122.486447
+    years: 1928-1930
+    text: Ray Galli, born in San Francisco in 1896, kept books for an Oakland dairy before starting a building company with his savings in 1925. The 1930 census found him, his wife Bernadine and their son Raymond Jr. living on 28th Avenue, between Kirkham and Lawton, with his occupation listed as contractor and builder. The house was part of a tract Galli himself built in 1928 and 1929. He went on to become one of the Sunset's major merchant builders, alongside Henry Doelger, the Gellert brothers, the Stonesons and Chris McKeon, and his firm built thousands of homes on the west side.
+    tags:
+      - builders
+      - ray-galli
+      - tract-homes
+    sources:
+      - name: "Sunset District Residential Builders, 1925-1950: Historic Context Statement (SF Planning, 2013)"
+        url: https://default.sfplanning.org/Preservation/sunset_survey/Adopted_SunsetHCS.pdf
+      - name: "Outside Lands Podcast 374: Ray Galli and Galli homes (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/podcast/WNP374_Ray_Galli
+  - id: the-trading-post-at-30th-and-judah
+    title: The Trading Post at 30th and Judah
+    kind: history
+    at: 30th Ave & Judah
+    lat: 37.76118
+    lng: -122.488779
+    years: "1934"
+    text: A photo dated June 8, 1934, shows a bungalow at 2450 Judah Street, on the northeast corner of 30th Avenue, turned into a Depression-era shop called The Trading Post. A chalkboard listed school supplies, vitamins, magazines and soda pop, and an Old Gold cigarette sign promised 'not a cough in a carload.' A note on the back, signed May and Richard, says they opened on May 3. The lot later became a service station and then apartments. Across Judah, the 1960s apartment building on the northwest corner hides a ground-floor swimming pool, long closed and used for storage.
+    tags:
+      - judah-street
+      - shops
+      - great-depression
+    sources:
+      - name: The Trading Post, by John Freeman (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/trading-post.php
+      - name: "Streetwise: Making a Splash, by Frank Dunnigan (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/streetwise_sf_pools.php
+  - id: mayor-moscone-reopens-the-n-judah-at-31st-avenue
+    title: Mayor Moscone reopens the N Judah at 31st Avenue
+    kind: history
+    at: 31st Ave & Judah
+    lat: 37.761133
+    lng: -122.489853
+    years: "1978"
+    text: On September 16, 1978, Mayor George Moscone led the celebration at 31st Avenue and Judah Street to mark the reopening of the N Judah streetcar line after extensive renovations. A photo by Greg Gaar shows Muni's historic streetcar number 1 and the police Mounted Patrol handling the crowd. It was one of Moscone's last civic appearances in the Sunset District. Ten weeks later he was shot and killed in his City Hall office. The service station seen on the southeast corner in the photo has since been replaced by an apartment building.
+    tags:
+      - streetcar
+      - n-judah
+      - moscone
+      - 1970s
+    sources:
+      - name: "Streetwise: SF Police Department On Duty (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/streetwise-sf-police-department-on-duty.php
+  - id: shoveling-sand-off-31st-avenue
+    title: Shoveling sand off 31st Avenue
+    kind: history
+    at: 31st Ave between Kirkham and Lawton
+    lat: 37.758333
+    lng: -122.489657
+    years: "1930"
+    text: A city photograph taken on December 30, 1930, looks north on 31st Avenue between Kirkham and Lawton and shows the street completely blocked by drifting sand, with men clearing it by shovel. Even after streets were paved, the dunes on the empty blocks around them kept moving. Maps had once labeled this whole district the Great Sand Waste, and a citywide aerial survey as late as 1937 still showed vast areas of open dunes in the central Sunset. George Washington High School, visible in the distance today, was not yet started when the photo was taken.
+    tags:
+      - sand-dunes
+      - streets
+      - photo
+    sources:
+      - name: "Then and Now: 31st Avenue between Kirkham and Lawton streets (Richmond Review / Sunset Beacon)"
+        url: https://richmondsunsetnews.com/2024/03/07/then-and-now-31st-avenue-between-kirkham-and-lawton-streets/
+      - name: "Sunset District Residential Builders, 1925-1950: Historic Context Statement (SF Planning, 2013)"
+        url: https://default.sfplanning.org/Preservation/sunset_survey/Adopted_SunsetHCS.pdf
+  - id: doelgers-fancy-1932-model-homes-on-31st-avenue
+    title: Doelger's fancy 1932 model homes on 31st Avenue
+    kind: history
+    at: 31st Ave between Lawton and Moraga
+    lat: 37.75647
+    lng: -122.489525
+    years: "1932"
+    text: In 1932, in the depths of the Depression and before his mass-production years, Henry Doelger opened fully furnished model homes on 31st Avenue between Lawton and Moraga and gave them upscale names. The Abbey and The Chatel were listed on 31st Avenue, El Cadre and Casa Alhambra on the same block, with The Windsor at 31st and Lawton. These picturesque houses are among his most individual designs. The city's context statement notes that this early tract carried no racial deed restrictions, which Doelger and other Sunset builders adopted as standard practice by the late 1930s.
+    tags:
+      - builders
+      - henry-doelger
+      - model-homes
+      - architecture
+      - housing-discrimination
+    sources:
+      - name: "Sunset District Residential Builders, 1925-1950: Historic Context Statement (SF Planning, 2013)"
+        url: https://default.sfplanning.org/Preservation/sunset_survey/Adopted_SunsetHCS.pdf
+  - id: the-rousseau-brothers-first-sunset-block
+    title: The Rousseau brothers' first Sunset block
+    kind: history
+    at: 33rd Ave between Kirkham and Lawton
+    lat: 37.758238
+    lng: -122.491802
+    years: "1931"
+    text: "Oliver and Arthur Rousseau, of the Marian Realty Company, finished their first Sunset District development in May 1931: 24 houses on 33rd Avenue between Kirkham and Lawton. The state Veterans Welfare Board bought the new houses on 33rd Avenue soon after and resold them on favorable terms to World War I veterans Walter J. Hilbrook and John D. Lumis. The board was busy here, and in 1937 alone it owned 52 houses in the Sunset. On the same block, Henry Doelger built the muscular Spanish Colonial Revival house on 33rd Avenue in 1935."
+    tags:
+      - builders
+      - rousseau
+      - storybook
+      - veterans
+    sources:
+      - name: "Sunset District Residential Builders, 1925-1950: Historic Context Statement (SF Planning, 2013)"
+        url: https://default.sfplanning.org/Preservation/sunset_survey/Adopted_SunsetHCS.pdf
+  - id: 34th-avenue-the-one-road-through-the-dunes
+    title: 34th Avenue, the one road through the dunes
+    kind: history
+    at: 34th Ave & Kirkham
+    lat: 37.759124
+    lng: -122.492937
+    radius_m: 420
+    extent: 34th Ave from Kirkham south to Santiago
+    years: "1926"
+    text: "A 1926 United States Coast Survey map shows just one north to south road crossing the sand dunes of the central Sunset: 34th Avenue. The nearest parallel through roads were 21st Avenue to the east and 45th Avenue to the west, and the map shows no east to west through roads at all in the eight blocks between Kirkham and Santiago. Much of the district simply could not be reached by car. That changed by 1931, when Sunset Boulevard opened two blocks away, though the lots beside it mostly stayed empty until the late 1930s."
+    tags:
+      - roads
+      - sand-dunes
+      - maps
+    sources:
+      - name: "Sunset District Residential Builders, 1925-1950: Historic Context Statement (SF Planning, 2013)"
+        url: https://default.sfplanning.org/Preservation/sunset_survey/Adopted_SunsetHCS.pdf
+    confidence: medium (the road ran the length of the avenue; this corner is its north end on the map description)
+  - id: the-surprise-house-on-35th-avenue
+    title: The Surprise House on 35th Avenue
+    kind: history
+    at: 35th Ave between Kirkham and Lawton
+    lat: 37.758143
+    lng: -122.493944
+    radius_m: 420
+    extent: model homes centered on 35th Ave and Kirkham
+    years: "1933"
+    text: In early 1933 the Rousseau brothers opened a model home called the Surprise House on 35th Avenue. It reportedly drew more than 6,000 visitors, the biggest crowd their Marian Realty Company had ever seen. The surprise was Oliver Rousseau's new Patio Plan, an open-air courtyard in the middle of the upper floor that brought light into a narrow row house. Fans later called the layout the Cadillac of the Avenue homes. The house also showed off a three-car garage and a triangular kitchen sink. Eighteen model homes around 35th and Kirkham were furnished by O'Connor Moffat and Company.
+    tags:
+      - builders
+      - rousseau
+      - model-homes
+      - architecture
+      - storybook
+    sources:
+      - name: "Sunset District Residential Builders, 1925-1950: Historic Context Statement (SF Planning, 2013)"
+        url: https://default.sfplanning.org/Preservation/sunset_survey/Adopted_SunsetHCS.pdf
+  - id: where-the-rousseau-brothers-lived
+    title: Where the Rousseau brothers lived
+    kind: history
+    at: 36th Ave between Kirkham and Lawton
+    lat: 37.758096
+    lng: -122.495017
+    radius_m: 420
+    extent: 33rd to 36th Ave, Kirkham to Lawton
+    years: 1932-1937
+    text: The Rousseaus' biggest Sunset project was 93 houses on three blocks beside the newly paved Sunset Boulevard, finished in 1933. Both brothers moved in. Oliver Rousseau lived in the large Spanish Colonial Revival corner house on 36th Avenue from 1933 to 1937, and Arthur lived at the other end of the block on 36th Avenue, a storybook Tudor corner house, for the same years. Their first model homes, advertised in 1932 as the Sunset House, were on 36th Avenue. The row faces the boulevard's greenery.
+    tags:
+      - builders
+      - rousseau
+      - storybook
+      - famous-residents
+      - architecture
+    sources:
+      - name: "Sunset District Residential Builders, 1925-1950: Historic Context Statement (SF Planning, 2013)"
+        url: https://default.sfplanning.org/Preservation/sunset_survey/Adopted_SunsetHCS.pdf
+      - name: "Outside Lands Podcast 393: Rousseau Brothers Realty (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/podcast/WNP393_Rousseau_Brothers_Realty
+      - name: "Streetwise: Residential Architecture of the Outside Lands (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/streetwise-residential_architecture.php
+  - id: sunset-boulevard-under-construction-at-kirkham
+    title: Sunset Boulevard under construction at Kirkham
+    kind: history
+    at: Sunset Blvd & Kirkham
+    lat: 37.759005
+    lng: -122.495618
+    radius_m: 420
+    extent: Sunset Blvd from Lincoln Way south
+    years: "1931"
+    text: A photo taken April 2, 1931, near Kirkham Street shows Sunset Boulevard graded but unpaved, with concrete forms in place, the work crew's cars parked on the dirt, and open sand dunes on both sides. Another from May 25, 1931, shows the parkway taking shape toward Judah. The block-wide boulevard was laid out between 36th and 37th Avenues. The city's context statement dates its completion to 1931, when it gave drivers a nearly mile-long route through the dunes. In 1946 the Chronicle could still call it a lovely, peaceful parkway 'seldom used even on Sunday.'
+    tags:
+      - sunset-boulevard
+      - roads
+      - sand-dunes
+      - construction
+    sources:
+      - name: "Then and Now: Sunset Boulevard at Kirkham Street (Richmond Review / Sunset Beacon)"
+        url: https://richmondsunsetnews.com/2022/09/05/then-and-now-sunset-boulevard-at-kirkham-street/
+      - name: "Then and Now: Sunset Boulevard and Judah Street (Richmond Review / Sunset Beacon)"
+        url: https://richmondsunsetnews.com/2025/10/10/then-and-now-sunset-boulevard-and-judah-street/
+      - name: "Sunset District Residential Builders, 1925-1950: Historic Context Statement (SF Planning, 2013)"
+        url: https://default.sfplanning.org/Preservation/sunset_survey/Adopted_SunsetHCS.pdf
+      - name: Soap Box Derby Races on Sunset (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/soap-box-derby.php
+  - id: palm-trees-and-marble-entrances-on-37th-avenue
+    title: Palm trees and marble entrances on 37th Avenue
+    kind: history
+    at: 37th Ave between Lincoln and Irving
+    lat: 37.763347
+    lng: -122.496459
+    years: "1913"
+    text: In January 1913 the Chronicle reported that the Sterling Realty Company's property on 37th Avenue between Lincoln Way and Irving was 'rapidly being transformed into a beautiful boulevard, with artistic homes on either side of a palm planted street.' Telephone poles were kept behind the lots so none would spoil the avenue. Builder L. U. Grant was finishing eighteen six-room homes there with marble entrances, hardwood floors, outdoor sleeping verandas and basement garages, and five had sold before completion. This was years before the surrounding blocks filled in.
+    tags:
+      - builders
+      - early-houses
+      - 1910s
+    sources:
+      - name: 1913 Article on Sunset Home Building (San Francisco Chronicle, January 18, 1913) (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/1913_article.php
+  - id: henry-doelgers-very-first-house
+    title: Henry Doelger's very first house
+    kind: history
+    at: 39th Ave between Judah and Kirkham
+    lat: 37.759822
+    lng: -122.498359
+    years: "1927"
+    text: Henry Doelger, who became the biggest home builder in the country in the 1930s, built his first Sunset house in 1927 on 39th Avenue, a barrel-front single-family home. Later that year he began his first tract on the same block, and the solid row of Mediterranean Revival houses on 39th between Judah and Kirkham remains largely intact. For years people thought the first house was a different one on the block. A 1954 San Francisco News article settled it, though it misprinted the address as 36th Avenue. FoundSF dates the Doelgers' start on 39th Avenue to 1926.
+    tags:
+      - builders
+      - henry-doelger
+      - tract-homes
+      - first-houses
+    sources:
+      - name: First Doelger Home Identified (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/first-doelger.php
+      - name: "Sunset District Residential Builders, 1925-1950: Historic Context Statement (SF Planning, 2013)"
+        url: https://default.sfplanning.org/Preservation/sunset_survey/Adopted_SunsetHCS.pdf
+      - name: "Streetwise: Doelger City, by Woody LaBounty (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/sw2.php
+      - name: "The Sunset District: From Dunes to Cityscape (FoundSF)"
+        url: https://foundsf.org/Changing_Physical_Landscape_of_the_Sunset
+  - id: gallis-row-of-1940-model-homes
+    title: Galli's row of 1940 model homes
+    kind: history
+    at: 39th Ave between Kirkham and Lawton
+    lat: 37.757955
+    lng: -122.498228
+    years: "1940"
+    text: "In the first months of 1940 builder Ray Galli opened one furnished model home after another on 39th Avenue between Kirkham and Lawton: The Queen Anne at 1550 and The Carmel at 1554 in January, The Spring Haven at 1574 in February, and Casa Moderna at 1590 in March. Casa Moderna was one of the Sunset's early Streamline Moderne alternatives to traditional fronts. The Galli brothers later explained the method: people would look at a model house, then pick one under construction to buy, which they believed was new for San Francisco at the time."
+    tags:
+      - builders
+      - ray-galli
+      - model-homes
+      - streamline-moderne
+    sources:
+      - name: "Sunset District Residential Builders, 1925-1950: Historic Context Statement (SF Planning, 2013)"
+        url: https://default.sfplanning.org/Preservation/sunset_survey/Adopted_SunsetHCS.pdf
+  - id: polly-ann-ice-cream
+    title: Polly Ann Ice Cream
+    kind: history
+    at: 39th Ave & Noriega
+    lat: 37.753294
+    lng: -122.497903
+    years: 1955-2005
+    text: Polly Ann opened on July 16, 1955, at 39th Avenue and Noriega Street. Bernice and Chuck Lassiter bought it in 1959 and made it locally famous for unusual flavors that won ribbons at the State Fair. Charlie Wu, the owner since 1985, grew the recipe book from 250 flavors to about 500, with roughly 50 on offer at a time. The original building was torn down in 2003, and the shop survived two years by selling ice bars to grocery stores before reopening in the new building in 2005, in time for its fiftieth anniversary.
+    tags:
+      - noriega-street
+      - ice-cream
+      - legacy-business
+    sources:
+      - name: Polly Ann Ice Cream Parlor (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/polly_ann_ice_cream.php
+      - name: "Streetwise: Noriega Neighbors, by Frank Dunnigan (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/streetwise-noriega.php
+  - id: holy-name-parish-at-40th-and-lawton
+    title: Holy Name parish at 40th and Lawton
+    kind: history
+    at: 40th Ave & Lawton
+    lat: 37.756974
+    lng: -122.499234
+    years: 1925-1964
+    text: Holy Name Parish was created in 1925 for Catholics in the growing Sunset, carved out of territory that had belonged to St. Anne of the Sunset. It operated from a temporary structure for its first 16 years. A permanent church and a parish school were built at 40th Avenue and Lawton Street in 1941. By the 1960s the parish was badly overcrowded, and the present church was dedicated in 1964. According to Frank Dunnigan, it was the first Catholic church in San Francisco built to the new guidelines of the Second Vatican Council.
+    tags:
+      - church
+      - school
+      - catholic
+    sources:
+      - name: "Streetwise: Changing Houses of Worship, by Frank Dunnigan (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/streetwise-changing-houses-of-worship.php
+  - id: the-styleocrat-on-moraga-street
+    title: The Styleocrat on Moraga Street
+    kind: history
+    at: Moraga between 40th Ave and 41st Ave
+    lat: 37.755078
+    lng: -122.499638
+    years: 1940-1941
+    text: In January 1941 the Examiner announced that Henry Doelger's 'smart model home' called the Styleocrat, furnished by Lachman Brothers, was open for inspection on Moraga Street. It was Doelger's second exhibit home that month and 'follows modern lines of architecture,' meaning the sleek Streamline Moderne look that fewer than one in ten Sunset fronts used. City address records place the house between 40th and 41st Avenues. Around the corner, Doelger had shown The El Dorado on 41st Avenue in June 1940 and The Forty Finer on 40th Avenue that March.
+    tags:
+      - builders
+      - henry-doelger
+      - model-homes
+      - streamline-moderne
+    sources:
+      - name: Doelger Architecture (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/doelger-types.php
+      - name: "Sunset District Residential Builders, 1925-1950: Historic Context Statement (SF Planning, 2013)"
+        url: https://default.sfplanning.org/Preservation/sunset_survey/Adopted_SunsetHCS.pdf
+  - id: waiting-for-the-streetcar-at-41st-and-lincoln
+    title: Waiting for the streetcar at 41st and Lincoln
+    kind: history
+    at: 41st Ave & Lincoln
+    lat: 37.764069
+    lng: -122.500807
+    years: 1912-1915
+    text: Photos taken on March 8, 1912, show a small transit waiting station at 41st Avenue and Lincoln Way, a lone man on a dirt road, and no entrance into Golden Gate Park where Chain of Lakes Drive now crosses. A few steps away stood the Spring Valley Water Company's water tower on 41st Avenue near Lincoln Way, which in 1915 was known as the Oceanside tank. The tower no longer exists. The Oceanside survey says a few private well houses and one water tower from those years remain on nearby blocks.
+    tags:
+      - streetcar
+      - 7-line
+      - water
+      - oceanside
+    sources:
+      - name: "Then and Now: 41st Avenue and Lincoln Way (Richmond Review / Sunset Beacon)"
+        url: https://richmondsunsetnews.com/2025/06/07/then-and-now-41st-avenue-and-lincoln-way/
+      - name: "Then and Now: Lincoln Way at 41st Avenue (Richmond Review / Sunset Beacon)"
+        url: https://richmondsunsetnews.com/2025/01/07/then-and-now-lincoln-way-at-41st-avenue/
+      - name: "Architectural and Historical Resources of the Oceanside: context statement (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/oceanside.php
+  - id: smoking-brakes-on-the-late-night-7-line
+    title: Smoking brakes on the late-night 7 line
+    kind: history
+    at: 41st Ave & Lincoln
+    lat: 37.764069
+    lng: -122.500807
+    radius_m: 420
+    extent: Lincoln Way from 20th Ave to the beach
+    years: 1930s-1940s
+    text: The Market Street Railway's 7 line ran along Lincoln Way to the beach, two blocks from the faster N Judah, so late-night cars were nearly empty. Val Golding, who lived on Kirkham Street in the 1930s, recalled that after the last full stop at 20th Avenue the motormen would notch the old wooden cars up to full speed and leave them there. To get off he would announce 'I get off at 41st' as early as Sunset Boulevard. The motorman would throw on the notoriously weak air brakes and the car would slide to a stop, wheels smoking, somewhere between 40th and 45th.
+    tags:
+      - streetcar
+      - 7-line
+      - market-street-railway
+      - memories
+    sources:
+      - name: Sunset Reflections, by Val J. Golding (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/golding1.php
+      - name: Sunset Streetcars, by Jack Coll (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/sunset_streetcars.php
+    confidence: medium (personal recollection)
+  - id: oceansides-schoolhouse-and-the-francis-scott-key-annex
+    title: Oceanside's schoolhouse and the Francis Scott Key Annex
+    kind: history
+    at: 42nd Ave between Irving and Judah
+    lat: 37.761544
+    lng: -122.501705
+    radius_m: 420
+    extent: block bounded by 42nd Ave, 43rd Ave, Irving and Judah
+    years: 1903-1920s
+    text: The first school in Oceanside started in 1903 beneath a grocery store on 48th Avenue. In 1908 a large shingled Oceanside Primary School was built on 43rd Avenue between Irving and Judah. It was demolished and rebuilt in 1913, and the name later changed to Francis Scott Key School. In the late 1910s or early 1920s a half-timbered annex, its first story clad in 12-inch redwood planks, went up at 1351 42nd Avenue, and it still stands. Across the street, Finelli's was a popular small soda fountain, since replaced by flats.
+    tags:
+      - school
+      - oceanside
+      - francis-scott-key
+      - architecture
+    sources:
+      - name: "Architectural and Historical Resources of the Oceanside: context statement (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/oceanside.php
+      - name: "Streetwise: Old-Time Food and Drink (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/streetwise-old-time-food-drink.php
+      - name: "Outside Lands Podcast 109: Francis Scott Key School (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/podcast/WNP109_Francis_Scott_Key_School
+  - id: freedom-house-and-rainbow-house
+    title: Freedom House and Rainbow House
+    kind: history
+    at: 43rd Ave between Moraga and Noriega
+    lat: 37.75403
+    lng: -122.502255
+    radius_m: 420
+    extent: 42nd and 43rd Ave between Moraga and Noriega
+    years: 1941-1942
+    text: As World War II approached, Sunset builders gave their model homes patriotic or hopeful names. Henry Doelger's Rainbow House on 42nd Avenue dates to 1941, and his Freedom House on 43rd Avenue opened in 1942, both between Moraga and Noriega. They were among the last, because wartime rules soon halted nonessential building. Citywide survey figures show Sunset house construction peaking at 499 houses in 1940 and dropping sharply after 1943. Ray Galli's 1942 model on 44th Avenue was called The Challenger, and one of his 1941 models was the Priority House.
+    tags:
+      - builders
+      - henry-doelger
+      - model-homes
+      - world-war-ii
+    sources:
+      - name: Doelger Architecture (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/doelger-types.php
+      - name: "Sunset District Residential Builders, 1925-1950: Historic Context Statement (SF Planning, 2013)"
+        url: https://default.sfplanning.org/Preservation/sunset_survey/Adopted_SunsetHCS.pdf
+  - id: st-pauls-presbyterian-from-kirkham-to-judah
+    title: St. Paul's Presbyterian, from Kirkham to Judah
+    kind: history
+    at: Kirkham between 46th Ave and 47th Ave
+    lat: 37.758536
+    lng: -122.506332
+    radius_m: 420
+    extent: original site on Kirkham; later church at 43rd Ave & Judah
+    years: 1906-1923
+    text: The first permanent church in Oceanside was probably St. Paul's Presbyterian, a brown shingled building on Kirkham Street between 46th and 47th Avenues, dedicated on September 9, 1906. It soon added a gymnasium called the Oceanside Boys Club, which gave neighborhood youth a much-needed place to play. The congregation outgrew the site, and in 1923 it built a new church at the corner of 43rd Avenue and Judah Street, where it still stands. From 1924 to 1930 the local improvement clubs met at the Oceanside Community Hall at 4131 Kirkham.
+    tags:
+      - church
+      - oceanside
+      - youth
+    sources:
+      - name: "Architectural and Historical Resources of the Oceanside: context statement (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/oceanside.php
+  - id: the-firehouse-on-45th-avenue
+    title: The firehouse on 45th Avenue
+    kind: history
+    at: 45th Ave between Irving and Judah
+    lat: 37.761402
+    lng: -122.504922
+    years: 1912-1957
+    text: A firehouse was one of the things Oceanside's improvement clubs lobbied for. The fire station at 1348 45th Avenue, between Irving and Judah, opened in 1912 as quarters for Chemical Engine Company 12. In 1913 Engine Company 45 was assigned there. The house was rebuilt in the 1950s, with the company returning in April 1957. Jack Goldsworthy, born in 1926, grew up in a rented house on this block and remembered 'the old firehouse' and that 'in those days, it was all sand dunes,' with a 25-foot lot selling for 300 dollars.
+    tags:
+      - firehouse
+      - oceanside
+      - sand-dunes
+    sources:
+      - name: Engine Company No. 45 (Guardians of the City, SF Fire Department Museum)
+        url: https://guardiansofthecity.org/sffd/companies/engines/engine45.html
+      - name: 1348 45th Avenue firehouse (Guardians of the City)
+        url: https://guardiansofthecity.org/sffd/firehouses/current/1348_45th_ave.html
+      - name: Jack Goldsworthy and the Historic Sunset Gas Station (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/goldsworthy-gas.php
+      - name: "Architectural and Historical Resources of the Oceanside: context statement (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/oceanside.php
+    confidence: medium (fire museum pages seen in search results only; site blocked direct fetch)
+  - id: sand-drifting-across-45th-avenue-in-1915
+    title: Sand drifting across 45th Avenue in 1915
+    kind: history
+    at: 45th Ave between Kirkham and Lawton
+    lat: 37.757673
+    lng: -122.50466
+    years: 1905-1915
+    text: "Two city photos taken on January 5, 1915, look up and down 45th Avenue between Kirkham and Lawton. Sand is drifting onto the fresh pavement, and only a few houses stand among the dunes: two built in 1905 and one in 1910. A historic survey of Oceanside names the 1500 block of 45th as one of the few blocks that still has the feel of the years when Carville was turning into a regular neighborhood, with a mix of makeshift self-built cottages and full Craftsman houses."
+    tags:
+      - oceanside
+      - sand-dunes
+      - early-houses
+      - photo
+    sources:
+      - name: "Then and Now: 45th Avenue between Kirkham and Lawton streets (north view) (Richmond Review / Sunset Beacon)"
+        url: https://richmondsunsetnews.com/2025/04/09/then-and-now-45th-avenue-between-kirkham-and-lawton-streets/
+      - name: "Then and Now: 45th Avenue between Kirkham and Lawton streets (south view) (Richmond Review / Sunset Beacon)"
+        url: https://richmondsunsetnews.com/2025/12/13/then-and-now-45th-avenue-between-kirkham-and-lawton-streets-2/
+      - name: "Architectural and Historical Resources of the Oceanside: context statement (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/oceanside.php
+  - id: the-surf-theatre
+    title: The Surf Theatre
+    kind: history
+    at: Irving between 46th Ave and 47th Ave
+    lat: 37.762261
+    lng: -122.506595
+    years: 1926-1985
+    text: The theater at 4510 Irving Street opened around September 1926 as the Parkview. In 1937 it was renamed the Sunset Theatre, a second-run neighborhood house that locals called the flea house because of the sand fleas in the seats. Isabella Strohmeyer remodeled it and reopened it as the Surf on July 24, 1957, showing international films. Under Mel Novikoff it became a destination for serious moviegoers from around the Bay Area until it closed on July 7, 1985. Corabell's bar was next door. The building later became a church.
+    tags:
+      - theater
+      - irving-street
+      - movies
+    sources:
+      - name: Surf Theatre (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/surf_theater.php
+      - name: Surf Theatre Memories, by Woody LaBounty (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/surf-theatre-memories.php
+      - name: "Outside Lands Podcast 570: The Surf Theater (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/podcast/WNP570_The_Surf_Theater
+  - id: the-day-46th-and-irving-flooded
+    title: The day 46th and Irving flooded
+    kind: history
+    at: 46th Ave & Irving
+    lat: 37.762288
+    lng: -122.506059
+    years: "1952"
+    text: In November 1952 the intersection of 46th Avenue and Irving Street flooded like a pond, and a newspaper photographer caught people at the Busy Bee Market on the northwest corner watching the water rise. The corner store had started out as a Safeway grocery before becoming the Busy Bee. Today the same building, at 4499 Irving, is the Mollusk Surf Shop. Also at 46th and Irving, a private school called Rivendell later operated in a former food store until about 2000, when the building was replaced by housing.
+    tags:
+      - irving-street
+      - storm
+      - markets
+      - photo
+    sources:
+      - name: "Then and Now: Surf's Up (Richmond Review / Sunset Beacon)"
+        url: https://richmondsunsetnews.com/2022/03/08/then-and-now-surfs-up/
+      - name: "Streetwise: Stormy Weather in the Western Neighborhoods (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/streetwise-stormy-weather-in-the-western-neighborhoods.php
+      - name: Surf Theatre Memories (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/surf-theatre-memories.php
+      - name: "Streetwise: Lost School Buildings of the Western Neighborhoods (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/streetwise-lost-school-buildings-of-the-western-neighborhoods.php
+  - id: the-barefoot-clubs-streetcar-clubhouse
+    title: The Barefoot Club's streetcar clubhouse
+    kind: history
+    at: 46th Ave & Lawton
+    lat: 37.756694
+    lng: -122.505665
+    years: 1890s-1910s
+    text: Carville was not only houses. Many of the old horsecars and cable cars hauled out to the dunes became clubhouses. A women's bicycling club called the Falcons had one, a band of working musicians named theirs La Boheme, and a group of professional men who liked to walk on the beach, the Barefoot Club, used a car as their clubhouse at 46th Avenue and Lawton. By about 1910 the streetcar settlement stretched from Lincoln Way south to Moraga Street, so this was near its inland edge.
+    tags:
+      - carville
+      - clubs
+      - streetcar
+    sources:
+      - name: "Architectural and Historical Resources of the Oceanside: context statement (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/oceanside.php
+      - name: "Streetwise: Carville, by Woody LaBounty (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/sw18.php
+    confidence: medium (single source for the corner; no exact lot)
+  - id: where-carville-began-47th-and-lincoln
+    title: "Where Carville began: 47th and Lincoln"
+    kind: history
+    at: 47th Ave & Lincoln
+    lat: 37.763783
+    lng: -122.507238
+    years: 1895-1900s
+    text: The Park and Ocean steam railway ended at 47th Avenue and today's Lincoln Way, and that is where Carville took root. Colonel Charles Dailey, a Civil War veteran and friend of Adolph Sutro, lived in a former realtor's shed that he enlarged with driftwood and decorated with shells. He rented three abandoned horsecars from Sutro for five dollars a month and opened one as a coffee saloon called the Annex. A Bulletin reporter named the spot Beachside in July 1896. Later the realty firm Sol Getz and Sons ran a branch office at this corner to sell Oceanside lots.
+    tags:
+      - carville
+      - streetcar
+      - sutro
+      - real-estate
+      - coffee
+    sources:
+      - name: "Streetwise: Carville, by Woody LaBounty (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/sw18.php
+      - name: "Architectural and Historical Resources of the Oceanside: context statement (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/oceanside.php
+  - id: a-church-made-of-streetcars
+    title: A church made of streetcars
+    kind: history
+    at: 47th Ave between Irving and Judah
+    lat: 37.761307
+    lng: -122.507065
+    years: 1900s-1910s
+    text: St. Andrew's by the Sea, Carville's Episcopal church, stood at 1338 47th Avenue in the 1910s. It was a two-story building whose upper floor was made of old North Beach and Mission horsecars. Before it was a church the structure had been rented out under the name Vista del Mar. The Overland Monthly described it in 1908 in an article called 'A City of Cars.' That address is on 47th Avenue between Irving and Judah, in the thick of the car-house settlement. Few car houses of any kind were left by the end of the 1920s.
+    tags:
+      - carville
+      - church
+      - streetcar
+    sources:
+      - name: "Architectural and Historical Resources of the Oceanside: context statement (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/oceanside.php
+      - name: "Streetwise: Carville, by Woody LaBounty (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/sw18.php
+  - id: the-falcon-club-founders-carville-house
+    title: The Falcon Club founders' Carville house
+    kind: history
+    at: 47th Ave between Judah and Kirkham
+    lat: 37.759445
+    lng: -122.506934
+    years: 1900s-1994
+    text: The three-story building on 47th Avenue began as a Carville home belonging to Robert and Ida Fitzgerald. Ida was a founder of the Falcons, the women's bicycle club that rented one of the first cars at the beach as a clubhouse. The house once had streetcars built into an upper story, but researcher James Heisterkamp learned in 1994 that a remodel had removed them. Nearby, a water tower survives on the same block, and merchant Walter Mohns built six rental cottages there between 1904 and 1915, four of which remain.
+    tags:
+      - carville
+      - streetcar
+      - bicycles
+      - oceanside
+      - early-houses
+    sources:
+      - name: "Streetwise: Carville, by Woody LaBounty (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/sw18.php
+      - name: "Architectural and Historical Resources of the Oceanside: context statement (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/oceanside.php
+      - name: "Oceanside survey: significant buildings (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/oceanside-survey1.php
+  - id: four-earthquake-shacks-on-kirkham
+    title: Four earthquake shacks on Kirkham
+    kind: history
+    at: Kirkham between 47th Ave and 48th Ave
+    lat: 37.758489
+    lng: -122.507402
+    years: 1906-2006
+    text: After the 1906 earthquake the city sold off its refugee cottages, each only 14 by 18 feet, to be hauled to private lots, and several came to the wide-open Sunset. Four of them, joined together on Kirkham Street between 47th and 48th Avenues, survived until 2005, when the lot was to be developed. The Western Neighborhoods Project led a volunteer effort to save them, and a crane lifted them off the lot. One restored shack was displayed on Market Street for the 2006 centennial and then went to the San Francisco Zoo.
+    tags:
+      - earthquake-shacks
+      - "1906"
+      - preservation
+    sources:
+      - name: "Architectural and Historical Resources of the Oceanside: context statement (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/oceanside.php
+      - name: "Outside Lands Podcast 375: Earthquake Refugee Shacks (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/podcast/WNP375_Earthquake_Shacks
+      - name: "The Sunset District: From Dunes to Cityscape (FoundSF)"
+        url: https://foundsf.org/Changing_Physical_Landscape_of_the_Sunset
+  - id: heavyweight-champion-jack-johnson-lived-at-48th-and-kirkham
+    title: Heavyweight champion Jack Johnson lived at 48th and Kirkham
+    kind: history
+    at: 48th Ave & Kirkham
+    lat: 37.758473
+    lng: -122.507758
+    years: "1911"
+    text: Jack Johnson, the first African American heavyweight boxing champion, used Ocean Beach as a base for several years. In February 1911, months after winning the 'Fight of the Century' against Jim Jeffries, he came back to San Francisco and moved into an eight-room cottage at 48th Avenue and K Street, as Kirkham was then called, with his wife Etta Duryea. It was a remote spot on the edge of Carville. Within a year he had left for Chicago. The account comes from research by Arnold Woods and Nicole Meldahl of the Western Neighborhoods Project.
+    tags:
+      - famous-residents
+      - boxing
+      - carville
+      - oceanside
+    sources:
+      - name: "Outside Lands Podcast 471: The Heavyweight Champ at Ocean Beach (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/podcast/WNP471_The_Heavyweight_Champ_at_Ocean_Beach
+    confidence: medium (single source; corner known but not the exact lot)
+  - id: brueckers-the-market-from-1907
+    title: Bruecker's, the market from 1907
+    kind: history
+    at: 48th Ave between Judah and Kirkham
+    lat: 37.759398
+    lng: -122.508002
+    years: 1907-1950s
+    text: The little market at 1460 48th Avenue opened in 1907 and still has its worn wooden floorboards. For many years it was run by Charles and Henry Bruecker. The official name was Quality Market, but locals called it Bruecker's. In 1925 it advertised stall-fed meats, fish on Friday and two delivery runs a day, rain or shine. Neighbors kept a tab between paydays, and Jake the butcher handed bologna slices to local kids. A few doors up, Harry Rupp's butcher shop at 1446 48th was called the Oceanside Market.
+    tags:
+      - markets
+      - oceanside
+      - legacy-business
+    sources:
+      - name: Pioneer Markets of the Outer Sunset, by Woody LaBounty (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/pioneer-markets.php
+      - name: "Architectural and Historical Resources of the Oceanside: context statement (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/oceanside.php
+  - id: oceansides-downtown-at-48th-and-judah
+    title: Oceanside's downtown at 48th and Judah
+    kind: history
+    at: 48th Ave & Judah
+    lat: 37.760337
+    lng: -122.507889
+    years: 1903-1907
+    text: Around 1905 the residents of Carville who wanted to sound respectable called their neighborhood Oceanside, and 48th and Judah was its center. The Oceanside and Park News was published here in 1905. In 1906 or 1907 Matilda Burns, a pioneering physician and pharmacist, opened the Oceanside Pharmacy on the northwest corner. A few steps west at 4314 Judah, A. E. Harnish had opened a catchall store about 1903 selling groceries, bakery goods and beer, with wines and liquors 'for medical use' and lunches for Sunday beachgoers.
+    tags:
+      - oceanside
+      - carville
+      - pharmacy
+      - markets
+      - judah-street
+    sources:
+      - name: "Architectural and Historical Resources of the Oceanside: context statement (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/oceanside.php
+      - name: Pioneer Markets of the Outer Sunset (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/pioneer-markets.php
+      - name: "Outside Lands Podcast 611: Dr Matilda Burns and the Oceanside Pharmacy (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/podcast/WNP611_Dr_Matilda_Burns_and_the_Oceanside_Pharmacy
+  - id: rails-into-the-park-at-48th-and-lincoln
+    title: Rails into the park at 48th and Lincoln
+    kind: history
+    at: 48th Ave & Lincoln
+    lat: 37.763598
+    lng: -122.508029
+    years: 1913-1914
+    text: A 1914 photo looking east on Lincoln Way at 48th Avenue shows laborers working on streetcar tracks that curved from Lincoln into Golden Gate Park, the route cars took to reach the beach attractions to the north. Beside the tracks stood a small depot built from parts of the former Park and Ocean Railroad depot, which had been moved here from Haight and Stanyan Streets. A year earlier the Chronicle had reported the United Railroads relaying Lincoln Way with heavy grooved rail in expectation of big crowds riding to the beach.
+    tags:
+      - streetcar
+      - railroad
+      - golden-gate-park
+      - 7-line
+    sources:
+      - name: "Then and Now: Lincoln Way and 48th Avenue (Richmond Review / Sunset Beacon)"
+        url: https://richmondsunsetnews.com/2025/08/13/then-and-now-lincoln-way-and-48th-avenue/
+      - name: 1913 Article on Sunset Home Building (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/1913_article.php
+      - name: Sunset Streetcars, by Jack Coll (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/sunset_streetcars.php
+  - id: john-brumunds-store-at-la-playa-and-irving
+    title: John Brumund's store at La Playa and Irving
+    kind: history
+    at: La Playa & Irving
+    lat: 37.762151
+    lng: -122.50927
+    radius_m: 420
+    extent: Lincoln Way to Irving, 48th Ave to La Playa
+    years: 1898-1910s
+    text: John Brumund started in 1898 with a saloon on the Great Highway, pouring drinks for weekend bicyclists. By about 1905 his store at the corner of today's La Playa and Irving Street, with Carville car-houses out front, sold groceries along with hardware, paints, oils, crockery and glass. By the 1910s it was also a real estate and rental office, the neighborhood post office and a social hall. The cluster of converted horsecars and cable cars had first formed by 1895 on the blocks just around it, between Lincoln, Irving, 48th Avenue and La Playa.
+    tags:
+      - carville
+      - markets
+      - oceanside
+      - saloon
+    sources:
+      - name: Pioneer Markets of the Outer Sunset (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/pioneer-markets.php
+      - name: "Architectural and Historical Resources of the Oceanside: context statement (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/oceanside.php
+  - id: the-heart-of-carville-on-la-playa
+    title: The heart of Carville on La Playa
+    kind: history
+    at: La Playa between Irving and Judah
+    lat: 37.761213
+    lng: -122.509205
+    radius_m: 420
+    extent: Lincoln Way to Moraga, about 46th Ave to the Great Highway
+    years: 1895-1913
+    text: A photograph from about 1905 shows the block of La Playa between Irving and Judah crowded with homes and shops made from old horsecar bodies, with a three-story building in the middle and Mrs. Gunn's Home Cooking nearby. Streetcar companies sold surplus cars for as little as ten or twenty dollars. By 1901 about fifty families were said to live in roughly 100 cars, some stacked two stories high. Residents planted nasturtiums and nicknamed a big dune Mt. Diabolo. By 1908 old-timers complained that telephone lines and concrete sidewalks were ruining the place.
+    tags:
+      - carville
+      - streetcar
+      - bohemia
+      - photo
+    sources:
+      - name: "Streetwise: Carville, by Woody LaBounty (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/sw18.php
+      - name: "Outside Lands Podcast 39: Carville-by-the-Sea (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/podcast/WNP39_Carville
+  - id: the-n-judah-turnaround-at-la-playa
+    title: The N Judah turnaround at La Playa
+    kind: history
+    at: Judah & La Playa
+    lat: 37.761213
+    lng: -122.509205
+    years: 1926-1928
+    text: The streetcar loop at the west end of Judah Street was under construction in 1926, when a photo shows it surrounded by acres of sand dunes. The line it serves opened on Sunday, October 21, 1928, when Mayor James 'Sunny Jim' Rolph led a streetcar parade through the new Sunset Tunnel before crowds of thousands. The city's context statement says the tunnel gave the northern Sunset quick, direct access to downtown and had an immediate impact on building here. A 1961 photo of the terminal shows Dick's at the Beach, the Mar Motel, the Red Mill and the Sea Gull Bar.
+    tags:
+      - streetcar
+      - n-judah
+      - muni
+      - sand-dunes
+    sources:
+      - name: "Then and Now: Western End of Judah Street (Richmond Review / Sunset Beacon)"
+        url: https://richmondsunsetnews.com/2023/08/10/then-and-now-western-end-of-judah-street/
+      - name: The N Judah Turns 87 (SFMTA)
+        url: https://www.sfmta.com/blog/n-judah-turns-87
+      - name: "Outside Lands Podcast 197: N-Judah Streetcar (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/podcast/WNP197_N_Judah
+      - name: "Sunset District Residential Builders, 1925-1950: Historic Context Statement (SF Planning, 2013)"
+        url: https://default.sfplanning.org/Preservation/sunset_survey/Adopted_SunsetHCS.pdf
+  - id: the-breakers-roadhouse-and-its-hidden-plaster-sea
+    title: The Breakers roadhouse and its hidden plaster sea
+    kind: history
+    at: La Playa between Kirkham and Lawton
+    lat: 37.7577
+    lng: -122.509
+    years: 1904-1940
+    text: "The plain stucco apartment building on La Playa, facing the Great Highway, was a roadhouse from 1904 to about 1940, known first as the Breakers, then the Crest, then Mendel's. A 1911 photo shows some 75 members of the San Francisco Motorcycle Club lined up out front. In 2013 historians Woody LaBounty and David Gallagher climbed into a crawlspace between floors and found the old ballroom ceiling: gilded plaster carp holding lamp chains in their mouths, seahorses, starfish, crabs and a turtle. The carriage house next door stabled the customers' horses."
+    tags:
+      - roadhouse
+      - ocean-beach
+      - hidden-history
+      - architecture
+    sources:
+      - name: "The Frozen Sea: 1536 La Playa's Hidden Past, by Woody LaBounty (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/breakers.php
+  - id: the-last-carville-house
+    title: The last Carville house
+    kind: history
+    at: Great Highway between Lawton and Moraga
+    lat: 37.755622
+    lng: -122.50879
+    years: 1908-present
+    text: One house made of streetcars is known to survive, on the Great Highway between Lawton and Moraga. It was built in 1908 for Minnie Collins, a notary public and photojournalist, from two cable cars and a horsecar, and the cars were probably raised to the second story in 1921. From the street it looks ordinary. Inside, visitors found original wooden benches, a slatted tongue-and-groove ceiling and a sliding horsecar door. Researcher James Heisterkamp tracked it down in 1994 after a young man with a bicycle pointed him to it. The block is also noted for its early beach cottages.
+    tags:
+      - carville
+      - streetcar
+      - preservation
+      - hidden-history
+    sources:
+      - name: "Streetwise: Carville's Last Remnant, by Woody LaBounty (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/sw19.php
+      - name: "Architectural and Historical Resources of the Oceanside: context statement (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/oceanside.php

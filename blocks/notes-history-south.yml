@@ -1,0 +1,978 @@
+# History by block, Ortega to Sloat and just south.
+# Gathered from the public sources named on each note, November 2026. A place to start; it will have
+# mistakes. A neighbor's correction (corrections/) or own account (knowledge/) wins.
+meta:
+  title: History by block, Ortega to Sloat and just south
+  researched: 2026-11-12
+notes:
+  - id: the-first-parkside-cottages-start-at-26th-and-ulloa
+    title: The first Parkside cottages start at 26th and Ulloa
+    kind: history
+    at: 26th Ave & Ulloa
+    lat: 37.740854
+    lng: -122.483062
+    radius_m: 420
+    extent: 26th to 32nd Ave, between Ulloa and Vicente
+    years: "1908"
+    text: In 1908 the Parkside Realty Company, backed by banker William H. Crocker, built its first 62 houses in a line that snaked from the corner of 26th Avenue and Ulloa southwest around a ridge of sand dunes to 32nd Avenue and Vicente. The little cottages were about 800 square feet, with two bedrooms and one bath, and buyers could pick from six facade styles. Each block between Ulloa and Vicente got a cluster of three to seven of them. A 2007 walking survey found all but one still standing, most now raised over garages. The corner cottage on 26th Avenue is one of them.
+    tags:
+      - parkside
+      - parkside-realty
+      - cottages
+      - housing
+    sources:
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+  - id: parksides-first-club-officers-were-neighbors-on-31st-avenue
+    title: Parkside's first club officers were neighbors on 31st Avenue
+    kind: history
+    at: 31st Ave between Ulloa and Vicente
+    lat: 37.739687
+    lng: -122.488352
+    years: 1908-1911
+    text: When the Parkside District Improvement Club formed in 1908, its secretary, Harry H. Dobbin Jr., lived in the Parkside cottage on 31st Avenue and its treasurer, Fred W. Alsing, lived a few doors down at 2583. Both houses are on the list of original 1908 cottages. In October 1911 Mrs. F.W. Alsing published 'An Ode to Parkside' in the Sunset Journal, promising that once the Twin Peaks Tunnel was finished the men would 'all go home for dinner every day at noon.' Dues were 50 cents a month, and by 1910 neighbors who had not joined were jokingly called delinquents.
+    tags:
+      - parkside
+      - improvement-club
+      - cottages
+      - people
+    sources:
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+      - name: An Ode to Parkside (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/parkside-ode.php
+  - id: a-candlelit-first-meeting-at-26th-and-taraval
+    title: A candlelit first meeting at 26th and Taraval
+    kind: history
+    at: 26th Ave & Taraval
+    lat: 37.74272
+    lng: -122.483192
+    years: "1908"
+    text: The first meeting of the Parkside District Improvement Club took place in early autumn 1908 in the bare sales office of the Parkside Realty Company at 26th Avenue and T Street, now Taraval. Pioneer resident H.H. Dobbin Sr. remembered that the only light came from candles stuck in the rafters, and the men had to shield the flames with their hats against wind blowing through broken windows and a door that would not close. Within a month the club had won the district a few streetlights. It went on to push for a school, mail delivery, a firehouse and better streetcars.
+    tags:
+      - parkside
+      - improvement-club
+      - parkside-realty
+    sources:
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+      - name: The Parkside Village (San Francisco Story, Woody LaBounty)
+        url: https://www.sanfranciscostory.com/the-parkside-village/
+  - id: the-williams-store-parksides-first-grocery-and-town-hall
+    title: The Williams store, Parkside's first grocery and town hall
+    kind: history
+    at: 32nd Ave & Taraval
+    lat: 37.742437
+    lng: -122.48962
+    years: 1908-1920s
+    text: Eugene Williams opened the first store in the Parkside at 2201 Taraval, on the southwest corner of 32nd Avenue. The Parkside history statement dates the building to 1908; another account by the same historian says the grocery opened in 1909. Upstairs was 'Williams Hall,' where neighbors held dances, costume parties, talent shows, suffrage talks and improvement club meetings into the 1920s. Boys out hunting brush rabbits in the dunes would stop here around noon, pool a nickel for a loaf of raisin bread, and pick up the Williams family's three dogs for the afternoon. The remodeled building survives as Gene's Liquors.
+    tags:
+      - parkside
+      - stores
+      - community
+      - dunes
+    sources:
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+      - name: "Memories: George R. Stanton (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/stanton.php
+      - name: "Podcast 335: Gene's Liquors (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/podcast/WNP335_Genes_Liquors
+      - name: The Parkside Village (San Francisco Story, Woody LaBounty)
+        url: https://www.sanfranciscostory.com/the-parkside-village/
+  - id: a-volunteer-firehouse-with-a-100-pound-brass-bell
+    title: A volunteer firehouse with a 100-pound brass bell
+    kind: history
+    at: 28th Ave & Ulloa
+    lat: 37.740759
+    lng: -122.485205
+    years: 1908-1915
+    text: With the nearest fire station more than a mile away over poor roads and only three hydrants in the whole district, early Parkside residents formed their own volunteer brigade of 25 men. The Parkside Realty Company donated a firehouse, a carriage and a hose reel. City fire commissioners gave hoses, axes, hooks and ladders, and the improvement club supplied lanterns and a 100-pound brass alarm bell. The little firehouse stood near the northeast corner of 28th Avenue and Ulloa Street. It is long gone, but a photo from about 1915 shows it on 28th Avenue near Ulloa.
+    tags:
+      - parkside
+      - firehouse
+      - improvement-club
+    sources:
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+  - id: the-one-room-parkside-school-on-taraval
+    title: The one-room Parkside School on Taraval
+    kind: history
+    at: Taraval between 30th Ave and 31st Ave
+    lat: 37.742508
+    lng: -122.488012
+    years: 1909-1917
+    text: The first Parkside School opened in September 1909 on land donated by the Parkside Realty Company on Taraval Street. The Parkside history statement places it near 31st Avenue; a 1910 Sunset Journal article says near 30th. It was dedicated on Sunday, September 19, 1909, with the whole neighborhood turning out and the children raising the flag. It began with first through fourth grades and added a fifth in 1910. After a bigger Parkside School was built, the old building was given to the new St. Cecilia's parish and moved to 15th Avenue and Taraval, where it served as the parish's first church.
+    tags:
+      - parkside
+      - schools
+      - improvement-club
+    sources:
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+      - name: Parkside Primary School (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/parkside-primary-school.php
+    confidence: medium
+  - id: the-parkside-streetcar-turned-at-20th-and-taraval
+    title: The Parkside streetcar turned at 20th and Taraval
+    kind: history
+    at: 20th Ave & Taraval
+    lat: 37.742995
+    lng: -122.476942
+    years: 1908-1945
+    text: In June 1908 the Parkside Transit Company laid a single track down 20th Avenue from Lincoln Way to Taraval, the first rail line into the new neighborhood. Cars ran about once an hour. The franchise had been tangled in the graft scandal around political boss Abe Ruef, who was promised $30,000 by the developers. From 1916 the route became the 17 Haight and Ingleside line, which continued south to Wawona and jogged over to 19th Avenue. It ran until 1945. A 1928 photo looking north across Taraval still shows the rails in 20th Avenue, which was once the main north to south route through the Sunset.
+    tags:
+      - parkside
+      - streetcar
+      - graft-trials
+      - transit
+    sources:
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+      - name: 20th Avenue and Taraval Street (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/20th-Taraval.php
+      - name: "Streetwise: Parkside and the Graft Trials (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/sw20.php
+      - name: Streetcars in the Sunset (Market Street Railway)
+        url: https://www.streetcar.org/streetcars_in_the_sunset_troll-2/
+  - id: the-parkside-dinky-turned-south-at-33rd-avenue
+    title: The Parkside 'Dinky' turned south at 33rd Avenue
+    kind: history
+    at: 33rd Ave & Taraval
+    lat: 37.74239
+    lng: -122.490692
+    radius_m: 420
+    extent: Taraval from 20th to 33rd Ave, then 33rd, Vicente and 35th Ave to Sloat
+    years: 1910-1927
+    text: From 1910 to 1927 a strictly local streetcar nicknamed the Dinky ran from 20th and Taraval west to 33rd Avenue, then south on 33rd, over on Vicente, and down 35th Avenue to Sloat Boulevard. It linked Parkside residents to the 20th Avenue cars and the Sloat line. When Muni's L Taraval arrived, it shared these tracks between 20th and 33rd; the L reached 33rd Avenue in April 1919. A 1923 photo at 33rd and Taraval shows the Parkside sales office standing nearly alone, and a transit historian reads that as a sign the old private line had limited success in selling lots.
+    tags:
+      - parkside
+      - streetcar
+      - transit
+      - l-taraval
+    sources:
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+      - name: Streetcars in the Sunset (Market Street Railway)
+        url: https://www.streetcar.org/streetcars_in_the_sunset_troll-2/
+  - id: the-trocadero-inn-where-boss-ruef-was-caught
+    title: The Trocadero Inn, where Boss Ruef was caught
+    kind: history
+    at: Sloat & 19th Ave
+    lat: 37.7345
+    lng: -122.4752
+    radius_m: 420
+    extent: inside Stern Grove, north of Sloat
+    years: 1892-1916
+    text: Down in the gully of Stern Grove stands the Trocadero Inn, built in 1892 for George Greene and described in the Parkside history statement as the only known building in the district older than 1905. Leased as a roadhouse, it offered a deer park, a boating pavilion and a beer garden under manager Hiram Cook. In 1907 political boss Abe Ruef, wanted in the San Francisco graft trials, was arrested while hiding here. Greene closed the inn in 1916. The exact spot is inside the park, so the nearest corner is the grove entrance at 19th and Sloat.
+    tags:
+      - stern-grove
+      - roadhouse
+      - graft-trials
+      - greene-family
+    sources:
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+      - name: Sigmund Stern Grove (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/stern-grove.php
+      - name: "Podcast 340: The Trocadero (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/podcast/WNP340_Trocadero
+    confidence: medium
+  - id: rosalie-sterns-gift-and-the-first-free-concerts
+    title: Rosalie Stern's gift and the first free concerts
+    kind: history
+    at: Sloat & 19th Ave
+    lat: 37.7345
+    lng: -122.4752
+    radius_m: 420
+    extent: Stern Grove, along Sloat from 19th to 34th Ave
+    years: 1931-1938
+    text: In 1931, on the advice of parks superintendent John McLaren, Rosalie Stern bought the old Trocadero property from George Greene for $50,000 and gave it to the city in memory of her husband Sigmund, on the condition that it be used only for recreation. Stern Grove was dedicated on June 4, 1932, with children from city playgrounds dancing and the Junior Civic Symphony playing. Two Sundays later the San Francisco Symphony gave a benefit for unemployed musicians. The Midsummer Music Festival began in 1938 with a dozen free shows, and the concerts have stayed free ever since.
+    tags:
+      - stern-grove
+      - parks
+      - music
+      - rosalie-stern
+    sources:
+      - name: Sigmund Stern Grove (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/stern-grove.php
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+      - name: Sigmund Stern Recreation Grove (Wikipedia)
+        url: https://en.wikipedia.org/wiki/Sigmund_Stern_Recreation_Grove
+  - id: pine-lake-was-laguna-puerca-and-the-greenes-held-it-by-force
+    title: Pine Lake was Laguna Puerca, and the Greenes held it by force
+    kind: history
+    at: Sloat & 34th Ave
+    lat: 37.735019
+    lng: -122.491575
+    radius_m: 420
+    extent: Pine Lake Park, north of Sloat at the west end of Stern Grove
+    years: 1847-1910
+    text: Pine Lake, in the gully north of Sloat, was once called Laguna Puerca. Locals also said Mud Lake or Pig Lake. The Greene family squatted here in the late 1840s and once claimed land from today's Stern Grove to the beach. They planted barley and potatoes, raised cattle, imported hogs from Australia, and set out the eucalyptus trees that still stand. Family stories tell of a metal-lined fort they built in the 1850s to fight off rival claimants. A circa 1910 real estate map marked the gully to be 'subdivided into Villa Lots later,' but that never happened. The lake's exact cross street is approximate here.
+    tags:
+      - pine-lake
+      - greene-family
+      - farms
+      - stern-grove
+    sources:
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+      - name: "History Minute: Pine Lake's Many Names (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/historyminute/1262646037/PineLakenopigs
+    confidence: medium
+  - id: pinelake-park-mayor-rolph-turns-the-first-spade
+    title: "Pinelake Park: Mayor Rolph turns the first spade"
+    kind: history
+    at: Sloat & 34th Ave
+    lat: 37.735019
+    lng: -122.491575
+    years: 1927-1940
+    text: On April 2, 1927, Mayor James Rolph turned a ceremonial first spade of earth near 34th Avenue and Sloat for Pinelake Park, the Parkside Realty Company's last big project. Plans called for 500 houses, underground utilities, a curving Crestlake Drive and a commercial center on 35th Avenue with shops, a bank and a movie theater. The company built only ten to fifteen houses near Sloat and 34th, plus a few larger ones above the lake, including Spanish Colonial Revivals on Crestlake Drive. The Depression stalled the rest. In 1939 and 1940 the Gellert brothers' Standard Building Company filled in more than 240 houses.
+    tags:
+      - pinelake-park
+      - parkside-realty
+      - gellert
+      - housing
+    sources:
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+      - name: The Gellert Brothers and Lakeshore Park (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/lakeshore.php
+  - id: hiram-cooks-roadhouse-at-22nd-and-vicente
+    title: Hiram Cook's roadhouse at 22nd and Vicente
+    kind: history
+    at: 22nd Ave & Vicente
+    lat: 37.739182
+    lng: -122.478643
+    years: 1910-1915
+    text: Hiram Cook, who had managed the Trocadero Inn for the Greene family, opened his own 'Family Grill' in 1910. The 1915 Sanborn fire insurance map labels it 'Hiram Cook's Road House' at 22nd Avenue and Vicente Street, with a bar, a dance hall and a dining room. The 1914-1915 city directory gives a different address, on 19th Avenue between Vicente and Wawona, so the sources do not quite agree on the spot. Either way, it was one of only two roadhouses that ever operated inside the Parkside proper, at a time when barely 200 buildings stood in the whole district.
+    tags:
+      - parkside
+      - roadhouse
+      - hiram-cook
+    sources:
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+    confidence: medium
+  - id: carl-larsens-gift-at-19th-and-ulloa
+    title: Carl Larsen's gift at 19th and Ulloa
+    kind: history
+    at: 19th Ave & Ulloa
+    lat: 37.742114
+    lng: -122.475664
+    radius_m: 420
+    extent: 19th to 20th Ave, Ulloa to Wawona
+    years: 1926-1931
+    text: Carl Larsen came from Denmark, ran the Tivoli Cafe downtown and kept a chicken ranch in the Sunset dunes to supply it with eggs. By 1910 he owned fourteen full blocks out here. In 1926 he gave the city two blocks between 19th and 20th avenues, from Ulloa to Wawona, and Mayor 'Sunny Jim' Rolph thanked him on the steps of City Hall. The park opened in 1927. A boulder at the 19th and Ulloa corner carries a bronze plaque with Larsen's bust by sculptor M. Earl Cummings. Larsen died in 1928, and a handwritten will leaving most of his estate to the city was thrown out in court.
+    tags:
+      - larsen-park
+      - carl-larsen
+      - parks
+    sources:
+      - name: Carl Larsen (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/carl-larsen.php
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+      - name: Larsen Park (Wikipedia)
+        url: https://en.wikipedia.org/wiki/Larsen_Park
+  - id: the-navy-jets-of-larsen-park
+    title: The Navy jets of Larsen Park
+    kind: history
+    at: 19th Ave & Vicente
+    lat: 37.7393
+    lng: -122.4755
+    years: 1959-2015
+    text: From 1959 to 1993 a real Navy jet sat in Larsen Park for children to climb on. The first was a Grumman F-9 Cougar, driven up from Moffett Field with a Highway Patrol escort. An FJ Fury replaced it in 1967. The third, an F-8 Crusader, was dropped by a Marine helicopter in the zoo parking lot in 1975 and hauled up Sloat Boulevard. Kids all over the Bay Area knew 'the plane park' on 19th Avenue at Vicente. The last jet left in 1993 over lead paint and repair costs and is now restored at a Santa Rosa air museum. A jet-shaped play structure opened in November 2015.
+    tags:
+      - larsen-park
+      - jets
+      - playground
+      - navy
+    sources:
+      - name: The Jets of Larsen Park (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/larsen_park_jets.php
+      - name: "Podcast 55: Larsen Park Jet (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/podcast/WNP55_Larsen_Park_Jet
+  - id: charlie-savas-pool-at-19th-and-wawona
+    title: Charlie Sava's pool at 19th and Wawona
+    kind: history
+    at: 19th Ave & Wawona
+    lat: 37.7374
+    lng: -122.4754
+    years: 1950s-2008
+    text: The indoor pool at the south end of Larsen Park was first called Larsen Pool. It was renamed for Charlie Sava, the swimming coach who trained Olympic champion Ann Curtis and, by one account, taught some 50,000 city school kids. The old pool was razed in 2007 and a new Charlie Sava Pool opened on the same site in December 2008 at a cost of about $17 million, with eight 25-yard lanes and big windows facing Wawona Street. Historian Woody LaBounty noted dryly that the new neighborhood pool took over a decade to get built, while giant Fleishhacker Pool went up in three years.
+    tags:
+      - larsen-park
+      - pool
+      - charlie-sava
+      - swimming
+    sources:
+      - name: Larsen Park (Wikipedia)
+        url: https://en.wikipedia.org/wiki/Larsen_Park
+      - name: "Podcast 198: Charlie Sava (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/podcast/WNP198_Charlie_Sava
+      - name: "Streetwise: Six Million Gallons (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/sw8.php
+    confidence: medium
+  - id: the-foundation-that-sat-for-seven-years-at-21st-and-ulloa
+    title: The foundation that sat for seven years at 21st and Ulloa
+    kind: history
+    at: 21st Ave & Ulloa
+    lat: 37.741091
+    lng: -122.477704
+    years: 1940s
+    text: During World War II the Parkside District Improvement Club caught Doelger Brothers, the biggest home builders in the Sunset, putting up what the club considered substandard housing at the corner of Ulloa Street and 21st Avenue. The club stopped the job in mid-construction. According to the Parkside history statement, the foundation of the unfinished building then sat undisturbed for seven years. By the 1950s the club was known for fighting what members called 'cracker jack' housing, extra gas stations and a proposed Western Freeway.
+    tags:
+      - parkside
+      - doelger
+      - improvement-club
+      - housing
+    sources:
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+  - id: the-parkside-theatre-at-19th-and-taraval
+    title: The Parkside Theatre at 19th and Taraval
+    kind: history
+    at: 19th Ave & Taraval
+    lat: 37.743052
+    lng: -122.475657
+    years: 1928-1988
+    text: The Parkside Theatre opened on December 28, 1928, at 933 Taraval, just west of 19th Avenue. An early patron remembered sand dunes on both sides and walking home with the shine scuffed off her new patent-leather shoes. For about thirty years its marquee anchored the Taraval shopping strip. In 1965 it was remodeled as the Fox Parkside for reserved-seat road shows. It closed in 1976, then reopened with a preschool on the ground floor and evening movies watched from the balcony above the toys. The movies ended for good in July 1988, and the upper floors became condominiums.
+    tags:
+      - parkside
+      - theater
+      - taraval
+      - movies
+    sources:
+      - name: Parkside Theatre (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/parkside-theater.php
+      - name: Parkside Theater (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/parkside.php
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+  - id: the-finest-branch-library-in-the-country-at-22nd-and-taraval
+    title: The 'finest branch library in the country' at 22nd and Taraval
+    kind: history
+    at: 22nd Ave & Taraval
+    lat: 37.742909
+    lng: -122.478905
+    years: "1951"
+    text: The Parkside Branch Library opened in 1951 on the Taraval edge of McCoppin Square. Architects Appleton and Wolfard gave it an open plan with a copper-hooded fireplace, a cork floor, radiant heat, Eames furniture and a patio landscaped by Lawrence Halprin. The Chronicle called it the 'finest branch library in the country,' and a trade magazine said its turquoise and yellow colors gave it the look of 'a refined night club.' It replaced a rented storefront library at 1541 Taraval, and attendance doubled. The firm went on to design seven more city branches on the same pattern.
+    tags:
+      - parkside
+      - library
+      - architecture
+      - mccoppin-square
+    sources:
+      - name: Parkside Branch Library (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/parkside-library.php
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+  - id: mccoppin-square-a-park-reserved-in-the-1860s
+    title: McCoppin Square, a park reserved in the 1860s
+    kind: history
+    at: Taraval between 22nd Ave and 23rd Ave
+    lat: 37.742885
+    lng: -122.479441
+    radius_m: 420
+    extent: 22nd to 24th Ave, Taraval to Santiago
+    years: 1869-1935
+    text: McCoppin Square exists because of a deal struck long before anyone lived here. In the late 1860s Mayor Frank McCoppin offered squatters on the Outside Lands clear title if they gave up ten percent of their land and paid a tax for parks. The arrangement, approved in 1869, set aside Golden Gate Park and several neighborhood squares, this one among them. It may be the oldest public park on the west side. Federal relief crews improved the ballfield in 1934, and a 1935 dedication drew a parade from West Portal School and an estimated 10,000 people. Old real estate maps had shown plans to subdivide it, but that never happened.
+    tags:
+      - mccoppin-square
+      - parks
+      - outside-lands
+      - new-deal
+    sources:
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+      - name: "Podcast 427: McCoppin Square Park (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/podcast/WNP427_McCoppin_Square_Park
+  - id: taraval-station-brick-among-the-stucco
+    title: Taraval Station, brick among the stucco
+    kind: history
+    at: 24th Ave & Taraval
+    lat: 37.742814
+    lng: -122.48105
+    years: 1924-1976
+    text: Taraval Police Station at 2345 24th Avenue was built in 1924, and the Parkside history statement singles it out for its brick front, unusual in a neighborhood of stucco. In later years its garage did double duty. A boys' football club called the San Francisco Mariners used the station garage as a locker room, practiced across the street in McCoppin Square and played home games on Lincoln High's field. When the club folded around 1976, the lockers were cleared out and the green and white team jackets went into Sunset District attics.
+    tags:
+      - parkside
+      - police
+      - taraval
+      - sports
+    sources:
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+      - name: The San Francisco Mariners Football Club (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/mariners.php
+  - id: twelve-years-of-lobbying-for-lincoln-high
+    title: Twelve years of lobbying for Lincoln High
+    kind: history
+    at: 24th Ave & Quintara
+    lat: 37.748409
+    lng: -122.48144
+    radius_m: 420
+    extent: 22nd to 24th Ave, Quintara to Santiago
+    years: 1927-1940
+    text: Abraham Lincoln High School, the only public high school ever built in the Sunset, sits on four blocks bounded by 24th Avenue, Quintara, 22nd Avenue and Santiago. Parkside neighbors began asking for it in 1927, when local teens had to pay two streetcar fares to reach school. Voters passed a bond in 1938 and Mayor Angelo Rossi dedicated the building on September 22, 1940. Timothy Pflueger was one of its three architects. 'Temporary' classroom bungalows then stayed in the yard for more than 50 years. The school says its mustang mascot recalls a horse farm that once operated nearby. Alumni include Vince Guaraldi and Barbara Eden.
+    tags:
+      - lincoln-high
+      - schools
+      - improvement-club
+      - architecture
+    sources:
+      - name: Abraham Lincoln High School (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/lincoln.php
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+  - id: sunset-reservoir-and-its-25-000-solar-panels
+    title: Sunset Reservoir and its 25,000 solar panels
+    kind: history
+    at: 24th Ave & Ortega
+    lat: 37.752451
+    lng: -122.481723
+    radius_m: 420
+    extent: about 24th to 28th Ave, Ortega to Quintara
+    years: 1938-2010
+    text: The city's largest reservoir hides under a flat roof at 24th Avenue and Ortega. Sources differ on its age. Wikipedia says the underground basin was completed in 1960, while the water department's dam inventory, as quoted in search results, lists a north basin from 1938 and a south basin from 1960, and the Western Neighborhoods Project has a construction photo dated 1938. Inside are 720 floor-to-ceiling columns. In 2010 a five megawatt solar plant with about 25,000 panels opened on the roof, more than tripling the city's own solar capacity at the time. Lincoln High students have long eaten lunch on its slopes.
+    tags:
+      - reservoir
+      - water
+      - solar
+      - sfpuc
+    sources:
+      - name: Sunset Reservoir (Wikipedia)
+        url: https://en.wikipedia.org/wiki/Sunset_Reservoir
+      - name: Outside Lands magazine, Jul-Sep 2024 (Western Neighborhoods Project)
+        url: https://issuu.com/outsidelands/docs/outsidelands20.3
+      - name: San Francisco dam inundation map and inventory (SFPUC)
+        url: https://Sfpuc.Org/sites/default/files/about-us/InundationMap_SF.pdf
+    confidence: medium
+  - id: rivera-heights-chris-mckeons-1936-tract
+    title: Rivera Heights, Chris McKeon's 1936 tract
+    kind: history
+    at: 29th Ave & Rivera
+    lat: 37.746307
+    lng: -122.486664
+    years: 1936-1939
+    text: Builder Chris McKeon started as a carpenter in 1927. In 1936 he laid out a tract he called Rivera Heights, centered on 29th Avenue at Rivera Street, and put up dozens of houses. He lived for a short time on 29th Avenue, apparently just for the year he oversaw building and sales, and ran his office from 30th Avenue. City planners who reviewed sample deeds found that Rivera Heights carried no racial restrictions, unlike many late 1930s tracts. McKeon went on to run the Happy Homes Building Company from offices on Taraval.
+    tags:
+      - builders
+      - mckeon
+      - housing
+      - tracts
+    sources:
+      - name: Sunset District Residential Builders, 1925-1950 Historic Context Statement (SF Planning, 2013)
+        url: https://default.sfplanning.org/Preservation/sunset_survey/Adopted_SunsetHCS.pdf
+  - id: the-first-block-of-sunstream-homes
+    title: The first block of Sunstream Homes
+    kind: history
+    at: 31st Ave between Quintara and Rivera
+    lat: 37.747145
+    lng: -122.488872
+    years: "1939"
+    text: In 1939 the Gellert brothers' Standard Building Company invented a brand name, Sunstream Homes, for row houses priced under $6,000. The name joined 'sun,' for the Sunset, with 'streamline.' More than 100 billboards went up on corners around the district, and the homes even featured in a local radio drama. According to the city's history of Sunset builders, the very first block of Sunstream Homes was built on 31st Avenue between Quintara and Rivera. Early model homes were named for the nearest street, such as the Sunstream Rivera. Sales rose 45 percent within a year.
+    tags:
+      - builders
+      - gellert
+      - sunstream
+      - housing
+    sources:
+      - name: Sunset District Residential Builders, 1925-1950 Historic Context Statement (SF Planning, 2013)
+        url: https://default.sfplanning.org/Preservation/sunset_survey/Adopted_SunsetHCS.pdf
+      - name: The Gellert Brothers and Lakeshore Park (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/lakeshore.php
+  - id: streamline-moderne-on-32nd-split-levels-on-rivera
+    title: Streamline Moderne on 32nd, split-levels on Rivera
+    kind: history
+    at: 32nd Ave & Quintara
+    lat: 37.74803
+    lng: -122.490009
+    radius_m: 420
+    extent: 32nd Ave at Quintara, and Rivera at 33rd Ave
+    years: 1931-1938
+    text: The blocks around 32nd Avenue and Rivera were built up in the 1930s by the Golden Gate Investment Company, which sometimes hired architects. In 1938 the firm put up a cluster of five Streamline Moderne houses on 32nd Avenue at Quintara, one of only a handful of such groupings in the Sunset. A block away, at Rivera Street and 33rd Avenue, the Castle Building Company built four split-level houses around 1931, designed by architect Donnell Jaekle. The city's builder history calls them the earliest known split-level group in the district. The firm also built two unusual Art Deco houses on 33rd Avenue.
+    tags:
+      - builders
+      - architecture
+      - streamline-moderne
+      - housing
+    sources:
+      - name: Sunset District Residential Builders, 1925-1950 Historic Context Statement (SF Planning, 2013)
+        url: https://default.sfplanning.org/Preservation/sunset_survey/Adopted_SunsetHCS.pdf
+  - id: the-southern-edge-of-doelger-city
+    title: The southern edge of Doelger City
+    kind: history
+    at: 30th Ave & Quintara
+    lat: 37.747814
+    lng: -122.487844
+    radius_m: 420
+    extent: roughly 26th to 39th Ave, north of Quintara
+    years: 1927-1943
+    text: Henry Doelger started with a hot dog stand at 7th Avenue and Lincoln Way and became, from 1934 to 1941, the largest home builder in the country, finishing about two houses a day. The stretch he dominated was nicknamed Doelger City, or the White Cliffs of Doelger. Its limits vary by source. One study puts it between 27th and 39th avenues from Kirkham to Quintara, while a 1940 Doelger brochure says 26th to 36th avenues, Noriega to Quintara. Both make Quintara the southern edge. A city photo dated November 22, 1943, shows 30th Avenue and Quintara in the middle of it.
+    tags:
+      - builders
+      - doelger
+      - housing
+      - doelger-city
+    sources:
+      - name: "Streetwise: Doelger City (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/sw2.php
+      - name: The Sunset Developers (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/sunset-developers.php
+      - name: Sunset District Residential Builders, 1925-1950 Historic Context Statement (SF Planning, 2013)
+        url: https://default.sfplanning.org/Preservation/sunset_survey/Adopted_SunsetHCS.pdf
+  - id: edgewood-the-orphanage-on-vicente
+    title: Edgewood, the orphanage on Vicente
+    kind: history
+    at: 29th Ave & Vicente
+    lat: 37.739162
+    lng: -122.486166
+    radius_m: 420
+    extent: 28th to 30th Ave, south of Vicente
+    years: 1923-1944
+    text: In 1923 the San Francisco Protestant Orphanage, founded in 1851, bought ten acres along Vicente Street between 28th and 30th avenues. Architects Bliss and Faville designed a campus that opened in 1924, with an administration building and its double staircase facing Vicente at 29th Avenue, and six cottages behind. Each cottage housed twenty children with two cottage 'mothers.' The kids went to Parkside School and called themselves 'P.O. kids.' By 1944 only about six percent were true orphans, and the name was changed to Edgewood. It still serves children and families behind its pines and cypresses.
+    tags:
+      - edgewood
+      - orphanage
+      - parkside
+      - architecture
+    sources:
+      - name: Edgewood Center (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/edgewood.php
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+  - id: pinehurst-lodge-and-the-old-king-cole-fireplace
+    title: Pinehurst Lodge and the Old King Cole fireplace
+    kind: history
+    at: 30th Ave between Vicente and Wawona
+    lat: 37.738307
+    lng: -122.487415
+    years: 1928-1946
+    text: The brick building at 2685 30th Avenue was built in 1928 by the San Francisco Junior League as Pinehurst, a home for children awaiting foster families. Architects Ashley, Evers and Hayes gave it three wings around a sheltered courtyard. Inside, tiles of animals, ships and castles decorate the recreation room, a fireplace frieze shows Old King Cole, and a salon was given by the Ghirardelli family in memory of their daughter Esperance. In 1929 it won a 'city clubhouses' award at an architecture exhibition at the de Young Museum. The Salvation Army has owned it since 1946.
+    tags:
+      - pinehurst
+      - junior-league
+      - architecture
+      - parkside
+    sources:
+      - name: Pinehurst Lodge (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/pinehurst-lodge.php
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+  - id: where-the-cottage-trail-ended-and-a-home-library-began
+    title: Where the cottage trail ended, and a home library began
+    kind: history
+    at: 32nd Ave & Vicente
+    lat: 37.73902
+    lng: -122.48938
+    years: 1908-1930s
+    text: The line of 1908 Parkside cottages ended at 32nd Avenue and Vicente Street. A photo from about 1915 looks northeast toward this corner and shows the little houses beside high bare sand dunes. One of them later held the Parkside's first circulating library, started privately in the 1930s by Evelyn LaPlace. She went on to run shops on Taraval, serve as president of the Parkside District Improvement Club and sit on the city Library Commission. The cottages along here are among the ones the 2008 history statement urged the city to survey and protect.
+    tags:
+      - parkside
+      - cottages
+      - library
+      - evelyn-laplace
+    sources:
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+      - name: The Parkside Village (San Francisco Story, Woody LaBounty)
+        url: https://www.sanfranciscostory.com/the-parkside-village/
+  - id: soap-box-derby-on-sunset-boulevard
+    title: Soap Box Derby on Sunset Boulevard
+    kind: history
+    at: Sunset Blvd & Ulloa
+    lat: 37.740356
+    lng: -122.494313
+    radius_m: 420
+    extent: Sunset Blvd from Ulloa to Wawona
+    years: 1931-1960s
+    text: Sunset Boulevard, a block-wide parkway, was finished by 1931. A city photo from September 11 of that year shows no houses along it and a large sand dune on the west side between Vicente and Wawona. In 1946 the San Francisco Soap Box Derby moved here, with boys aged nine to fifteen racing homemade coasters down the course between Ulloa and Wawona. The Chronicle called the boulevard 'a lovely, peaceful parkway drive that is seldom used even on Sunday.' The races, sponsored by the Chronicle and Chevrolet dealers, stayed until the semifinals moved out of the city in the 1960s.
+    tags:
+      - sunset-boulevard
+      - soap-box-derby
+      - kids
+      - racing
+    sources:
+      - name: Soap Box Derby Races on Sunset (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/soap-box-derby.php
+      - name: "Podcast 38: Sunset Boulevard (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/podcast/WNP38_Sunset_Blvd
+      - name: Sunset District Residential Builders, 1925-1950 Historic Context Statement (SF Planning, 2013)
+        url: https://default.sfplanning.org/Preservation/sunset_survey/Adopted_SunsetHCS.pdf
+  - id: st-ignatius-lands-in-the-dunes-on-37th-avenue
+    title: St. Ignatius lands in the dunes on 37th Avenue
+    kind: history
+    at: 37th Ave between Pacheco and Quintara
+    lat: 37.748728
+    lng: -122.495435
+    years: "1969"
+    text: St. Ignatius, the Jesuit school founded on Market Street in 1855, moved five times before settling on its sixth campus at 2001 37th Avenue in 1969. The school had been on Stanyan Street since 1929. Father Harry Carlin led the move, and with it the high school took the name St. Ignatius College Preparatory. According to the school's history pages, classes began on September 13, 1969, with parts of the campus still unfinished, so students were let out at 1 p.m. to give workers time. The school's own history says it had finally taken root in the sand dunes of the Sunset.
+    tags:
+      - st-ignatius
+      - schools
+      - jesuits
+    sources:
+      - name: "SI History: In Brief (St. Ignatius College Preparatory)"
+        url: https://history.siprep.org/si-history-in-brief/
+      - name: Our History (St. Ignatius College Preparatory)
+        url: https://history.siprep.org/
+    confidence: medium
+  - id: model-homes-with-names-in-the-mid-40s-avenues
+    title: Model homes with names in the mid-40s avenues
+    kind: history
+    at: 45th Ave between Quintara and Rivera
+    lat: 37.746483
+    lng: -122.503878
+    radius_m: 420
+    extent: 43rd to 45th Ave around Quintara and Rivera
+    years: 1941-1942
+    text: The far western blocks, from 37th to 46th avenues between Noriega and Sloat, filled in last and hold a heavy concentration of postwar tracts. Just before and during the war, the Galli brothers were already selling here with named model homes. Buyers toured a model, then picked a house still under construction, which the Gallis said was new for San Francisco. Known models include 'The Rivera' on 45th Avenue (1941), 'Priority House' on 44th Avenue (1941), 'The Holiday House' on 44th Avenue (1942) and 'The May Time' on 43rd Avenue (1942).
+    tags:
+      - builders
+      - galli
+      - model-homes
+      - housing
+    sources:
+      - name: Sunset District Residential Builders, 1925-1950 Historic Context Statement (SF Planning, 2013)
+        url: https://default.sfplanning.org/Preservation/sunset_survey/Adopted_SunsetHCS.pdf
+  - id: roberts-at-the-beach-and-the-horse-that-swam-the-golden-gate
+    title: Roberts-at-the-Beach and the horse that swam the Golden Gate
+    kind: history
+    at: Great Highway between Rivera and Santiago
+    lat: 37.744464
+    lng: -122.507316
+    years: 1901-1966
+    text: Roberts-at-the-Beach stood on the Great Highway between Rivera and Santiago. It first shows up in city directories in 1901-02, run by Dominic 'Shorty' Roberts and later his son Richard, also called Shorty. It survived Prohibition, 'though no one was remembered to have gone thirsty.' In 1938, after a bet with racetrack owner Bill Kyne, the younger Shorty had his horse Blackie swim the Golden Gate on October 1 while he held the tail. The swim took 23 minutes and 15 seconds. Accounts differ on whether the bet was $1,000 or $5,000. Roberts closed in 1966 and was briefly a dance hall for teenagers.
+    tags:
+      - roadhouse
+      - great-highway
+      - ocean-beach
+      - blackie
+    sources:
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+      - name: The Horse that Swam the Golden Gate (Marina Times)
+        url: https://marinatimes.com/?p=5697
+  - id: taits-at-the-beach-the-house-of-mystery
+    title: Tait's at the Beach, the 'House of Mystery'
+    kind: history
+    at: Great Highway between Ulloa and Vicente
+    lat: 37.738886
+    lng: -122.506556
+    years: 1857-1940
+    text: The block of the Great Highway between Ulloa and Vicente once held the Ocean Side House, a lonely roadhouse built by attorney B.S. Brooks, by legend from a wrecked steamer. One source finds ads for it in 1857; another says it opened by summer 1867. From 1901 it was the home of Alexander and Ida Russell, who hosted Zen master Soyen Shaku for nine months in 1905 and built a Japanese garden behind a high fence, which started rumors of a cult. In 1919 John Tait turned it into Tait's at the Beach, a 1920s favorite of socialites. It closed in 1931 and burned on December 1, 1940.
+    tags:
+      - roadhouse
+      - great-highway
+      - zen
+      - taits
+    sources:
+      - name: "Streetwise: The House of Mystery (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/sw21.php
+      - name: A Drive-By History of Great Highway (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/a-drive-by-history-of-great-highway.php
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+  - id: the-chick-ery-and-its-50-cent-chicken-dinners
+    title: The Chick-ery and its 50-cent chicken dinners
+    kind: history
+    at: Great Highway & Vicente
+    lat: 37.738886
+    lng: -122.506556
+    years: 1927-1930s
+    text: The red brick building with clay tile roof on Great Highway, on the corner of Vicente, comes with stories of a ghost, a speakeasy and a spice heir's hideaway. Historian Woody LaBounty checked. It was built in 1927, designed by an architect at a cost of more than $10,000, and opened as a family restaurant called the Chick-ery, selling 50-cent chicken dinners to the Sunday motorists who crowded Ocean Beach. Its neighbor on Great Highway, on tiny Cutler Avenue, also began as a restaurant, run by a man named Ulysses Ciati. Neither business lasted far into the Depression.
+    tags:
+      - great-highway
+      - restaurants
+      - ocean-beach
+      - architecture
+    sources:
+      - name: Chicken at the Sea (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/chickery.php
+  - id: end-of-the-line-at-48th-and-taraval
+    title: End of the line at 48th and Taraval
+    kind: history
+    at: 48th Ave & Taraval
+    lat: 37.741685
+    lng: -122.5066
+    radius_m: 420
+    extent: Taraval from 46th to 48th Ave
+    years: 1923-2021
+    text: Muni's L Taraval tracks reached 48th Avenue, a block from the beach, in January 1923. A 1925 photo shows streetcars meeting one of Muni's first bus lines here, the 2 Ocean, which ran along the Great Highway from Playland to Sloat. After 1937, when the L was rerouted down 46th Avenue to the zoo, the last two blocks of Taraval became a rarely used spur. They held the last original Muni streetcar rails in the city, still lined with granite Belgian block. The rusted rails were finally removed around 2021, 98 years after they were laid, and crews saved the blocks to set beside the new track.
+    tags:
+      - l-taraval
+      - streetcar
+      - muni
+      - transit
+    sources:
+      - name: End of (last original) track (Market Street Railway)
+        url: https://www.streetcar.org/end-of-last-original-track/
+      - name: L Taraval (Wikipedia)
+        url: https://en.wikipedia.org/wiki/L_Taraval
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+  - id: mayor-rossi-drives-the-first-streetcar-around-the-corner
+    title: Mayor Rossi drives the first streetcar around the corner
+    kind: history
+    at: 46th Ave & Taraval
+    lat: 37.741767
+    lng: -122.504621
+    years: "1937"
+    text: On September 15, 1937, after five years of lobbying by neighbors, the L Taraval was extended to turn south at 46th Avenue and run to Fleishhacker Playground, today's zoo. Mayor Angelo Rossi acted as motorman on the first car, with Parkside leaders Ray Schiller, Ed Haughy and Mabel Powell aboard. The rails were not new. They were recycled from old tracks on Gough Street and on 10th Avenue in the Richmond, and the WPA supplied the labor, so the nine-tenths of a mile cost city taxpayers nothing. A photo taken that day looking south from Taraval shows very few houses.
+    tags:
+      - l-taraval
+      - streetcar
+      - muni
+      - wpa
+    sources:
+      - name: L-Taraval Extension, September 15, 1937 (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/L-taraval-extension-1937.php
+      - name: L Taraval (Wikipedia)
+        url: https://en.wikipedia.org/wiki/L_Taraval
+  - id: the-zoo-loop-and-the-citys-first-motel
+    title: The zoo loop and the city's first motel
+    kind: history
+    at: 46th Ave & Wawona
+    lat: 37.736338
+    lng: -122.504239
+    radius_m: 420
+    extent: loop on Vicente, 47th Ave, Wawona and 46th Ave
+    years: 1937-2003
+    text: The L Taraval ends on a one-way loop that runs along Vicente, 47th Avenue, Wawona and 46th Avenue, with the last stop at 46th and Wawona. The loop dates from the 1937 extension to the zoo, and its original track lasted 66 years before Muni rebuilt it in 2003. The same year the streetcar arrived, the Ocean Park Motel opened at 46th and Wawona. The Western Neighborhoods Project calls it San Francisco's first motel, and it is still in business under its neon sign.
+    tags:
+      - l-taraval
+      - streetcar
+      - motel
+      - zoo
+    sources:
+      - name: L Taraval (Wikipedia)
+        url: https://en.wikipedia.org/wiki/L_Taraval
+      - name: End of (last original) track (Market Street Railway)
+        url: https://www.streetcar.org/end-of-last-original-track/
+      - name: "Podcast 49: San Francisco's First Motel (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/podcast/WNP49_Motels
+  - id: the-lost-pedestrian-tunnel-at-the-foot-of-taraval
+    title: The lost pedestrian tunnel at the foot of Taraval
+    kind: history
+    at: Great Highway & Taraval
+    lat: 37.74167
+    lng: -122.50694
+    years: 1920s-1931
+    text: When the city paved and widened the Great Highway in the 1920s, the plans included pedestrian underpasses so beachgoers could walk under the traffic. They were placed at Fulton, Judah, Taraval and Wawona, each near a streetcar terminus. A photo dated April 2, 1931, shows the beach-side portal of the Taraval tunnel already damaged. Today a sand dune covers the place where it stood. A 1923 city photo also shows the Wawona tunnel beside a children's playground that sat between the Upper and Lower Great Highway just north of Sloat.
+    tags:
+      - great-highway
+      - tunnel
+      - ocean-beach
+      - esplanade
+    sources:
+      - name: "Then and Now: Ocean Beach at Taraval Street (Richmond Review / Sunset Beacon)"
+        url: https://richmondsunsetnews.com/2023/05/11/then-and-now-ocean-beach-at-taraval-street
+      - name: Outside Lands magazine, Apr-Jun 2023 article on the Great Highway (Western Neighborhoods Project)
+        url: https://issuu.com/outsidelands/docs/outsidelands19.2/s/25339084
+      - name: A Drive-By History of Great Highway (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/a-drive-by-history-of-great-highway.php
+    confidence: medium
+  - id: jack-oneills-first-surf-shop-was-here-not-santa-cruz
+    title: Jack O'Neill's first surf shop was here, not Santa Cruz
+    kind: history
+    at: Great Highway & Wawona
+    lat: 37.7361
+    lng: -122.5062
+    years: 1950s
+    text: Old Ocean Beach surfers insist on setting the record straight about wetsuit pioneer Jack O'Neill. In the early to mid 1950s, they recall, O'Neill lived on Sloat Boulevard near the beach and ran his first surf shop in the back of the Hitchrack Bar on Wawona near Sloat. One remembered a small storefront draped with fishnets behind a sandy parking area; another bought a surf mat at 'Surf Shop San Francisco' in 1956. An apartment complex stands on the site now. The exact address is not given, so this pin is approximate, within a block or two of the Great Highway.
+    tags:
+      - surfing
+      - jack-oneill
+      - ocean-beach
+      - shops
+    sources:
+      - name: Jack O'Neill's First Surf Shop (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/jack-oneill.php
+    confidence: medium
+  - id: the-doggie-diner-head-on-sloat
+    title: The Doggie Diner head on Sloat
+    kind: history
+    at: 46th Ave & Sloat
+    lat: 37.735662
+    lng: -122.504192
+    radius_m: 420
+    extent: original site at 46th Ave; now in the Sloat median at 45th Ave
+    years: 1966-2005
+    text: The grinning dachshund in a chef's hat was designed in 1966 by graphic artist Harold Bachman for the Doggie Diner drive-in chain, which Al Ross started in 1949. This head stood outside the last operating Doggie Diner, on the northeast corner of 46th Avenue and Sloat. After a grassroots campaign that was followed in the 'Zippy the Pinhead' comic strip, the city acquired it in December 2000. Wind toppled it on April 1, 2001. It was restored and, in January 2005, moved one block to the Sloat median at 45th Avenue. It is city landmark number 254.
+    tags:
+      - doggie-diner
+      - landmark
+      - sloat
+      - signs
+    sources:
+      - name: Doggie Diner Head (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/doggie_diner.php
+  - id: fleishhacker-pool-six-million-gallons-of-seawater
+    title: Fleishhacker Pool, six million gallons of seawater
+    kind: history
+    at: Great Highway & Sloat
+    lat: 37.735383
+    lng: -122.505976
+    years: 1925-1981
+    text: The 'world's largest swimming tank' opened on April 23, 1925, on land south of Sloat that the city bought from the Spring Valley Water Company in 1922. Fleishhacker Pool was 1,000 feet long and 150 feet wide, held six million gallons of pumped seawater, and needed twelve to twenty-four lifeguards, some in rowboats. Almost 60,000 people swam in its first two months, and Olympian Ann Curtis set records here. A January 1971 storm damaged the ocean pipe and the pool closed. Voters declined to pay for repairs in 1977, and it was filled in starting in 1981. The site became the zoo parking lot.
+    tags:
+      - fleishhacker-pool
+      - swimming
+      - zoo
+      - ocean-beach
+    sources:
+      - name: "Streetwise: Six Million Gallons (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/sw8.php
+      - name: Fleishhacker Pool (Wikipedia)
+        url: https://en.wikipedia.org/wiki/Fleishhacker_Pool
+  - id: the-old-zoo-gate-and-the-mothers-building
+    title: The old zoo gate and the Mother's Building
+    kind: history
+    at: 45th Ave & Sloat
+    lat: 37.735653
+    lng: -122.503115
+    years: 1925-1970s
+    text: The zoo grew out of the playground beside Fleishhacker Pool. The Mother's Building, designed by George W. Kelham and built in 1925, was a gift from Herbert and Mortimer Fleishhacker in memory of their mother Delia. It was a lounge for mothers and small children, and no boys over six were allowed inside. Animals arrived from Golden Gate Park after 1929, and the place was called Fleishhacker Zoo for decades. In the 1960s and 1970s the main entrance was a winding path down from Sloat Boulevard at 45th Avenue, past a steam locomotive and a cable car that kids could climb on, toward Storyland and the carousel.
+    tags:
+      - zoo
+      - fleishhacker
+      - mothers-building
+      - kids
+    sources:
+      - name: Storyland in the San Francisco Zoo (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/storyland.php
+      - name: "Podcast 14: San Francisco Zoo (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/podcast/WNP14_SF_Zoo
+      - name: Mother's Building (Wikipedia)
+        url: https://en.wikipedia.org/wiki/Mother%27s_Building
+      - name: San Francisco Zoo (Wikipedia)
+        url: https://en.wikipedia.org/wiki/San_Francisco_Zoo
+  - id: the-longest-streetcar-line-in-the-city-ran-down-sloat
+    title: The longest streetcar line in the city ran down Sloat
+    kind: history
+    at: 35th Ave & Sloat
+    lat: 37.734636
+    lng: -122.492323
+    radius_m: 420
+    extent: Sloat Blvd from 19th Ave to the Great Highway
+    years: 1909-1945
+    text: From 1909 to 1945 the 12 line streetcar ran in the middle of extra-wide Sloat Boulevard on its way from the Ferry Building to Ocean Beach. The Parkside history statement calls it the longest line in the city. At 35th Avenue it met the little Parkside 'Dinky' car that came down from Taraval. On Sundays between 1916 and 1937, cars from the 20th Avenue line also came down 19th Avenue and turned west on Sloat to the beach. The 1910 census found a construction camp of street workers living along Sloat. Buses replaced the streetcars after 1945.
+    tags:
+      - sloat
+      - streetcar
+      - transit
+      - united-railroads
+    sources:
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+      - name: Streetcars in the Sunset (Market Street Railway)
+        url: https://www.streetcar.org/streetcars_in_the_sunset_troll-2/
+      - name: "Podcast 194: Sloat Boulevard (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/podcast/WNP194_Sloat_Blvd
+  - id: lakeshore-park-farmland-to-a-house-a-day
+    title: "Lakeshore Park: farmland to a house a day"
+    kind: history
+    at: Forest View Dr & Sloat
+    lat: 37.731717
+    lng: -122.48359
+    radius_m: 420
+    extent: Sloat to Lake Merced Blvd, Inverness Dr to Sunset Blvd
+    years: 1939-1950s
+    text: "South of Sloat was farmland leased to Italian vegetable growers until 1939, when Carl and Fred Gellert bought it from the Spring Valley Water Company for a 'de luxe subdivision' called Lakeshore Park. Instead of numbered avenues they chose leafy names: Sylvan, Middlefield, Forest View, Riverton, Springfield. The first model home was on Forest View Drive, and 'The Commodore Sloat' opened on Sloat in August 1941. Crews then built more than 200 houses in five months. Every deed barred non-white residents, a practice the Supreme Court made unenforceable in 1948. After the war came split-levels, and in the early 1950s the Lakeshore Plaza shopping center on the west side."
+    tags:
+      - lakeshore
+      - gellert
+      - sunstream
+      - covenants
+      - farms
+    sources:
+      - name: The Gellert Brothers and Lakeshore Park (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/lakeshore.php
+      - name: Sunset District Residential Builders, 1925-1950 Historic Context Statement (SF Planning, 2013)
+        url: https://default.sfplanning.org/Preservation/sunset_survey/Adopted_SunsetHCS.pdf
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+  - id: the-ocean-course-and-the-great-race-of-1873
+    title: The Ocean Course and the Great Race of 1873
+    kind: history
+    at: Sloat & Everglade Dr
+    lat: 37.730881
+    lng: -122.488894
+    radius_m: 420
+    extent: about Sloat to Eucalyptus Dr, 24th Ave to Everglade Dr
+    years: 1865-1873
+    text: From 1865 to 1873 a horse racing track called the Ocean Course covered about 100 acres leased from the Greene family, roughly between today's Eucalyptus Drive, Sloat, Everglade Drive and 24th Avenue. Its opening race on May 23, 1865, drew 8,000 people. Its last, on November 13, 1873, drew crowds estimated as high as 40,000 to watch California-bred Thad Stevens beat two Eastern champions over sixteen miles of heats, finishing by lamplight in the fog. The Parkside history statement credits the track to roadhouse keeper Cornelius Staggs. Too far from town, it held fewer than 100 racing days in eight years.
+    tags:
+      - racetrack
+      - horses
+      - lake-merced
+      - greene-family
+    sources:
+      - name: "Race Tracks of the West Side: Ocean Course (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/racetracks1.php
+      - name: "San Francisco's Parkside District: A Historic Context Statement, 1905-1957 (Brandi and LaBounty for SF Planning, 2008)"
+        url: https://archives.sfplanning.org/documents/4976-parkside-statement%20march%202008.pdf
+    confidence: medium
+  - id: the-ocean-house-stood-where-lowell-high-is-now
+    title: The Ocean House stood where Lowell High is now
+    kind: history
+    at: Eucalyptus Dr & Middlefield Dr
+    lat: 37.7308
+    lng: -122.4835
+    years: 1850s-1962
+    text: A roadhouse called the Ocean House stood from the 1850s near the north end of Lake Merced, in the area of today's Middlefield and Eucalyptus drives. Eucalyptus Drive follows the old Ocean House Road. The resort catered to 'sports' who came out for the racetrack across the road, and an 1870s photo shows a sign advertising its bowling alley. A Western Neighborhoods Project caption says it burned in 1882. Lowell High School, which had spent 50 years on Hayes Street, moved to this site in 1962.
+    tags:
+      - roadhouse
+      - ocean-house
+      - lowell-high
+      - lake-merced
+    sources:
+      - name: "Podcast 210: Ocean House (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/podcast/WNP210_Ocean_House
+      - name: "Race Tracks of the West Side: Ocean Course (Western Neighborhoods Project)"
+        url: https://www.outsidelands.org/racetracks1.php
+      - name: Lowell High School (San Francisco) (Wikipedia)
+        url: https://en.wikipedia.org/wiki/Lowell_High_School_(San_Francisco)
+    confidence: medium
+  - id: ardenwood-the-gellerts-first-full-subdivision
+    title: Ardenwood, the Gellerts' first full subdivision
+    kind: history
+    at: Ardenwood Way & Sloat
+    lat: 37.7341
+    lng: -122.4772
+    years: "1932"
+    text: "In 1932, in the depths of the Depression, Carl and Fred Gellert's Standard Building Company built its first full subdivision on Ardenwood Way, off Sloat Boulevard: twenty-four fully detached Tudor Revival houses. They sold slowly. The brothers took the lesson and switched to plainer, faster, cheaper row houses, the model that let them and rivals like Henry Doelger cover the Sunset. So this short street of storybook houses is a picture of what the Gellerts tried before they found the formula that built some 20,000 San Francisco homes."
+    tags:
+      - gellert
+      - builders
+      - tudor
+      - housing
+    sources:
+      - name: The Gellert Brothers and Lakeshore Park (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/lakeshore.php
+      - name: Sunset District Residential Builders, 1925-1950 Historic Context Statement (SF Planning, 2013)
+        url: https://default.sfplanning.org/Preservation/sunset_survey/Adopted_SunsetHCS.pdf
+  - id: merced-manor-the-white-city
+    title: Merced Manor, 'The White City'
+    kind: history
+    at: Sloat & 22nd Ave
+    lat: 37.731864
+    lng: -122.477608
+    radius_m: 420
+    extent: 19th to 26th Ave, Sloat to Eucalyptus Dr
+    years: 1930s-1940s
+    text: The blocks south of Sloat between 19th and 26th avenues were developed from the early 1930s to the early 1940s as Merced Manor, by builders including Fernando Nelson, George Elkington and Arthur Herzig. According to Wikipedia's account, it was marketed as 'The White City' for the color of its houses. Unlike most Sunset rows, the houses are detached, with garages in back reached from shared alleys. Nelson kept the numbered avenues here, where the Gellerts next door switched to names. Herzig, who started on 21st Avenue, lived in the large house at 20th and Sloat. The Merced Manor reservoir sits on Sloat between 22nd and 23rd avenues.
+    tags:
+      - merced-manor
+      - builders
+      - fernando-nelson
+      - reservoir
+    sources:
+      - name: Merced Manor, San Francisco (Wikipedia)
+        url: https://en.wikipedia.org/wiki/Merced_Manor,_San_Francisco
+      - name: The Gellert Brothers and Lakeshore Park (Western Neighborhoods Project)
+        url: https://www.outsidelands.org/lakeshore.php
+    confidence: medium

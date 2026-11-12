@@ -15,14 +15,14 @@
 sources:
   - id: repo
     name: The neighborhood notes
-    about: Events, places, people who agreed to be listed, proposals, and corrections that neighbors added and stewards reviewed.
+    about: Events, places, people who agreed to be listed, proposals, and corrections that neighbors added and stewards reviewed. Also history and field notes, and notes pinned block by block.
     url: https://knowy.org/sources
     type: repo-file
     adapter: repo
     refresh: 5m
     license: CC BY 4.0
     status: live
-    note: Events, corrections, proposals, people, places, resources, constituents. Always wins over fetched data when they conflict.
+    note: Events, corrections, proposals, people, places, resources, constituents, archive, blocks. Always wins over fetched data when they conflict. The block figures in blocks/grid.yml were built once from public data (USGS heights, the SF Assessor's roll on DataSF, the Sunset Wave's map); the photograph pins are links into OpenSFHistory. See blocks/README.md.
 
   - id: outer-dadas-recs
     name: Outer Dadas Recs
