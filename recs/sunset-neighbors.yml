@@ -1,0 +1,588 @@
+# Sunset neighbors' picks: places and services neighbors spoke well of in a long-running neighborhood group chat.
+# Places, not people. No names of who said what, no quotes, no phone numbers, no individuals.
+# The chat itself is not here and is not kept. Edit by PR: add a +1 (raise vouches, extend when), or remove one that's gone downhill.
+
+meta:
+  title: Sunset neighbors' picks
+  from: A long-running Sunset neighbors' group chat, about 1,700 messages from late May to mid-November 2026
+  as_of: '2026-11-11'
+  added: '2026-11-12'
+  how_to_read: 'vouches is how many different neighbors spoke well of it; when is when, so you can judge freshness. Most
+    have one or two vouches: read them as a name that came up when a neighbor asked, not a ranking.'
+  caveat: These are neighbors' experiences, not vetted endorsements. Only places and services with a shop, a website, or
+    a public page are here, and only when someone spoke well of them. For big jobs, get several quotes.
+  privacy: Places, not people. No one who recommended or commented is named or quoted. No individuals, no phone numbers,
+    no addresses. Each line is written fresh in plain words.
+  how_to_reach: 'The chat is full and can''t be joined, so don''t send anyone there. For the details behind a pick, ask
+    a neighbor: Knowy can pass a question along to someone who offered to be asked, or to the stewards.'
+  highlights:
+  - 'The names that came up most: Tuesday Tattoo on Noriega (4), Avenues Pet Hospital (3), Sams Clinic for dogs'' joints
+    (3), Rose Gold''s (3), and three bars for watching a game: Flanahan''s, Underdogs and Sunset Cantina (3 each).'
+  - 'What neighbors asked for most were everyday services close to home: a vet, a dentist, a haircut, a mechanic, someone
+    for the garden, a cafe to work from.'
+recs:
+- name: Gold Chimney
+  category: Home
+  subcategory: Chimney
+  what: For a chimney inspection or sweep.
+  vouches: 1
+  when: Jul '26
+- name: Pacific Construction
+  category: Home
+  subcategory: Contractors
+  what: A reliable remodel contractor that did excellent work.
+  vouches: 1
+  when: Sep '26
+- name: GLScapes
+  category: Home
+  subcategory: Garden and landscape
+  what: Did larger landscape projects that turned out well.
+  vouches: 1
+  when: Jun '26
+  links:
+  - label: Website
+    url: http://glscapesinc.com/
+- name: Habitat Potential
+  category: Home
+  subcategory: Garden and landscape
+  what: Suggested for clearing overgrown ivy.
+  vouches: 1
+  when: Aug '26
+  links:
+  - label: Website
+    url: https://www.habitatpotential.net/
+- name: Logiculture
+  category: Home
+  subcategory: Garden and landscape
+  what: Did the first design of a neighbor's garden.
+  vouches: 1
+  when: Jun '26
+  links:
+  - label: Website
+    url: https://www.logiculture.org
+- name: Nature in the City
+  category: Home
+  subcategory: Garden and landscape
+  what: Suggested for light garden help.
+  vouches: 1
+  when: Jul '26
+  links:
+  - label: Website
+    url: https://natureinthecity.org/garden
+- name: Sunset Glass
+  category: Home
+  subcategory: Glass
+  what: For replacing broken window glass. (Irving.)
+  vouches: 1
+  when: Sep '26
+- name: Sonic
+  category: Home
+  subcategory: Internet
+  what: Fiber internet. Fast, and working well in the outer avenues.
+  vouches: 1
+  when: Jul '26
+- name: Lockworld
+  category: Home
+  subcategory: Locksmiths
+  what: A good locksmith.
+  vouches: 1
+  when: Sep '26
+- name: Premier Locksmith
+  category: Home
+  subcategory: Locksmiths
+  what: A good locksmith.
+  vouches: 1
+  when: Sep '26
+- name: Alert Pest Control
+  category: Home
+  subcategory: Pest control
+  what: Good results with ants.
+  vouches: 1
+  when: Oct '26
+- name: Exotek Pest Defense
+  category: Home
+  subcategory: Pest control
+  what: Solved a stubborn mouse problem and sealed the entry holes.
+  vouches: 1
+  when: Oct '26
+  links:
+  - label: Website
+    url: https://www.exotekpestdefense.com/
+- name: Panhandle Plumbing
+  category: Home
+  subcategory: Plumbers
+  what: A plumber based in the Sunset.
+  vouches: 1
+  when: Jun '26
+- name: B&G Chem-Dry
+  category: Home
+  subcategory: Upholstery and rug cleaning
+  what: Good for upholstery and rugs.
+  vouches: 1
+  when: Aug '26
+- name: San Francisco Bicycle Coalition
+  category: Cars and bikes
+  subcategory: Bike gear
+  what: Lends bike travel cases to members.
+  vouches: 1
+  when: Oct '26
+- name: Sports Basement
+  category: Cars and bikes
+  subcategory: Bike gear
+  what: Rents bike travel cases at fair prices.
+  vouches: 1
+  when: Oct '26
+- name: Parkside Auto
+  category: Cars and bikes
+  subcategory: Body work
+  what: Friendly, with good body work. (Taraval.)
+  vouches: 1
+  when: Nov '26
+- name: Andre's Foreign Car Service
+  category: Cars and bikes
+  subcategory: Car repair
+  what: Suggested for Japanese cars. (Taraval.)
+  vouches: 1
+  when: Jul '26
+- name: Emerald Auto & Brake
+  category: Cars and bikes
+  subcategory: Car repair
+  what: Suggested for Japanese cars. (Judah.)
+  vouches: 1
+  when: Jul '26
+- name: K9 Reunite
+  category: Pets
+  subcategory: Lost pets
+  what: Helps track lost dogs on the west side.
+  vouches: 1
+  when: Oct '26
+- name: Trusted Housesitters
+  category: Pets
+  subcategory: Pet sitting
+  what: A membership site for house and pet sitters. Used several times, and cheaper than paying a sitter.
+  vouches: 1
+  when: Oct '26
+- name: Avenues Pet Hospital
+  category: Pets
+  subcategory: Vets
+  what: The vet neighbors name first. Trusted over many years and in hard moments.
+  vouches: 3
+  when: Jun '26 to Jul '26
+- name: Sams Clinic
+  category: Pets
+  subcategory: Vets
+  what: For orthopedic problems and surgery in dogs. Worth the wait to get in. (Mill Valley.)
+  vouches: 3
+  when: Aug '26 to Nov '26
+  links:
+  - label: Website
+    url: https://thesamsclinic.com/
+- name: Irving Pet Hospital
+  category: Pets
+  subcategory: Vets
+  what: Good general care for dogs and cats, close by.
+  vouches: 2
+  when: Nov '26
+- name: Lotus Vet
+  category: Pets
+  subcategory: Vets
+  what: A vet for cats who makes house calls.
+  vouches: 1
+  when: Nov '26
+  links:
+  - label: Website
+    url: https://www.lotusvet.com
+- name: Mission Pet
+  category: Pets
+  subcategory: Vets
+  what: A neighbor had a good experience.
+  vouches: 1
+  when: Nov '26
+  links:
+  - label: Website
+    url: https://www.missionpet.com/
+- name: Small Paws (formerly Especially Cats)
+  category: Pets
+  subcategory: Vets
+  what: Liked as a vet for cats.
+  vouches: 1
+  when: Oct '26
+- name: Crescent Chiro
+  category: Health
+  subcategory: Chiropractors
+  what: A chiropractor a neighbor thinks highly of.
+  vouches: 1
+  when: Nov '26
+  links:
+  - label: Website
+    url: https://www.crescent-chiro.com
+- name: All Smiles
+  category: Health
+  subcategory: Dentists
+  what: Recommended. (West Portal.)
+  vouches: 1
+  when: Oct '26
+- name: SeaCliff Dental
+  category: Health
+  subcategory: Dentists
+  what: Recommended. (Outer Richmond.)
+  vouches: 1
+  when: Oct '26
+- name: Seven Hills Dental
+  category: Health
+  subcategory: Dentists
+  what: A neighbor likes this office. (The Richmond.)
+  vouches: 1
+  when: Oct '26
+- name: Reconnect Body Therapy
+  category: Health
+  subcategory: Massage
+  what: A very good massage practice that used to be in the Sunset. (Forest Hill.)
+  vouches: 1
+  when: Oct '26
+  links:
+  - label: Website
+    url: https://reconnectbodytherapy.com/
+- name: Active Care
+  category: Health
+  subcategory: Physical therapy
+  what: Lots of experience with athletes. (Near Masonic and Geary.)
+  vouches: 2
+  when: Aug '26
+- name: Kauno
+  category: Health
+  subcategory: Physical therapy
+  what: A neighbor recommends the team from their own experience.
+  vouches: 1
+  when: Aug '26
+  links:
+  - label: Website
+    url: https://kauno.health/
+- name: SHFT Movement
+  category: Health
+  subcategory: Physical therapy
+  what: Sports-focused physical therapy.
+  vouches: 1
+  when: Aug '26
+  links:
+  - label: Instagram
+    url: https://www.instagram.com/shft_movement
+- name: BEAU SF
+  category: Body and style
+  subcategory: Hair
+  what: Suggested for curly hair.
+  vouches: 1
+  when: Jun '26
+  links:
+  - label: Website
+    url: https://www.beau-sf.com/
+- name: Edo Salon
+  category: Body and style
+  subcategory: Hair
+  what: For shag haircuts. On the expensive side.
+  vouches: 1
+  when: Sep '26
+- name: Hair to Dye For
+  category: Body and style
+  subcategory: Hair
+  what: For curly cuts. (Taraval.)
+  vouches: 1
+  when: Jun '26
+- name: Perfect Cuts
+  category: Body and style
+  subcategory: Hair
+  what: For a basic men's haircut. (46th and Noriega.)
+  vouches: 1
+  when: Oct '26
+- name: Bb Lash
+  category: Body and style
+  subcategory: Nails
+  what: Good for nails. (Inner Sunset.)
+  vouches: 1
+  when: Sep '26
+- name: Naildar
+  category: Body and style
+  subcategory: Nails
+  what: Pricey and very good.
+  vouches: 1
+  when: Sep '26
+- name: Ritual Nail Bar
+  category: Body and style
+  subcategory: Nails
+  what: A longtime favorite. (Divisadero.)
+  vouches: 1
+  when: Sep '26
+- name: Cold Steel
+  category: Body and style
+  subcategory: Piercing
+  what: Another good choice for piercing. (Haight.)
+  vouches: 1
+  when: Sep '26
+- name: Haight St Tattoo
+  category: Body and style
+  subcategory: Piercing
+  what: A good place for piercing, not too far. (Haight.)
+  vouches: 1
+  when: Sep '26
+  links:
+  - label: Instagram
+    url: https://www.instagram.com/haightst.tattoo
+- name: Tuesday Tattoo
+  category: Body and style
+  subcategory: Tattoo
+  what: 'The neighborhood''s tattoo shop: experienced, kind, fair prices. Good for small fine-line work and for reworks.
+    (Noriega.)'
+  vouches: 4
+  when: Aug '26 to Oct '26
+- name: Everlasting
+  category: Body and style
+  subcategory: Tattoo
+  what: Good for cover-ups and reworks. (Divisadero.)
+  vouches: 2
+  when: Aug '26
+- name: Rose Gold's
+  category: Body and style
+  subcategory: Tattoo and piercing
+  what: Fine-line tattoos and piercing, with custom jewelry. (Haight.)
+  vouches: 3
+  when: Sep '26 to Oct '26
+- name: Bitter End
+  category: Food and drink
+  subcategory: Bar trivia
+  what: Trivia on Tuesdays. (The Richmond.)
+  vouches: 1
+  when: Aug '26
+- name: Flanahan's Pub
+  category: Food and drink
+  subcategory: Bars to watch a game
+  what: A regular answer for where to watch a big game. (Noriega.)
+  vouches: 3
+  when: Jun '26 to Jul '26
+- name: Sunset Cantina
+  category: Food and drink
+  subcategory: Bars to watch a game
+  what: Shows big games, sometimes outside. Also good for eating at the bar and talking to locals.
+  vouches: 3
+  when: Jun '26 to Aug '26
+- name: Underdogs
+  category: Food and drink
+  subcategory: Bars to watch a game
+  what: A regular answer for where to watch a big game. (Taraval.)
+  vouches: 3
+  when: Jun '26 to Jul '26
+- name: Celia's by the Beach
+  category: Food and drink
+  subcategory: Bars to watch a game
+  what: Shows big games, and has a locals' bar with character.
+  vouches: 2
+  when: Jul '26 to Aug '26
+- name: Pittsburgh's Pub
+  category: Food and drink
+  subcategory: Bars to watch a game
+  what: Shows big games.
+  vouches: 1
+  when: Jul '26
+- name: Riptide
+  category: Food and drink
+  subcategory: Bars to watch a game
+  what: Shows big games.
+  vouches: 1
+  when: Jul '26
+- name: The Pizza Place
+  category: Food and drink
+  subcategory: Bars to watch a game
+  what: A neighbor watched World Cup games here.
+  vouches: 1
+  when: Jul '26
+- name: Simms, at the Outer Sunset Farmers Market
+  category: Food and drink
+  subcategory: Farmers market
+  what: A stand with a wide range of tomatoes and good lettuces. (Outer Sunset Farmers Market.)
+  vouches: 2
+  when: Aug '26
+- name: Damn Fine
+  category: Food and drink
+  subcategory: Restaurants
+  what: Good for eating at the bar and talking to locals.
+  vouches: 1
+  when: Aug '26
+- name: Outerlands
+  category: Food and drink
+  subcategory: Restaurants
+  what: Good for eating at the bar and talking to locals.
+  vouches: 1
+  when: Aug '26
+- name: Rusty Ladle
+  category: Food and drink
+  subcategory: Restaurants
+  what: Low-key. A place to meet locals.
+  vouches: 1
+  when: Aug '26
+- name: Saigon BBQ Noodles House
+  category: Food and drink
+  subcategory: Restaurants
+  what: Also good duck noodle soup.
+  vouches: 1
+  when: Oct '26
+- name: Thai Nghiep Ky Mi Gia
+  category: Food and drink
+  subcategory: Restaurants
+  what: Really good duck noodle soup. Vietnamese. (Noriega.)
+  vouches: 1
+  when: Oct '26
+- name: Woods
+  category: Food and drink
+  subcategory: Restaurants
+  what: Low-key, with empanadas. A place to meet locals.
+  vouches: 1
+  when: Aug '26
+- name: Sunset Salmon Club
+  category: Food and drink
+  subcategory: Seafood
+  what: A customer says the salmon is excellent.
+  vouches: 1
+  when: Sep '26
+- name: Blackbird Books
+  category: Places to work or sit
+  subcategory: Bookshops
+  what: A nice place to sit and write (no wifi), and it runs a book club.
+  vouches: 2
+  when: Sep '26 to Oct '26
+- name: Andytown
+  category: Places to work or sit
+  subcategory: Cafes
+  what: The Richmond shop welcomes laptops, except on Fridays. (The Richmond.)
+  vouches: 1
+  when: Sep '26
+- name: Diamond Coffee
+  category: Places to work or sit
+  subcategory: Cafes
+  what: Laptop-friendly, kind staff. (Judah.)
+  vouches: 1
+  when: Sep '26
+- name: Henry's House of Coffee
+  category: Places to work or sit
+  subcategory: Cafes
+  what: Suggested for working from.
+  vouches: 1
+  when: Sep '26
+- name: Jandii
+  category: Places to work or sit
+  subcategory: Cafes
+  what: Suggested for working from.
+  vouches: 1
+  when: Sep '26
+- name: Java Beach
+  category: Places to work or sit
+  subcategory: Cafes
+  what: Suggested for working from.
+  vouches: 1
+  when: Sep '26
+- name: Simple Pleasures
+  category: Places to work or sit
+  subcategory: Cafes
+  what: Laptop-friendly. (Balboa.)
+  vouches: 1
+  when: Sep '26
+- name: Ortega Library
+  category: Places to work or sit
+  subcategory: Libraries
+  what: Good wifi and outlets for focused work. No coffee, no calls.
+  vouches: 1
+  when: Sep '26
+- name: Michaels
+  category: Errands
+  subcategory: Framing
+  what: Frames well, often at half off, and sells kits for large frames.
+  vouches: 1
+  when: Aug '26
+- name: Tigges
+  category: Errands
+  subcategory: Jewelry repair
+  what: A trusted jeweler for repairs. (Geary and 23rd Ave.)
+  vouches: 2
+  when: Aug '26
+- name: AAA
+  category: Errands
+  subcategory: Notary
+  what: Notary for members, about ten dollars. (Lakeshore Plaza.)
+  vouches: 1
+  when: Oct '26
+- name: SF Fire Credit Union
+  category: Errands
+  subcategory: Notary
+  what: Notarizes for free. (Stonestown.)
+  vouches: 1
+  when: Oct '26
+- name: UPS Store
+  category: Errands
+  subcategory: Notary
+  what: Can notarize. Call ahead to check someone is in. (Sloat.)
+  vouches: 1
+  when: Oct '26
+- name: Postal People
+  category: Errands
+  subcategory: Shipping and notary
+  what: Good prices, and a notary. (27th and Irving.)
+  vouches: 2
+  when: Oct '26
+- name: Ocean View Stables
+  category: Learning and making
+  subcategory: Horse riding
+  what: A nearby place to ride.
+  vouches: 1
+  when: Aug '26
+- name: Fog City Crafters
+  category: Learning and making
+  subcategory: Making things together
+  what: A weekly fiber-art meet-up. (Cole Valley.)
+  vouches: 1
+  when: Aug '26
+- name: Friends & Neighbors
+  category: Learning and making
+  subcategory: Making things together
+  what: Runs a monthly art club. (The Richmond.)
+  vouches: 1
+  when: Aug '26
+- name: Sealevel
+  category: Learning and making
+  subcategory: Meditation
+  what: A regular says the weekly meditation group is great.
+  vouches: 1
+  when: Oct '26
+- name: Blue Bear
+  category: Learning and making
+  subcategory: Music lessons
+  what: Music lessons, some online. A bit outside the neighborhood, on the N. (Irving and 9th.)
+  vouches: 1
+  when: Sep '26
+- name: Community Music School
+  category: Learning and making
+  subcategory: Music lessons
+  what: Recommended for piano lessons. A well-loved school.
+  vouches: 1
+  when: Sep '26
+- name: Flute World
+  category: Learning and making
+  subcategory: Music lessons
+  what: The shop keeps a list of flute teachers on its website. (North Beach.)
+  vouches: 1
+  when: Oct '26
+- name: North Beach Citizens
+  category: Where to give things
+  subcategory: Clothes
+  what: Took a clothing drop-off and does good work.
+  vouches: 1
+  when: Aug '26
+  links:
+  - label: Website
+    url: https://www.northbeachcitizens.org/
+- name: Noisebridge
+  category: Where to give things
+  subcategory: Laptops
+  what: A nonprofit hackerspace that takes working laptops.
+  vouches: 1
+  when: Jul '26
+  links:
+  - label: Website
+    url: https://noisebridge.net

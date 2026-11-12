@@ -72,3 +72,74 @@ resources:
     answers: [who built this, what's a build day, can I help build neighborhood tools]
     how_to_use: Email josh@relationaltechproject.org or come to a build day.
     source: STEWARDS.md
+
+  # How things work here. Questions neighbors keep asking each other, answered with the city's own pages.
+  - name: Street cleaning schedule
+    what: San Francisco Public Works' street sweeping schedule, block by block
+    url: https://sfpublicworks.org/services/mechanical-street-sweeping-and-street-cleaning-schedule
+    answers: [when is street cleaning on my block, what days is street sweeping, where can I park without street cleaning, is there street cleaning on the Great Highway]
+    how_to_use: Look up the street and block. The signs on the block are the last word, and they change, so read them when you park.
+    source: https://sfpublicworks.org/services/mechanical-street-sweeping-and-street-cleaning-schedule
+
+  - name: Street cleaning and meters on holidays
+    what: SFMTA's list of which holidays street sweeping, meters, and other parking rules are enforced
+    url: https://www.sfmta.com/getting-around/drive-park/holiday-enforcement-schedule
+    answers: [is there street cleaning on a holiday, do I have to move my car on a holiday, are meters free today]
+    how_to_use: Find the holiday in the table. Not every holiday is a day off for street sweeping.
+    source: https://www.sfmta.com/getting-around/drive-park/holiday-enforcement-schedule
+
+  - name: A car blocking a driveway
+    what: SFMTA's text-before-tow program, and how a blocked driveway gets handled
+    url: https://www.sfmta.com/text-tow-program
+    answers: [a car is blocking my driveway, how do I get a car towed, how do I avoid getting towed, whose car is this]
+    how_to_use: Sign your own car up so you get a text before a tow. For a car blocking you, report it to the city; a tow can take a while, so neighbors often ask around first.
+    source: https://www.sfmta.com/text-tow-program
+
+  - name: Report an abandoned vehicle
+    what: the city's form for a car that has sat on the street without moving for a long time
+    url: https://www.sf.gov/report-abandoned-vehicle
+    answers: [a car has been parked here for weeks, how do I report an abandoned car]
+    how_to_use: Report it on the city's page or through SF311.
+    source: https://www.sf.gov/report-abandoned-vehicle
+
+  - name: Where to vote
+    what: the Department of Elections' map of polling places and wait times
+    url: https://sfelections.org/tools/map_poll_time/
+    answers: [where do I vote, where is my polling place, where can I drop off my ballot]
+    how_to_use: Put in your address. Your polling place depends on where you live.
+    source: https://sfelections.org/tools/map_poll_time/
+
+  - name: Sand moving on Ocean Beach
+    what: Public Works' yearly sand relocation, when trucks move sand along the beach near Noriega
+    url: https://sfpublicworks.org/node/35693
+    answers: [what are the trucks doing on the beach, why are they moving sand at Noriega, are they building dunes]
+    how_to_use: It happens each year, usually starting in early June. The page has that year's dates.
+    source: https://sfpublicworks.org/node/35693
+
+  - name: A landlord offering a buyout
+    what: the San Francisco Rent Board's rules on buyout agreements, and what a landlord has to tell a tenant first
+    url: https://www.sf.gov/information--buyout-agreements
+    answers: [my landlord wants to buy me out, what are my rights as a tenant, who do I call about a buyout, tenant help]
+    how_to_use: Read the Rent Board's page before any conversation with the landlord, and call the Rent Board with questions. Neighbors also point to the San Francisco Tenants Union.
+    source: https://www.sf.gov/information--buyout-agreements
+
+  - name: A lost or loose dog
+    what: San Francisco Animal Care and Control, the city shelter where found pets are taken and lost pets are reported
+    url: https://www.sfanimalcare.org
+    answers: [I found a dog, I lost my dog, there is a loose dog, I found a cat, who do I call about a stray]
+    how_to_use: Report a sighting to Animal Care and Control, and don't chase or feed a frightened dog. Found pets are often taken there, and a shelter or vet can scan for a microchip.
+    source: https://www.sfanimalcare.org
+
+  - name: Donating books
+    what: Friends of the San Francisco Public Library takes book donations
+    url: https://www.friendssfpl.org/donatebooks.html
+    answers: [where can I donate books, does the library take books]
+    how_to_use: Check the page for how and when they take them. For a few books, neighbors use the little free libraries on the avenues.
+    source: https://www.friendssfpl.org/donatebooks.html
+
+  - name: A missing or broken trash bin
+    what: Recology, which collects San Francisco's trash, recycling, and compost and replaces bins
+    url: https://www.recology.com/recology-san-francisco/
+    answers: [my compost bin is missing, my recycling bin was stolen, how do I get a new bin]
+    how_to_use: Ask Recology for a replacement.
+    source: https://www.recology.com/recology-san-francisco/
