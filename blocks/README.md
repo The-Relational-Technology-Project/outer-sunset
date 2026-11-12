@@ -29,7 +29,7 @@ The blocks are the ones on The Sunset Wave's map: Lincoln to Sloat and a little 
     - {name: "Streetwise: Carville (Western Neighborhoods Project)", url: "https://www.outsidelands.org/sw18.php"}
 ```
 
-- `reach: area` with a `radius_m` for something about a wider stretch. `reach: everywhere` for something true of every block. Leave it out for a spot.
+- `reach: area` with a `radius_m` for something about a wider stretch, or a `box: [south, west, north, east]` for a strip of beach or a band of avenues. `reach: everywhere` for something true of every block. Leave it out for a spot.
 - `confidence: medium` means the place is approximate or there is one source.
 - Blocks and corners. A public building (a school, a theater, a firehouse, a shop) can keep its address. A home never gets a house number, even when the source prints it, and nothing here says where a person lives.
 - Every note names its sources. No source, no note.
