@@ -206,6 +206,19 @@ sources:
         speeding: [traffic, mta]
         bike lane: [bike, blocked]
 
+  - id: sf-street-sweeping
+    name: SF street sweeping schedule
+    about: 'When each side of each block is swept: the day, the hours, and which weeks of the month.'
+    url: https://data.sf.gov/d/yhqp-riqs
+    type: api
+    live_query: street-sweeping
+    refresh: live
+    license: City of San Francisco open data (PDDL), from Public Works. Queried live for one block at a time, not stored. The signs on the block are the last word.
+    status: live
+    config:
+      domain: data.sf.gov
+      dataset: yhqp-riqs
+
   - id: hoodline
     name: Hoodline
     url: https://hoodline.com
