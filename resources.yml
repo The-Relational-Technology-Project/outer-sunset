@@ -229,3 +229,32 @@ resources:
     answers: [my landlord lives upstairs and I don't want a fight, is there mediation with a landlord, I have a dispute with a neighbor, is there free mediation]
     how_to_use: Call 415-920-3820 for a first conversation. Staff contact the other person.
     source: https://communityboards.org/about/faq/
+
+  # Water. Details and sources are in the note "Where the water comes from".
+  - name: What is in the tap water
+    what: the SFPUC's yearly water quality report, on what is in San Francisco tap water, where it came from, and lead results; the 2025 report is the latest
+    url: https://www.sfpuc.gov/accounts-services/water-quality/annual-water-quality-reports
+    answers: [is the tap water safe, what is in my water, is there fluoride in the water, how hard is the water, where does the water come from]
+    how_to_use: Open the San Francisco report. Questions go to the SFPUC at 650-652-3100.
+    source: https://www.sfpuc.gov/sites/default/files/accounts-and-services/water-quality/water-quality-en-SF-2025.pdf
+
+  - name: Lead test for your tap
+    what: the SFPUC's lead test ($25 a tap; free for WIC families and for customers who own a galvanized service line) and its map of service lines by address
+    url: https://www.sfpuc.gov/leadtest
+    answers: [how do I test my water for lead, do I have lead pipes, is the lead test free, my house is old is the water ok]
+    how_to_use: Fill in the Lead Testing Application on the page. Use the map on the same page for your address. Call 650-652-3100 with questions.
+    source: https://www.sfpuc.gov/leadtest
+
+  - name: Saving water
+    what: the SFPUC's free faucet aerators, showerheads and toilet flappers, leak alerts, and rebates for rain barrels, cisterns and laundry-to-landscape
+    url: https://www.sfpuc.gov/learning/conserve-water
+    answers: [how do I lower my water bill, where do I get a free showerhead, I got a leak alert, is there a rain barrel rebate, can I water my garden with laundry water]
+    how_to_use: Call 415-551-4730 or see the page for where to pick up free devices; bring proof of address.
+    source: https://www.sfpuc.gov/learning/conserve-water/free-evaluations-and-devices/water-saving-devices
+
+  - name: Storing water for an earthquake
+    what: the SFPUC's page on how much emergency water to keep, how to store it, and how to disinfect water
+    url: https://www.sfpuc.gov/learning/emergency-preparedness/storing-and-treating-water
+    answers: [how much water should I store, will the water be out after an earthquake, can I drink water from my water heater, how do I purify water]
+    how_to_use: Store one gallon per person per day for 3 to 5 days and replace it every six months.
+    source: https://www.sfpuc.gov/learning/emergency-preparedness/storing-and-treating-water

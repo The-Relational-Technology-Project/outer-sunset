@@ -48,7 +48,7 @@ Sources: [SFPUC, San Francisco Groundwater Supply Project overview (July 2023)](
 
 ## How much groundwater is in a Sunset tap, and does it change the taste?
 
-Very little right now. In 2025 groundwater was about 0.42 percent of San Francisco's water, and only one of the six wells, the Lake Merced Well, ran, and only now and then. The share has been higher. In late September 2018 the SFPUC said up to 8 percent of the water served to customers in the blend area was groundwater.
+Very little right now. In 2025 groundwater was about 0.42 percent of San Francisco's water, and only one of the six wells, the Lake Merced Well, ran, and only now and then. The share has been higher. In late September 2018 the SFPUC said up to 8 percent of the water served to customers was groundwater.
 
 That October, Sunset neighbors complained that their tap water tasted different. The SFPUC tested water in the Sunset and nearby, said it had found no quality problem, and promised a community meeting.
 
@@ -124,11 +124,11 @@ Sources: [SFPUC, Where Does Wastewater Go?](https://www.sfpuc.gov/about-us/our-s
 
 The SFPUC's advice is one gallon per person per day, for three to five days, and up to a gallon a day for each pet. A family of four with a dog should keep 15 to 25 gallons. After a big earthquake, it says, tap water may be out for 72 hours or more.
 
-Tap water can be stored as it is. Use clean food-grade containers, keep them cool and dark, write the date on them, and swap the water every six months.
+Tap water can be stored as it is. Use clean food-grade containers, keep them cool and dark, date them, and swap the water every six months.
 
 If you run out, the water heater and the toilet tank (not the bowl) hold water you can treat. Boil it for three to five minutes, or add 8 drops of plain unscented bleach per gallon and wait 30 minutes.
 
-The SFPUC's own goals after a major earthquake are to resume regional deliveries to most connection points within 24 hours and to pressurize the mains serving the major trauma hospitals within 24 hours. Neither goal promises water at a home tap on the first day, which is why stored water matters.
+The SFPUC's own goals after a major earthquake are to resume regional deliveries to most connection points within 24 hours and to pressurize the mains serving the major trauma hospitals within 24 hours. Neither promises water at a home tap on day one, which is why stored water matters.
 
 Sources: [SFPUC, Storing and Treating Water](https://www.sfpuc.gov/learning/emergency-preparedness/storing-and-treating-water), [SFPUC, Water Enterprise Level of Service Goals](https://www.sfpuc.gov/about-us/our-systems/surface-water-water-rain-and-snowmelt/water-enterprise-level-service-goals).
 
@@ -158,7 +158,7 @@ Before any main reached the dunes, water here meant ponds between the sand hills
 
 The city's early supply was private. Gold Rush San Francisco drew on Mountain Lake and Lobos Creek in the Presidio. In 1858 George Ensign got a state charter and formed the Spring Valley Water Works, named for a spring near Mason and Washington streets. The company went south for more. It finished the main Pilarcitos Dam in 1867, started San Andreas Dam in 1868, and acquired rights to Lake Merced in August 1868.
 
-The company and the city fought in court over water bills as early as 1869. Spring Valley's mains ruptured in the 1906 earthquake, and the city turned toward a public supply from the Sierra. San Francisco bought the whole Spring Valley system in 1930 for $39,962,606.51. Its Peninsula reservoirs are still part of what comes out of the tap.
+The company and the city fought in court over water bills as early as 1869. Spring Valley's mains ruptured in the 1906 earthquake, and the city turned toward a public supply from the Sierra. San Francisco bought the whole Spring Valley system in 1930 for $39,962,606.51. Its Peninsula reservoirs still feed the tap.
 
 Sources: [SFPUC, San Francisco Water and Power: A History (2005)](https://www.sfpuc.gov/sites/default/files/about-us/HH_historybook-2005.pdf), [San Francisco Fire Department, Water Supply Systems](https://sf-fire.org/node/283).
 
