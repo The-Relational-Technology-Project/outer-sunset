@@ -370,6 +370,37 @@ sources:
       swlng: -122.52
       per_page: 30
 
+  - id: inaturalist-birds
+    name: iNaturalist birds
+    about: 'Which birds neighbors logged around the Outer Sunset this week and today: every species, how often, and the latest time and place.'
+    url: https://www.inaturalist.org/observations?nelat=37.78&nelng=-122.47&swlat=37.72&swlng=-122.52&iconic_taxa=Aves
+    type: api
+    adapter: inaturalist-birds
+    refresh: 1h
+    license: Observations are licensed by their observers, mostly CC BY-NC. Knowy shows the common name, how many times it was logged, date, time, place, and the observation link. No photos, no observer names. It is what people uploaded, not a census.
+    status: live
+    vital_sign: true
+    config:
+      nelat: 37.78
+      nelng: -122.47
+      swlat: 37.72
+      swlng: -122.52
+      days: 7
+
+  - id: sun
+    name: Sunrise and sunset
+    about: When the sun rises and sets on the Outer Sunset today and tomorrow, with first and last light.
+    url: https://gml.noaa.gov/grad/solcalc/
+    type: api
+    adapter: sun
+    refresh: 10m
+    license: Worked out by Knowy from the date and the neighborhood's position, using NOAA's published solar equations. No request leaves the server. The NOAA calculator at the link gives the same times.
+    status: live
+    vital_sign: true
+    config:
+      latitude: 37.753
+      longitude: -122.505
+
   - id: airnow
     name: AirNow
     about: Official air quality readings.
