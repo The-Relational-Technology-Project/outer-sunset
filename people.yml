@@ -69,3 +69,52 @@ orgs:
     reach: "415-554-6364"
     topics: [coyotes, an aggressive animal, a lost dog]
     source: constituents/coyotes.md
+
+  # Who checks on people. Each is the group's own public line, read Nov 17, 2026.
+  - name: Self-Help for the Elderly, South Sunset Senior Center and Chi Sing Community Center
+    role: senior centers with daily meals, classes, and services in Cantonese; South Sunset is at 2601 40th Ave; Chi Sing is at 3133 Taraval St (415-369-2210)
+    reach: "628-278-7277"
+    topics: [older neighbors, senior meals, services in Cantonese, classes for seniors, help reading a letter or bill]
+    source: https://www.selfhelpelderly.org/locations
+
+  - name: DAS Benefits and Resource Hub
+    role: the city's front door for services for older adults and adults with disabilities
+    reach: "415-355-6700"
+    topics: [help for an older neighbor, disability services, home care, caregiver support, senior meals]
+    source: https://www.sfhsa.org/services/disability-aging
+
+  - name: Institute on Aging Friendship Line
+    role: free 24-hour support line for people 60 and over, adults with disabilities, and caregivers; makes check-in calls on request; Cantonese and Mandarin 888-670-2504, Russian 888-560-7360, Spanish 888-571-0411
+    reach: "888-670-1360"
+    topics: [loneliness, an older neighbor who lives alone, someone to talk to, regular check-in calls]
+    source: https://www.ioaging.org/services/friendship-line/
+
+  - name: San Francisco Village
+    role: membership group for older San Franciscans; has a Sunset neighborhood circle for 94116 and 94122
+    reach: "415-387-1375"
+    topics: [aging at home, meeting other older neighbors, neighborhood circles, volunteering with older adults]
+    source: https://www.sfvillage.org/neighborhood-circles/
+
+  - name: Community Living Campaign
+    role: Community Connectors groups and Neighborhood Buddies, trained volunteers who make weekly friendly check-ins by phone, video, or in person
+    reach: "415-821-1003"
+    topics: [checking on a neighbor, friendly visits, tech help for seniors, grocery delivery volunteers]
+    source: https://sfcommunityliving.org/programs/neighborhood-networks/
+
+  - name: Little Brothers Friends of the Elderly San Francisco
+    role: no-cost visits and celebrations for isolated older adults; takes referrals and volunteers, including Thanksgiving visits and meal deliveries
+    reach: "415-771-7957"
+    topics: [isolated older adults, holiday volunteering, visiting volunteers, referring a neighbor]
+    source: https://www.littlebrotherssf.org/
+
+  - name: Outer Sunset Neighbors
+    role: neighbors working on safer streets, trees and greenery, and Sunset Dunes; monthly meetings and a third-Thursday happy hour
+    reach: https://sunsetneighbors.org/
+    topics: [street safety, trees, Sunset Dunes, neighborhood meetings, meeting neighbors]
+    source: https://sunsetneighbors.org/
+
+  - name: SF Fire Department NERT
+    role: free Neighborhood Emergency Response Team training (six sessions) and neighborhood teams
+    reach: https://sf-fire.org/NERT
+    topics: [emergency preparedness, earthquake readiness, neighbor-to-neighbor response, disaster training]
+    source: https://www.sf-fire.org/nert-calendar

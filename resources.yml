@@ -143,3 +143,39 @@ resources:
     answers: [my compost bin is missing, my recycling bin was stolen, how do I get a new bin]
     how_to_use: Ask Recology for a replacement.
     source: https://www.recology.com/recology-san-francisco/
+
+  # Looking out for each other. Details and sources are in the note "How neighbors in the Outer Sunset are doing".
+  - name: Food pantries and free groceries
+    what: the SF-Marin Food Bank's locator for weekly pantries, senior food boxes, and home-delivered groceries. Sunset sites in the city's 2026 guide are 3010 Noriega St, 2540 Taraval St, and 1740 Sloat Blvd.
+    url: https://www.sfmfoodbank.org/find-food/
+    answers: [where is a food pantry near me, a neighbor needs groceries, is there free food in the Sunset, how do I get groceries delivered to a senior, where can I volunteer at a pantry]
+    how_to_use: Search the locator by ZIP code or call 415-282-1900. For home-delivered groceries call 415-824-3663. Days and hours change, so check before going.
+    source: https://www.sfmfoodbank.org/find-food/
+
+  - name: Friendship Line
+    what: the Institute on Aging's free 24-hour support line for older adults, adults with disabilities, and caregivers, with check-in calls on request
+    url: https://www.ioaging.org/services/friendship-line/
+    answers: [my neighbor is lonely, who can call an older person who lives alone, is there a line in Cantonese, someone to talk to at night]
+    how_to_use: Call 888-670-1360 (English), 888-670-2504 (Cantonese and Mandarin), 888-560-7360 (Russian), or 888-571-0411 (Spanish). To get regular calls, fill out the intake form on the page.
+    source: https://www.ioaging.org/services/friendship-line/
+
+  - name: Worried about a neighbor
+    what: who to call in San Francisco when you have not seen someone or they seem unwell
+    url: https://www.sanfranciscopolice.org/node/4321
+    answers: [I have not seen my neighbor in days, how do I ask for a welfare check, who do I call besides 911, someone on my block seems to be in crisis, which neighbors could use extra care]
+    how_to_use: Knock first and leave a note. For danger to life or a medical or mental health emergency call 911. For a wellness check that is not urgent, the police non-emergency line is 415-553-0123. For someone in crisis on the street, ask 311 for the Street Team.
+    source: https://www.sf.gov/san-francisco-street-team
+
+  - name: Help for an older or disabled neighbor
+    what: the Department of Disability and Aging Services' Benefits and Resource Hub, which connects people to meals, home care, senior centers, and benefits
+    url: https://www.sfhsa.org/services/disability-aging
+    answers: [my neighbor needs help at home, where is the senior center, how does an older person get meals, who helps seniors in the Sunset, help for a caregiver]
+    how_to_use: Call 415-355-6700. Sunset sites include the South Sunset Senior Center (2601 40th Ave) and Chi Sing Community Center (3133 Taraval St).
+    source: https://www.sfhsa.org/services/disability-aging
+
+  - name: AlertSF and NERT
+    what: the city's emergency text alerts, and the Fire Department's free neighbor emergency training
+    url: https://sf-fire.org/NERT
+    answers: [how do I get storm alerts, how do I get ready for an earthquake with my neighbors, is there a NERT team in the Sunset, when is the next NERT class]
+    how_to_use: Text your ZIP code to 888-777 for alerts. For training, pick a NERT Basic Training on the calendar at sf-fire.org/nert-calendar.
+    source: https://www.sf-fire.org/nert-calendar
