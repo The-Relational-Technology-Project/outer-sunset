@@ -72,11 +72,11 @@ Sources: [SFPUC, 2025 Annual Water Quality Report](https://www.sfpuc.gov/sites/d
 
 The source water has no lead. Lead gets in from old plumbing, mostly inside buildings. The SFPUC says it removed all known lead service lines in the 1980s and has never found a lead line on the customer side.
 
-What remained were galvanized steel lines, some joined to the main by a short lead connector. The SFPUC confirmed 1,495 of these on its side and had replaced 1,433 with copper by January 2026. On the customer side it counts 699 galvanized lines and 109 of unknown material. An online map shows whether your address has one.
+What remained were galvanized steel lines, some with a short lead connector. The SFPUC confirmed 1,495 of these on its side and had replaced 1,433 with copper by January 2026. On the customer side it counts 699 galvanized lines and 109 of unknown material. An online map shows whether your address has one.
 
 In the last round of sampling, at 50 homes in 2024, the 90th percentile result was 4.9 parts per billion. The action level is 15.
 
-A lead test costs $25 per tap. It is free for families in the WIC program and for customers with a galvanized line. To cut exposure, run the cold tap for a few minutes after water has sat in the pipes, and use only cold water for drinking, cooking and baby formula.
+A lead test costs $25 per tap. It is free for families in the WIC program and for customers who own a galvanized line. To cut exposure, flush the cold tap for a few minutes after water has sat, and use only cold water for drinking, cooking and formula.
 
 Sources: [SFPUC, 2025 Annual Water Quality Report](https://www.sfpuc.gov/sites/default/files/accounts-and-services/water-quality/water-quality-en-SF-2025.pdf), [SFPUC, Lead in Drinking Water and how to order a test](https://www.sfpuc.gov/leadtest).
 
@@ -84,9 +84,9 @@ Sources: [SFPUC, 2025 Annual Water Quality Report](https://www.sfpuc.gov/sites/d
 
 Golden Gate Park has long been watered from wells. A 1993 USGS study said the main use of groundwater in the city was irrigating the park, Stern Grove, the zoo and golf courses.
 
-That is changing. The Westside Enhanced Water Recycling Project takes treated wastewater at the Oceanside plant by the zoo and cleans it further with membrane filters, reverse osmosis and ultraviolet light. Nearly 8 miles of pipe carry it north to Golden Gate Park, the Panhandle and later Lincoln Park Golf Course. The $213 million project is meant to supply 1.6 million gallons a day. Its project page gives the end of 2026 for completion. Another SFPUC page says park irrigation starts in 2027. Harding Park and Fleming golf courses have used recycled water from Daly City since 2012.
+That is changing. The Westside Enhanced Water Recycling Project takes treated wastewater at the Oceanside plant by the zoo and cleans it further with membrane filters, reverse osmosis and ultraviolet light. Nearly 8 miles of pipe carry it north to Golden Gate Park, the Panhandle and later Lincoln Park Golf Course. The $213 million project is meant to supply 1.6 million gallons a day. Its project page gives the end of 2026 for completion. Another SFPUC page says park irrigation starts in 2027.
 
-Sunset Boulevard's 60-acre greenbelt still drinks tap water. On September 30, 2026 city and state officials marked $1 million in state money toward connecting it to the recycled water line, which they said could save about 40 million gallons a year. No construction dates were given.
+Sunset Boulevard's 60-acre greenbelt still drinks tap water. On September 30, 2026 city and state officials marked $1 million in state money toward connecting it to the recycled water line, which could save about 40 million gallons a year. No construction dates were given.
 
 Sources: [SFPUC, Westside Enhanced Water Recycling Project](https://www.sfpuc.gov/construction-contracts/construction-projects/westside-enhanced-water-recycling-project), [SFPUC, Westside Enhanced Water Recycling Project FAQ (August 2024)](https://www.sfpuc.gov/sites/default/files/documents/Westside-Enhanced-Water-Recycling-Project-FAQ-Aug-2024.pdf), [SFPUC, Recycled Water](https://sfpuc.gov/programs/water-supply/recycled-water), [USGS, Geohydrology of San Francisco (1993)](https://pubs.usgs.gov/wri/1993/4019/report.pdf), [Local News Matters / Bay City News, Sunset Boulevard recycled water project (October 2026)](https://localnewsmatters.org/2026/10/01/sunset-boulevard-recycled-water-irrigation-project-advances-with-1m-in-state-funding/).
 
@@ -104,7 +104,7 @@ Sources: [SFPUC, Rate Schedules and Fees for Water and Sewer Service, effective 
 
 The SFPUC gives away faucet aerators, 1.5 gallon per minute showerheads, shower timers and toilet flappers. People in single-family homes or buildings under 10 units can pick them up at 525 Golden Gate Avenue, Monday through Friday, 10 a.m. to 2 p.m., with proof of address. Renters qualify. You can also book a free phone consultation online or by calling 415-551-4730.
 
-Leak alerts are automatic. If a home's meter shows 7.5 gallons an hour or more running nonstop for 48 hours, the SFPUC sends an email, text, call or letter. A running toilet is the usual cause.
+Leak alerts are automatic. If a home's meter shows 7.5 gallons an hour or more running nonstop for 48 hours, the SFPUC sends an email, text, call or letter.
 
 For the yard, there is a rebate of up to $100 per rain barrel, for up to two barrels, or up to $350 for one cistern of 205 to 5,000 gallons. The laundry-to-landscape rebate pays up to $100 toward the valve and pipe that send washing machine water to plants. It needs a flat or downhill yard and suits fruit trees and berries better than drought-tolerant plants.
 
@@ -116,7 +116,7 @@ Everything that goes down a Sunset drain, and the rain that runs into the street
 
 West side flows run downhill toward the ocean, into the big storage box under the Great Highway, and south to the Oceanside plant beside the zoo. There the water is treated and sent out a long pipe to the Pacific. The note "Dunes and sand" in this archive gives the sizes, dates and distances for the box, the Lake Merced Tunnel, the plant and the outfall.
 
-One new step is being added. The recycled water facility at the Oceanside plant takes part of the treated flow before it goes to sea and cleans it again for watering Golden Gate Park. So some Sunset water is on its way to a second use a few blocks from where it started.
+One new step is being added. The recycled water facility at the Oceanside plant takes part of the treated flow before it goes to sea and cleans it again for watering Golden Gate Park. So some Sunset water will get a second use close to home.
 
 Sources: [SFPUC, Where Does Wastewater Go?](https://www.sfpuc.gov/about-us/our-systems/sewer-system/where-does-wastewater-go), [SFPUC, Westside Enhanced Water Recycling Project FAQ (August 2024)](https://www.sfpuc.gov/sites/default/files/documents/Westside-Enhanced-Water-Recycling-Project-FAQ-Aug-2024.pdf).
 
@@ -128,7 +128,7 @@ Tap water can be stored as it is. Use clean food-grade containers, keep them coo
 
 If you run out, the water heater and the toilet tank (not the bowl) hold water you can treat. Boil it for three to five minutes, or add 8 drops of plain unscented bleach per gallon and wait 30 minutes.
 
-The SFPUC's own goals after a major earthquake are to resume regional deliveries to most connection points within 24 hours and to pressurize the mains serving the major trauma hospitals within 24 hours. Homes come later, which is why the stored water matters.
+The SFPUC's own goals after a major earthquake are to resume regional deliveries to most connection points within 24 hours and to pressurize the mains serving the major trauma hospitals within 24 hours. Neither goal promises water at a home tap on the first day, which is why stored water matters.
 
 Sources: [SFPUC, Storing and Treating Water](https://www.sfpuc.gov/learning/emergency-preparedness/storing-and-treating-water), [SFPUC, Water Enterprise Level of Service Goals](https://www.sfpuc.gov/about-us/our-systems/surface-water-water-rain-and-snowmelt/water-enterprise-level-service-goals).
 
@@ -158,7 +158,7 @@ Before any main reached the dunes, water here meant ponds between the sand hills
 
 The city's early supply was private. Gold Rush San Francisco drew on Mountain Lake and Lobos Creek in the Presidio. In 1858 George Ensign got a state charter and formed the Spring Valley Water Works, named for a spring near Mason and Washington streets. The company went south for more. It finished the main Pilarcitos Dam in 1867, started San Andreas Dam in 1868, and acquired rights to Lake Merced in August 1868.
 
-For decades the company and the city fought over rates and service. When Spring Valley's mains broke in the 1906 earthquake, the push for a public supply from the Sierra grew stronger. San Francisco bought the whole Spring Valley system in 1930 for $39,962,606.51. Its Peninsula reservoirs are still part of what comes out of the tap.
+The company and the city fought in court over water bills as early as 1869. Spring Valley's mains ruptured in the 1906 earthquake, and the city turned toward a public supply from the Sierra. San Francisco bought the whole Spring Valley system in 1930 for $39,962,606.51. Its Peninsula reservoirs are still part of what comes out of the tap.
 
 Sources: [SFPUC, San Francisco Water and Power: A History (2005)](https://www.sfpuc.gov/sites/default/files/about-us/HH_historybook-2005.pdf), [San Francisco Fire Department, Water Supply Systems](https://sf-fire.org/node/283).
 
@@ -168,7 +168,7 @@ Hetch Hetchy was a valley before it was a reservoir. The National Park Service s
 
 San Francisco began eyeing the valley in 1882. John Muir led the opposition, arguing a reservoir could go outside the national park. President Woodrow Wilson signed the Raker Act, which allowed the dam, on December 19, 1913. O'Shaughnessy Dam was dedicated on July 7, 1923.
 
-The argument is not over. Restore Hetch Hetchy says the city's water use has fallen enough that the valley could be restored and the water stored elsewhere on the Tuolumne. The SFPUC treats the reservoir as the heart of its supply.
+The argument is not over. Restore Hetch Hetchy says the city's water use has fallen enough that the valley could be restored and the water stored elsewhere on the Tuolumne. The SFPUC calls the reservoir its major water source.
 
 Sources: [National Park Service, Hetch Hetchy](https://home.nps.gov/yose/planyourvisit/hh.htm), [Restore Hetch Hetchy, History of the valley](https://hetchhetchy.org/history-of-the-valley/), [Restore Hetch Hetchy](https://hetchhetchy.org/), [SFPUC, San Francisco Water and Power: A History (2005)](https://www.sfpuc.gov/sites/default/files/about-us/HH_historybook-2005.pdf).
 
@@ -178,7 +178,7 @@ A little, and mostly in an indirect way. The best local measurement found for th
 
 The bigger effect was shade and damp air. Fog cut the water that plants and soil lost to evaporation by about 125 millimeters a year, around 5 inches. Together the two effects shrank the dry-season water shortfall in that watershed by 25 percent.
 
-No source opened for this note measured fog drip in the Sunset itself, so treat these as numbers from a nearby, more forested place. The plain version: fog does not fill the reservoir, but it lets a summer garden here get by on less watering than the same garden inland.
+No source opened for this note measured fog drip in the Sunset itself, so treat these as numbers from a nearby, more forested place. The plain version: fog does not fill the reservoir, but it slows how fast soil and plants dry out in summer.
 
 Sources: [Chung, Dufour, Pluche and Thompson, How much does dry-season fog matter? Hydrological Processes (2017)](https://www.ce.berkeley.edu/sites/default/files/assets/users/thompson/Chung_et_al-2017-Hydrological_Processes.pdf).
 
