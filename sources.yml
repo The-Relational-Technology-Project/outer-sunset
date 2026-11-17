@@ -401,6 +401,17 @@ sources:
       latitude: 37.753
       longitude: -122.505
 
+  - id: ebird
+    name: eBird
+    about: Birders' checklists from Ocean Beach, the Chain of Lakes, Sunset Dunes, Lake Merced and other hotspots nearby.
+    url: https://ebird.org/hotspot/L302090
+    type: api
+    refresh: 1h
+    license: Cornell Lab of Ornithology. The API needs a free key (header x-ebirdapitoken) and has its own terms of use; a steward would need to request one. Until then Knowy's notes link the hotspot pages, and iNaturalist covers recent sightings.
+    status: planned
+    vital_sign: true
+    note: 'With a key: recent sightings near 37.75,-122.50 (/v2/data/obs/geo/recent) and notable ones for the county (US-CA-075). Hotspot ids are in the note on birds month by month.'
+
   - id: airnow
     name: AirNow
     about: Official air quality readings.
