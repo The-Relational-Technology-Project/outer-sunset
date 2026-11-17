@@ -32,7 +32,7 @@ Sources: [SF.gov, Report a building problem](https://www.sf.gov/report-building-
 
 If the inspector finds a building or housing code violation, DBI writes a Notice of Violation, called an NOV. It describes the violation and the corrections the owner must make. It is posted on the building and mailed to the owner. While the case is open, DBI says the inspector follows up about every 30 days.
 
-If the owner does not try to fix the problem, DBI moves the case to a Director's Hearing, with a notice posted on the building. The hearing officer can issue an Order of Abatement. Fees add up while the case stays open. An unfixed order can become a lien on the property, and DBI may refer an owner with more than three liens or orders to the City Attorney.
+If the owner does not try to fix the problem, DBI moves the case to a Director's Hearing. The hearing officer can issue an Order of Abatement. Fees add up while the case stays open. An unfixed order can become a lien on the property, and DBI may refer an owner with more than three liens or orders to the City Attorney.
 
 The Housing Rights Committee suggests asking the inspector for a copy of the NOV and keeping it. The Rent Board says an NOV is proof that there is a violation of law. You can follow the case by address or complaint number in DBI's tracking system.
 
@@ -64,9 +64,9 @@ Sources: [California Civil Code section 1941.1](https://california.public.law/co
 
 A tenant in a rent controlled unit can petition the Rent Board for a rent reduction when the landlord has substantially decreased a housing service without lowering the rent. Repairs and maintenance count. The Rent Board says this petition is not available to most tenants in units built after June 13, 1979.
 
-The form is 516A, also offered in Chinese, Spanish, Filipino and Vietnamese. There is no filing fee. On it you list each lost service, when it stopped, when you told the landlord, and how much per month you think the rent should drop. Email it with your evidence to rentboard@sfgov.org or bring it to 25 Van Ness Avenue, Suite 700.
+The form is 516A, also offered in Chinese, Spanish, Filipino and Vietnamese. Filing is free. You list each lost service, when it stopped, when you told the landlord, and how much you think the rent should drop. Email it with your evidence to rentboard@sfgov.org or bring it to 25 Van Ness Avenue, Suite 700.
 
-Usually within a few months the case goes to mediation, and to an arbitration hearing if mediation fails. Reductions generally reach back only one year before filing. The Rent Board can lower the rent. It cannot order the repair.
+Usually within a few months the case goes to mediation, then to arbitration if that fails. Reductions generally reach back only one year before filing. The Rent Board can lower the rent. It cannot order the repair.
 
 In the year ending October 31, 2026, the city's open data shows 117 Rent Board petitions from Sunset/Parkside, 30 of them citing decreased housing services.
 
@@ -74,17 +74,17 @@ Sources: [SF Rent Board, Request a rent reduction for decreased housing services
 
 ## Putting off a rent increase until repairs are done, and the Rent Board counseling line
 
-A second petition, Failure to Repair and Maintain (form 516B), asks the Rent Board to postpone an annual rent increase until requested repairs are made. It must be filed within 60 days of receiving the rent increase notice. The tenant has to show that the landlord knew the work was needed and that the law required it. The Rent Board advises asking in writing and requesting a DBI inspection, since a Notice of Violation is proof.
+A second petition, Failure to Repair and Maintain (form 516B), asks the Rent Board to postpone an annual rent increase until requested repairs are made. It must be filed within 60 days of receiving the rent increase notice. The tenant has to show that the landlord knew the work was needed and that the law required it, so ask in writing and request a DBI inspection.
 
-The Rent Board says to keep paying the disputed increase until the decision comes. If the tenant wins, the landlord is ordered to refund it. The petition is not granted if the repairs were finished before the increase took effect. It can be combined with a decrease in services claim.
+The Rent Board says to keep paying the disputed increase until the decision comes. If the tenant wins, the landlord is ordered to refund it. It can be combined with a decrease in services claim.
 
-Rent Board counselors answer the phone at 415-252-4600, Monday through Friday, 9 AM to noon and 1 to 4 PM. Calls are generally limited to five minutes. Drop-in counseling is at 25 Van Ness Avenue, Suite 700, weekdays 9 AM to 4 PM. It is free, in English, Spanish, Cantonese and Mandarin, with interpreters for other languages. Counselors cannot give legal advice.
+Rent Board counselors answer the phone at 415-252-4600, Monday through Friday, 9 AM to noon and 1 to 4 PM. Calls are generally limited to five minutes. Drop-in counseling is at 25 Van Ness Avenue, Suite 700, weekdays 9 AM to 4 PM. It is free, in English, Spanish, Cantonese and Mandarin. Counselors cannot give legal advice.
 
 Sources: [SF Rent Board, Failure to Repair and Maintain Petitions](https://www.sf.gov/information--failure-repair-and-maintain-petitions), [SF Rent Board, Speak with a Rent Board counselor](https://www.sf.gov/speak-rent-board-counselor).
 
 ## Can I fix it myself and take it off the rent? What California law says
 
-California Civil Code 1942 is the "repair and deduct" law. If a landlord does not fix conditions that make a home untenantable within a reasonable time after notice, the tenant may make the repair and deduct the cost from rent, when the cost is not more than one month's rent. It cannot be used more than twice in any 12 months. Acting after the 30th day following notice is presumed reasonable, and shorter can be reasonable if circumstances require.
+California Civil Code 1942 is the "repair and deduct" law. If a landlord does not fix conditions that make a home untenantable within a reasonable time after notice, the tenant may make the repair and deduct the cost from rent, when the cost is not more than one month's rent. It cannot be used more than twice in any 12 months. Acting after the 30th day following notice is presumed reasonable.
 
 The city is cautious about this. The Rent Board says the Rent Ordinance itself does not authorize withholding rent or repair and deduct, that these state remedies "pose risks and can lead to an eviction action," and that a tenant should get legal advice first. The Housing Rights Committee recommends getting the landlord's agreement in writing before deducting.
 
@@ -94,7 +94,7 @@ Sources: [California Civil Code section 1942](https://california.public.law/code
 
 ## Can my landlord punish me for complaining, or walk in without notice?
 
-California Civil Code 1942.5 covers retaliation. If a tenant who is current on rent complains to the landlord or to an agency about livability, the landlord may not, in retaliation, evict, force the tenant out, raise the rent or cut services within 180 days. Threatening to report a tenant to immigration authorities is named as retaliation. The section also protects tenants who organize or join a tenants' association.
+California Civil Code 1942.5 covers retaliation. If a tenant who is current on rent complains to the landlord or to an agency about livability, the landlord may not, in retaliation, evict, force the tenant out, raise the rent or cut services within 180 days. Threatening to report a tenant to immigration authorities counts as retaliation. Tenants who join a tenants' association are also protected.
 
 Civil Code 1954 covers entry. A landlord may enter only for listed reasons, such as an emergency, necessary or agreed repairs, or showing the unit. Written notice is required, 24 hours is presumed reasonable, and entry is during normal business hours unless the tenant agrees. The Rent Board notes that unreasonably refusing access can itself be grounds for eviction.
 
@@ -116,9 +116,9 @@ Sources: [SF Rent Board, Learn about San Francisco rental laws](https://www.sf.g
 
 ## I live in an in-law unit that may not have permits. Is it safe to call the inspector?
 
-This is a real tradeoff, and the city says so. The Rent Board states that a unit without permits is still covered by the Rent Ordinance. It also warns that when a tenant in an unpermitted unit calls DBI, the inspector might cite the owner for the unit itself, and the unit may have to be removed if it cannot be brought up to code. Removing a unit is a just cause for eviction, but the landlord must first get all the permits, and must pay relocation money.
+This is a real tradeoff. The Rent Board states that a unit without permits is still covered by the Rent Ordinance. It also warns that when a tenant in such a unit calls DBI, the inspector might cite the owner for the unit itself, and the unit may have to be removed. Removing a unit is a just cause for eviction, but the landlord must first get all the permits and must pay relocation money.
 
-The Housing Rights Committee and the San Francisco Tenants Union both advise tenants who suspect their unit is unpermitted not to call DBI first. They suggest a Rent Board decrease in services petition, or calling a counselor through the Code Enforcement Outreach Program. The Housing Rights Committee lists signs: a garage, basement or attic unit, an address with "A" or "1/2", or no mailbox of your own.
+The Housing Rights Committee and the San Francisco Tenants Union both advise such tenants not to call DBI first. They suggest a Rent Board petition or a counselor instead. Signs the Housing Rights Committee lists: a garage, basement or attic unit, an address with "A" or "1/2", or no mailbox of your own.
 
 The city has a Unit Legalization Program for units that existed before January 1, 2013. Improvement costs cannot be passed on to tenants, and an existing Notice of Violation can be suspended for a year while the owner legalizes.
 
@@ -126,11 +126,11 @@ Sources: [SF Rent Board, Renting an Unpermitted Unit](https://www.sf.gov/informa
 
 ## Organizing with the neighbors in your building: San Francisco's tenant right-to-organize law
 
-When one unit has repair problems, the others often do too. The Tenants Union and the Housing Rights Committee both say a group letter, a shared call to the inspector and Rent Board petitions filed together carry more weight than one tenant alone.
+When one unit has repair problems, the others often do too. The Tenants Union and the Housing Rights Committee both say tenants who write, call the inspector and petition together are stronger than one tenant alone.
 
-In 2022 the city strengthened the law behind this, in Chapter 49A of the Administrative Code. The Rent Board calls it the Tenant Right-To-Organize legislation, and tenant groups know it as Union at Home. It took effect April 11, 2022. Landlords must allow organizing in common areas, including door-to-door surveys and visits from outside advocates.
+In 2022 the city strengthened the law behind this, Administrative Code Chapter 49A. The Rent Board calls it the Tenant Right-To-Organize legislation. It took effect April 11, 2022. Landlords must allow organizing in common areas, including door-to-door surveys and outside advocates.
 
-In buildings with five or more rental units, tenants can form a Tenant Association with the approval of a majority of occupied units. The landlord must then meet and confer in good faith and, on written request, attend a meeting at least once every three months. Refusing can support a rent reduction petition. Many Sunset buildings have fewer than five units, so the formal association rules may not reach them.
+In buildings with five or more rental units, tenants can form a Tenant Association with the approval of a majority of occupied units. The landlord must then meet and confer in good faith and, on written request, attend a meeting every three months. Refusing can support a rent reduction petition. Many Sunset buildings have fewer than five units, so those association rules may not reach them.
 
 The Housing Rights Committee says it may be able to help tenants organize and form an association.
 
@@ -142,7 +142,7 @@ Before you write the letter, or before you sign a lease, you can see what the ci
 
 DBI's Permit/Complaint Tracking System (dbiweb02.sfgov.org/dbipts) searches by address or complaint number and shows complaints and permits. SF Planning's Property Information Map (sfplanninggis.org/pim) shows the year a building was built.
 
-The city also publishes the raw records on DataSF, updated daily when checked for this note. DBI Complaints is dataset gm2e-bten. Notices of Violation is nbtm-fbw5. Petitions to the Rent Board is 6swy-cmkq, with addresses masked to the block. Rent Board Housing Inventory is gdc7-dmcn. Each can be filtered to the "Sunset/Parkside" neighborhood or to Supervisor District 4.
+The city also publishes the raw records on DataSF. All four datasets below showed an update on November 17, 2026. DBI Complaints is dataset gm2e-bten. Notices of Violation is nbtm-fbw5. Petitions to the Rent Board is 6swy-cmkq, with addresses masked to the block. Rent Board Housing Inventory is gdc7-dmcn. Each can be filtered to the "Sunset/Parkside" neighborhood or to Supervisor District 4.
 
 A count run for this note: from November 1, 2025 through October 31, 2026, Housing Inspection Services received 338 complaints in Sunset/Parkside, and 138 of them show a first Notice of Violation. Complaint text is public, which is worth knowing before you file one.
 
@@ -150,7 +150,7 @@ Sources: [DBI Permit/Complaint Tracking System](https://dbiweb02.sfgov.org/dbipt
 
 ## Who helps a Sunset tenant with repairs, including in Chinese
 
-DBI funds a Code Enforcement Outreach Program in which nonprofits answer habitability questions, help write to the landlord, and act as a go-between with DBI. On DBI's partner map, the Sunset is assigned to the Housing Rights Committee of San Francisco, 415-703-8644. Its drop-in and live phone hours are Monday through Thursday, 1 to 5 PM, at 11 Grove Street. It says you do not need to be under rent control. The Tenderloin Housing Clinic's part of the program is listed for Tenderloin residents and residential hotel tenants.
+DBI funds a Code Enforcement Outreach Program in which nonprofits answer habitability questions, help write to the landlord, and act as a go-between with DBI. On DBI's partner map, the Sunset is assigned to the Housing Rights Committee of San Francisco, 415-703-8644. Its drop-in and live phone hours are Monday through Thursday, 1 to 5 PM, at 11 Grove Street. It says you do not need to be under rent control. The Tenderloin Housing Clinic's part of the program serves Tenderloin and residential hotel tenants.
 
 The closest office to the Outer Sunset is Open Door Legal at 1722 Irving Street, 415-735-4124, weekdays 10 AM to noon and 1 to 4 PM. Housing is one of its practice areas.
 

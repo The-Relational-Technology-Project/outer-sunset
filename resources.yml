@@ -179,3 +179,53 @@ resources:
     answers: [how do I get storm alerts, how do I get ready for an earthquake with my neighbors, is there a NERT team in the Sunset, when is the next NERT class]
     how_to_use: Text your ZIP code to 888-777 for alerts. For training, pick a NERT Basic Training on the calendar at sf-fire.org/nert-calendar.
     source: https://www.sf-fire.org/nert-calendar
+
+  # Renting and repairs. Details and sources are in the note "Getting repairs done when you rent in the Outer Sunset".
+  - name: Getting a landlord to make repairs
+    what: 'the usual ladder for a renter: a dated letter listing what needs fixing, a second letter, then a city housing inspector, then a Rent Board petition for lower rent. A tenant counselor can say what fits your case.'
+    url: https://www.sf.gov/speak-rent-board-counselor
+    answers: [how do I get my super to take care of things in the building, my landlord won't fix things, how do I get my landlord to make repairs, the building is falling apart, who do I call about my landlord]
+    how_to_use: Write to the landlord and keep a copy. If nothing happens, call the Rent Board counseling line, 415-252-4600, or the Housing Rights Committee, 415-703-8644, before the next step. If other units have the same problems, write together.
+    source: https://www.sf.gov/speak-rent-board-counselor
+
+  - name: City housing complaint (DBI Housing Inspection Services)
+    what: a complaint about living conditions in a rental. The city says an inspector investigates within 72 hours and can issue a Notice of Violation. It can be anonymous; records are public.
+    url: https://www.sf.gov/report-building-problem
+    answers: [my landlord won't fix the heat, how do I report my landlord to the city, who do I call about no hot water, how do I get a housing inspector, how do I file a complaint about my apartment]
+    how_to_use: File online, call 311, or call 628-652-3700 with questions. If the unit may be an in-law without permits, talk to a tenant counselor first; an inspector can cite the unit itself.
+    source: https://www.sf.gov/get-help-reporting-substandard-living-conditions
+
+  - name: SF Rent Board counseling line
+    what: free phone and drop-in counseling on rent control, repairs petitions and evictions, in English, Spanish, Cantonese and Mandarin. Not legal advice.
+    url: https://www.sf.gov/speak-rent-board-counselor
+    answers: [is my place rent controlled, can I get my rent lowered because of repairs, who can I ask about my rights as a tenant, what is the Rent Board phone number]
+    how_to_use: Call 415-252-4600, Monday to Friday 9 AM to noon and 1 to 4 PM, or drop in at 25 Van Ness Ave, Suite 700, weekdays 9 AM to 4 PM. Write your questions down first.
+    source: https://www.sf.gov/speak-rent-board-counselor
+
+  - name: Rent reduction when repairs are not made
+    what: the Rent Board's decrease in housing services petition (Form 516A) for rent-controlled tenants. No filing fee. The Rent Board can lower rent but cannot order repairs.
+    url: https://www.sf.gov/request-rent-reduction-decreased-housing-services
+    answers: [can I pay less rent if my landlord won't fix things, what is a decrease in services petition, my landlord took away parking or laundry, can I get a rent reduction for no heat]
+    how_to_use: Fill out Form 516A, list each lost service and the dates you told the landlord, and send it with evidence to the Rent Board.
+    source: https://www.sf.gov/request-rent-reduction-decreased-housing-services
+
+  - name: Housing Rights Committee tenant counseling
+    what: free tenant counseling. The city's assigned code enforcement outreach partner for Sunset addresses; helps write to the landlord and acts as a go-between with inspectors. Rent control not required.
+    url: https://hrcsf.org/tenant-counseling-services
+    answers: [who can help me get my landlord to make repairs, I live in an in-law without permits and need repairs, is there a tenant counselor, who helps tenants organize a building]
+    how_to_use: Call 415-703-8644 and leave a message, or go to 11 Grove St, Monday to Thursday 1 to 5 PM.
+    source: https://www.sf.gov/code-enforcement-outreach-program
+
+  - name: A building's complaint and permit history
+    what: the city's Permit and Complaint Tracking System, where any address shows past complaints, Notices of Violation and permits
+    url: https://dbiweb02.sfgov.org/dbipts/
+    answers: [has my building had complaints before, how do I check permits on a house, how do I track my housing complaint]
+    how_to_use: Search by street address or complaint number.
+    source: https://www.sf.gov/report-building-problem
+
+  - name: Mediation with a neighbor or a landlord who lives nearby
+    what: Community Boards, voluntary and confidential mediation with trained volunteers. Mediation is free; there is a case opening fee on a sliding scale that can be waived.
+    url: https://communityboards.org/resolution-services/neighborhood/
+    answers: [my landlord lives upstairs and I don't want a fight, is there mediation with a landlord, I have a dispute with a neighbor, is there free mediation]
+    how_to_use: Call 415-920-3820 for a first conversation. Staff contact the other person.
+    source: https://communityboards.org/about/faq/

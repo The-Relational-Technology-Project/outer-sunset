@@ -55,7 +55,7 @@ The city's facilities and assets datasets record what is in each park.
 - Stern Grove and Pine Lake: the concert meadow, picnic areas, a croquet lawn, a dog play area in each, the lake, 24 benches and 18 tables.
 - Golden Gate Park's westernmost section: picnic areas at the Chain of Lakes and the Beach Chalet, 58 benches, 26 tables.
 
-Sources: [DataSF, Recreation and Parks Facilities](https://data.sf.gov/resource/ib5c-xgwu.json?$select=property_name,facility_type,facility_name&$where=property_name%20in(%27West%20Sunset%20Playground%27,%27McCoppin%20Square%27,%27Pine%20Lake%20Park%27)), [DataSF, Assets Maintained by the Recreation and Parks Department](https://data.sf.gov/resource/e3jj-mbb3.json?$select=property_id,asset_type,count(*)&$where=asset_type%20in(%27Bench%27,%27Table%27)&$group=property_id,asset_type&$limit=2000), [SF Recreation and Parks, McCoppin Square](https://www.sfrecpark.org/513/McCoppin-Square), [7x7, The Complete Guide to 153 San Francisco Public Parks (2019)](https://7x7.com/san-francisco-public-parks-guide-2457471146/sunset-parkside-lake-merced).
+Sources: [DataSF, Recreation and Parks Facilities](https://data.sf.gov/resource/ib5c-xgwu.json?$select=property_name,facility_type,facility_name&$where=property_name%20in%28%27West%20Sunset%20Playground%27,%27McCoppin%20Square%27,%27Pine%20Lake%20Park%27%29), [DataSF, Assets Maintained by the Recreation and Parks Department](https://data.sf.gov/resource/e3jj-mbb3.json?$select=property_id,asset_type,count%28*%29&$where=asset_type%20in%28%27Bench%27,%27Table%27%29&$group=property_id,asset_type&$limit=2000), [SF Recreation and Parks, McCoppin Square](https://www.sfrecpark.org/513/McCoppin-Square), [7x7, The Complete Guide to 153 San Francisco Public Parks (2019)](https://7x7.com/san-francisco-public-parks-guide-2457471146/sunset-parkside-lake-merced).
 
 ## Hammocks and seats already built at Sunset Dunes, and exactly where
 
@@ -74,12 +74,12 @@ No published list ranks reading spots in the Outer Sunset, so this section stick
 - McCoppin Square, 24th Avenue and Taraval: the park's page describes a contemplative garden with seating and wooded paths. The Parkside library is on the same block.
 - Pine Lake Park, Sloat and Vale: Recreation and Parks says it "sits in an elongated valley with steep, forested slopes," with a trail around the lake.
 - Sunset Boulevard: the east side of the tree belt has thousands of mature cypress and pine between you and the sea.
-- Golden Gate Park: the department says the park's gardens, groves and lakes offer spots for quiet reading. The Chain of Lakes and the tulip garden are the nearest.
+- Golden Gate Park: the department says its gardens, groves and lakes offer spots for quiet reading. The Chain of Lakes is nearest.
 - San Francisco Botanical Garden: its guide points to "tucked away benches" in the Temperate Asia collection.
 
 Sunset Dunes has the most seats, but they are in the open.
 
-Sources: [SF Recreation and Parks, McCoppin Square](https://www.sfrecpark.org/513/McCoppin-Square), [SF Recreation and Parks, Pine Lake Park](https://sfrecpark.org/facilities/facility/details/pinelakepark-197), [SF Recreation and Parks, Gardens, Groves and Lakes](https://sfrecpark.org/777/Gardens-Groves-and-Lakes), [Gardens of Golden Gate Park, San Francisco Botanical Garden](https://gggp.org/san-francisco-botanical-garden/), [DataSF, Street Tree Inventory, Sunset Boulevard](https://data.sf.gov/resource/tkzw-k3nq.json?$select=species,count(*)&$where=upper(onstreet)=%27SUNSET%20BLVD%27&$group=species&$order=count(*)%20DESC).
+Sources: [SF Recreation and Parks, McCoppin Square](https://www.sfrecpark.org/513/McCoppin-Square), [SF Recreation and Parks, Pine Lake Park](https://sfrecpark.org/facilities/facility/details/pinelakepark-197), [SF Recreation and Parks, Gardens, Groves and Lakes](https://sfrecpark.org/777/Gardens-Groves-and-Lakes), [Gardens of Golden Gate Park, San Francisco Botanical Garden](https://gggp.org/san-francisco-botanical-garden/), [DataSF, Street Tree Inventory, Sunset Boulevard](https://data.sf.gov/resource/tkzw-k3nq.json?$select=species,count%28*%29&$where=upper%28onstreet%29=%27SUNSET%20BLVD%27&$group=species&$order=count%28*%29%20DESC).
 
 ## Best time of day to read outside in the Outer Sunset, by season
 
@@ -173,9 +173,9 @@ The biggest rows of mature trees in the Outer Sunset are on Sunset Boulevard. Th
 
 These same species fail. In January 2024 a nearly 100-foot eucalyptus uprooted in Golden Gate Park and landed on five cars. Arborist Frank Vasquez told ABC7 that eucalyptus are top-heavy with shallow roots. In October 2025 the city removed a 90-foot Monterey cypress at Hellman Hollow after its trunk split. The winter of 2023 took 140 park trees, and Stern Grove was hit hardest.
 
-Look up before you sit under any of them, and stay out of the groves in wind or after rain. Sunset Boulevard's trees belong to Public Works, not Rec and Park.
+Look up before you sit under any of them, and stay out of the groves in wind or after rain.
 
-Sources: [DataSF, Street Tree Inventory, Sunset Boulevard](https://data.sf.gov/resource/tkzw-k3nq.json?$select=species,count(*)&$where=upper(onstreet)=%27SUNSET%20BLVD%27&$group=species&$order=count(*)%20DESC), [ABC7, SF to inspect for hazards at Golden Gate Park](https://abc7news.com/post/sf-golden-gate-park-tree-fall-eucalyptus-arborist-trimming/14330788/), [SFist, Giant cypress taken down in Golden Gate Park](https://sfist.com/2025/10/30/sf-rec-parks-bids-fond-farewell-to-giant-cypress-that-had-to-be-taken-down-in-golden-gate-park), [CBS News Bay Area, Storms take toll on city park trees](https://www.cbsnews.com/sanfrancisco/news/january-23-storms-take-toll-on-sf-city-park-trees-golden-gate-stern-grove), [SF Recreation and Parks, Pine Lake Park](https://sfrecpark.org/facilities/facility/details/pinelakepark-197).
+Sources: [DataSF, Street Tree Inventory, Sunset Boulevard](https://data.sf.gov/resource/tkzw-k3nq.json?$select=species,count%28*%29&$where=upper%28onstreet%29=%27SUNSET%20BLVD%27&$group=species&$order=count%28*%29%20DESC), [ABC7, SF to inspect for hazards at Golden Gate Park](https://abc7news.com/post/sf-golden-gate-park-tree-fall-eucalyptus-arborist-trimming/14330788/), [SFist, Giant cypress taken down in Golden Gate Park](https://sfist.com/2025/10/30/sf-rec-parks-bids-fond-farewell-to-giant-cypress-that-had-to-be-taken-down-in-golden-gate-park), [CBS News Bay Area, Storms take toll on city park trees](https://www.cbsnews.com/sanfrancisco/news/january-23-storms-take-toll-on-sf-city-park-trees-golden-gate-stern-grove), [SF Recreation and Parks, Pine Lake Park](https://sfrecpark.org/facilities/facility/details/pinelakepark-197).
 
 ## Restrooms, water, wheelchair access and dog rules in Outer Sunset parks
 

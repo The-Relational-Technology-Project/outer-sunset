@@ -118,3 +118,34 @@ orgs:
     reach: https://sf-fire.org/NERT
     topics: [emergency preparedness, earthquake readiness, neighbor-to-neighbor response, disaster training]
     source: https://www.sf-fire.org/nert-calendar
+
+  # Renting and repairs. Public lines, read Nov 17, 2026.
+  - name: San Francisco Rent Board
+    role: city agency that runs rent control; free counseling (415-252-4600), tenant petitions for rent reductions, and mediation
+    reach: https://www.sf.gov/speak-rent-board-counselor
+    topics: [renting, rent control, repairs, petitions, evictions, mediation]
+    source: https://www.sf.gov/tenant-petitions
+
+  - name: Housing Rights Committee of San Francisco
+    role: tenant counseling nonprofit; the city's code enforcement outreach partner for the Sunset; may help tenants in a building organize (415-703-8644)
+    reach: https://hrcsf.org/tenant-counseling-services
+    topics: [renting, repairs, in-law units, tenant organizing, tenant counseling]
+    source: https://www.sf.gov/code-enforcement-outreach-program
+
+  - name: San Francisco Tenants Union
+    role: volunteer-run tenant counseling clinic (drop-in at 558 Capp St; hours change weekly) and publisher of the Tenants' Rights Handbook
+    reach: https://sftu.org/drop-in-clinic/
+    topics: [renting, repairs, rent control, tenant organizing]
+    source: https://sftu.org/schedule/
+
+  - name: Open Door Legal (Sunset office)
+    role: legal aid nonprofit with an office at 1722 Irving St; housing is one of its practice areas
+    reach: https://opendoorlegal.org/contact
+    topics: [legal aid, renting, housing]
+    source: https://www.sf.gov/information--rent-board-referral-listing
+
+  - name: Community Boards
+    role: neighborhood mediation, citywide since 1976 (415-920-3820)
+    reach: https://communityboards.org/resolution-services/neighborhood/
+    topics: [mediation, neighbor disputes, landlord disputes]
+    source: https://communityboards.org/about/faq/
