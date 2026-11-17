@@ -6,7 +6,7 @@ places:
   - name: Black Bird Bookstore
     address: Irving St near 46th Ave
     what: bookstore and cafe; the corkboard outside is where walking-group flyers go
-    url: https://www.blackbirdbooks.com/
+    url: https://blackbirdsf.com/
     hours: null
     hours_source: null
     last_verified: null
@@ -41,16 +41,16 @@ places:
 
   - name: Far Out West Community Garden
     address: Judah St between 43rd and 44th Ave
-    what: community garden, film series, neighbor coffee hangouts
+    what: community garden, film series, and Coffee in the Garden on the first Saturday of each month, 10 to 11 am, bring your own coffee, no RSVP (the garden's calendar, read Nov 17, 2026; it ran every month February through November 2026)
     url: https://faroutwestcommunity.org/
     hours: null
     hours_source: null
-    last_verified: 2026-11-06
-    tags: [garden, volunteering, gathering]
+    last_verified: 2026-11-17
+    tags: [garden, volunteering, gathering, coffee, meeting neighbors]
 
   - name: Ortega Branch Library
     address: 3223 Ortega St
-    what: public library; kids' programs, STEM afternoons
+    what: public library on the West Sunset Playground block; kids' programs, STEM afternoons. Public Works describes an adjacent outdoor terrace and a view of the Pacific.
     url: https://sfpl.org/locations/ortega
     hours: null
     hours_source: null
@@ -77,9 +77,128 @@ places:
 
   - name: Sunset Dunes
     address: the old Great Highway, Lincoln Way to Sloat Blvd
-    what: the park; events need a Rec and Park permit
+    what: the park; events need a Rec and Park permit. Rec and Park's July 2025 map shows public hammocks beside a seating area just north of Taraval, log benches at Judah and Noriega, and Surf Perch Seating at Pacheco; pieces may have moved since.
     url: https://sfrecpark.org/
     hours: null
     hours_source: null
     last_verified: null
-    tags: [park, dunes, walking, biking]
+    tags: [park, dunes, walking, biking, hammocks, seating, reading]
+
+  # Parks and places to read. Sizes and features are from the city's parks data and park pages, read Nov 17, 2026. More in the note on parks, reading spots and hammock trees.
+  - name: West Sunset Playground
+    address: 3223 Ortega St (same block as the Ortega library)
+    what: 17.8-acre park; ball and soccer fields, courts, play area, picnic area, benches
+    url: https://sfrecpark.org/
+    hours: null
+    hours_source: null
+    last_verified: null
+    tags: [park, playground, fields, picnic, benches]
+
+  - name: South Sunset Playground
+    address: 2601 40th Ave, near Vicente St
+    what: 4.1-acre park; ball field, basketball, tennis and volleyball courts, play area, picnic area, clubhouse
+    url: https://sfrecpark.org/Facilities/Facility/Details/South-Sunset-Playground-274
+    hours: null
+    hours_source: null
+    last_verified: null
+    tags: [park, playground, courts, picnic]
+
+  - name: McCoppin Square
+    address: 22nd to 24th Ave between Santiago and Taraval St
+    what: park with wooded walking paths, a contemplative garden with seating, ball field, courts, play areas, restroom; the Parkside library is on the block
+    url: https://www.sfrecpark.org/513/McCoppin-Square
+    hours: null
+    hours_source: null
+    last_verified: 2026-11-17
+    tags: [park, reading, garden, playground, restroom]
+
+  - name: Parkside Square
+    address: 28th Ave at Vicente St
+    what: 8.9-acre park; ball field, tennis, pickleball and basketball courts, play area, picnic area, restroom, benches
+    url: https://sfrecpark.org/
+    hours: null
+    hours_source: null
+    last_verified: null
+    tags: [park, playground, courts, picnic, restroom]
+
+  - name: Pine Lake Park
+    address: Sloat Blvd at Vale St
+    what: 30.8-acre valley park with a natural lake, a loop trail, eucalyptus, picnic area, restrooms and a dog play area; joins Stern Grove
+    url: https://sfrecpark.org/facilities/facility/details/pinelakepark-197
+    hours: null
+    hours_source: null
+    last_verified: 2026-11-17
+    tags: [park, lake, trail, dogs, birds, picnic]
+
+  - name: Sigmund Stern Recreation Grove
+    address: 19th Ave at Sloat Blvd
+    what: 34.8-acre eucalyptus grove; concert meadow, picnic areas, croquet lawn, dog play area, restrooms
+    url: https://sfrecpark.org/
+    hours: null
+    hours_source: null
+    last_verified: null
+    tags: [park, grove, concerts, picnic, dogs]
+
+  - name: Sunset Boulevard greenbelt
+    address: Sunset Blvd, Lincoln Way to Lake Merced (between 36th and 37th Ave)
+    what: two-mile strip of lawn and mature Monterey cypress and pine; 3,515 trees in the city's street tree inventory
+    url: https://data.sf.gov/d/tkzw-k3nq
+    hours: null
+    hours_source: null
+    last_verified: null
+    tags: [greenbelt, trees, walking, cypress]
+
+  - name: San Francisco Botanical Garden
+    address: 1199 9th Ave, in Golden Gate Park (Inner Sunset)
+    what: free for San Francisco residents with proof of address; benches and a picnic meadow; no dogs, no sports gear, no tree climbing
+    url: https://gggp.org/san-francisco-botanical-garden/
+    hours: null
+    hours_source: null
+    last_verified: 2026-11-17
+    tags: [garden, reading, benches, free, picnic]
+
+  - name: Parkside Branch Library
+    address: 1200 Taraval St, at McCoppin Square
+    what: public library next to McCoppin Square's garden and playground
+    url: https://sfpl.org/locations/parkside
+    hours: null
+    hours_source: null
+    last_verified: 2026-11-17
+    tags: [library, books, free, reading]
+
+  # Karaoke. Nights and times come from each place's own calendar, read on the date given. They move, so the calendar is the last word.
+  - name: The Riptide
+    address: 3639 Taraval St near 47th Ave
+    what: neighborhood bar with live music and no cover. Its own calendar lists karaoke every Tuesday, 8:30 to 11:30 pm ("Eileen's Punk Rock and Schlock Karaoke"), read Nov 17, 2026. The start time has moved during the year, so check the calendar. The only public karaoke night confirmed in the Outer Sunset.
+    url: https://www.riptidesf.com/
+    hours: Mon-Sat 3 PM - 2 AM, Sun 1 PM - 12 AM
+    hours_source: https://www.riptidesf.com/
+    last_verified: 2026-11-17
+    tags: [karaoke, bar, live music, singing, night out]
+
+  - name: South Sunset Senior Center (Self-Help for the Elderly)
+    address: 2601 40th Ave at Vicente St
+    what: senior center in the renovated clubhouse; its November 2026 calendar says it reopened there Nov 2 and lists karaoke Tuesdays and Thursdays, 1:00 to 2:30 pm (closed Nov 26 and 27). The calendar does not say who may join; ask the center coordinator at (628) 278-7277.
+    url: https://www.selfhelpelderly.org/locations
+    hours: null
+    hours_source: https://www.selfhelpelderly.org/wp-content/uploads/calendars/south-sunset.pdf
+    last_verified: 2026-11-17
+    tags: [karaoke, seniors, singing, daytime, mahjong]
+
+  - name: West Portal Clubhouse (Self-Help for the Elderly)
+    address: 131 Lenox Way (West Portal)
+    what: senior center. Its November 2026 calendar lists midday karaoke several days a week; the exact days and times were hard to read, so call the center coordinator at (415) 650-9796 before going.
+    url: https://www.selfhelpelderly.org/locations
+    hours: null
+    hours_source: https://www.selfhelpelderly.org/wp-content/uploads/calendars/west-portal.pdf
+    last_verified: 2026-11-17
+    tags: [karaoke, seniors, singing, daytime, west portal]
+
+  - name: The Temple Bar
+    address: 834 Irving St (Inner Sunset)
+    what: Irish pub. Its site names karaoke among its regular nights but posts no current date; the last karaoke listing found was a Monday night in June 2026. Ask before going.
+    url: https://templebarsf.com/
+    hours: null
+    hours_source: null
+    last_verified: 2026-11-17
+    tags: [karaoke, bar, trivia, inner sunset]
