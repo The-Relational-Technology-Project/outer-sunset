@@ -85,7 +85,7 @@ resources:
     what: SFMTA's list of which holidays street sweeping, meters, and other parking rules are enforced
     url: https://www.sfmta.com/getting-around/drive-park/holiday-enforcement-schedule
     answers: [is there street cleaning on a holiday, do I have to move my car on a holiday, are meters free today]
-    how_to_use: Find the holiday in the table. Not every holiday is a day off for street sweeping.
+    how_to_use: Find the holiday in the table. Street sweeping is enforced on most holidays. In 2026 and on January 1, 2027, the only days off are New Year's Day, Thanksgiving Day, and Christmas Day.
     source: https://www.sfmta.com/getting-around/drive-park/holiday-enforcement-schedule
 
   - name: A car blocking a driveway

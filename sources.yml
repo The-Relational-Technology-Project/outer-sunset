@@ -218,6 +218,8 @@ sources:
     config:
       domain: data.sf.gov
       dataset: yhqp-riqs
+      # Which holidays are days off. From SFMTA's holiday enforcement schedule, read Nov 18, 2026; check it once a year.
+      holiday_note: "Holidays: street cleaning is enforced on most city holidays. The only days off are New Year's Day, Thanksgiving Day, and Christmas Day (SFMTA holiday enforcement schedule, https://www.sfmta.com/getting-around/drive-park/holiday-enforcement-schedule). The day after Thanksgiving, MLK Day, Presidents' Day, Memorial Day, Juneteenth, Independence Day, Labor Day, Indigenous Peoples' Day, and Veterans Day are all enforced."
 
   - id: hoodline
     name: Hoodline
