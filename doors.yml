@@ -86,3 +86,20 @@ doors:
     url: https://sunsetsocialclub.org
     ok_to_point: yes
     confirmed: 2026-11-09, a steward of the club; public site
+
+  - group: Coffee in the Garden
+    moments: [new-to-neighborhood]
+    what: Neighbors with their own coffee at Far Out West Community Garden, Judah between 43rd and 44th, the first Saturday of each month, 10 to 11 am.
+    how_to_join: Bring a coffee and show up. No RSVP.
+    url: https://www.faroutwestcommunity.org/garden-community
+    ok_to_point: yes
+    confirmed: 2026-11-17, public listing on the garden's site
+
+  - group: Outer Sunset Neighbors
+    moments: [new-to-neighborhood]
+    what: Neighbors working on safer streets, trees, and Sunset Dunes, with a monthly meeting and a third-Thursday happy hour at a local bar.
+    how_to_join: See the next gathering at sunsetneighbors.org.
+    url: https://sunsetneighbors.org/
+    ok_to_point: yes
+    confirmed: 2026-11-17, public site and calendar
+
