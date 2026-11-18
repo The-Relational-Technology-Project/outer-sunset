@@ -11,6 +11,7 @@ The code that runs the agent lives in a separate repo, [neighborhood-agent](http
 | Path | What it is | Who edits it |
 | --- | --- | --- |
 | `place.md` | The agent's standing instructions for this place: name, boundaries, voice, what it cares about | Stewards |
+| `welcome.md` | How Knowy welcomes someone who just moved in: the spirit, the groups to name first, the one invitation to make | Stewards |
 | `STEWARDS.md` | Who governs this, how decisions get made, how PRs get reviewed | Stewards |
 | `constituents/` | One file per more-than-human neighbor (ocean, dunes, plovers, coyotes): what it is, which feeds speak for it, which humans advocate for it | Stewards, advocates |
 | `sources.yml` | Every data source the agent reads: url, type, refresh cadence, license note. If it isn't listed here, the agent doesn't read it | Stewards |

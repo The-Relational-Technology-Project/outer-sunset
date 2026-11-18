@@ -1,6 +1,6 @@
 # Businesses and spots. Hours only with a source and a date; otherwise leave them out and the agent says it doesn't know.
 #
-# Fields: name, address, what, url, hours, hours_source, last_verified, tags
+# Fields: name, address, near (optional: a corner or block in plain words, when the address alone doesn't say where it is; lets Knowy say how far it is from a neighbor's block), what, url, hours, hours_source, last_verified, tags
 
 places:
   - name: Black Bird Bookstore
@@ -32,6 +32,7 @@ places:
 
   - name: Sunset Village Music Hall
     address: 4114 Judah St
+    near: Judah St between 46th and 47th Ave
     what: classes, kids' programs, shows; many sunsetboard.org listings happen here
     url: https://sunsetboard.org
     hours: null
@@ -50,6 +51,7 @@ places:
 
   - name: Ortega Branch Library
     address: 3223 Ortega St
+    near: 39th Ave and Ortega
     what: public library on the West Sunset Playground block; kids' programs, STEM afternoons. Public Works describes an adjacent outdoor terrace and a view of the Pacific.
     url: https://sfpl.org/locations/ortega
     hours: null
@@ -59,6 +61,7 @@ places:
 
   - name: Episcopal Church of the Incarnation
     address: 1750 29th Ave
+    near: 29th Ave between Moraga and Noriega
     what: church; hosts bazaars and community events
     url: https://incarnationsf.org/events
     hours: null
@@ -68,6 +71,7 @@ places:
 
   - name: Ocean Beach
     address: the whole western edge
+    near: Great Hwy and Noriega
     what: the beach. Fire rings between Stairwells 15 and 20; plover protection area to the south
     url: https://www.nps.gov/goga/planyourvisit/oceanbeach.htm
     hours: null
@@ -87,6 +91,7 @@ places:
   # Parks and places to read. Sizes and features are from the city's parks data and park pages, read Nov 17, 2026. More in the note on parks, reading spots and hammock trees.
   - name: West Sunset Playground
     address: 3223 Ortega St (same block as the Ortega library)
+    near: 39th Ave and Ortega
     what: 17.8-acre park; ball and soccer fields, courts, play area, picnic area, benches
     url: https://sfrecpark.org/
     hours: null
@@ -159,6 +164,7 @@ places:
 
   - name: Parkside Branch Library
     address: 1200 Taraval St, at McCoppin Square
+    near: 22nd Ave and Taraval
     what: public library next to McCoppin Square's garden and playground
     url: https://sfpl.org/locations/parkside
     hours: null
